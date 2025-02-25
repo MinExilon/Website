@@ -1,0 +1,5 @@
+{
+    "name": "MinExilon Website",
+    "context": "..",
+    "dockerFile": "../Dockerfile"
+}

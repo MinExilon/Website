@@ -1,0 +1,117 @@
+site_name: MinExilon
+site_url: http://beta.minexilon.com/
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.blocks.html
+theme:
+  name: material
+  language: es
+  custom_dir: overrides
+  logo: assets/logo_minexilon_cube.png
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Cambia al modo oscuro
+      primary: orange
+      accent: pink
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Cambia al modo claro
+      primary: orange
+      accent: pink
+  features:
+    - navigation.top
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - toc.follow
+    - announce.dismiss
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+plugins:
+  - search
+  - blog:
+      blog_toc: true
+      archive_date_format: MMMM yyyy
+      categories_allowed:
+        - Novedades
+        - Eventos
+        - Festividades
+        - Temporadas
+        - Ciudades
+        - Tutoriales
+      authors_profiles: true
+      pagination_per_page: 5
+      archive_pagination_per_page: 10
+      categories_pagination_per_page: 10
+  - tags
+  - meta
+nav:
+  - Inicio: index.md
+  - Blog:
+    - blog/index.md
+  - Wiki:
+    - wiki/index.md
+    - Introductorios:
+        - Cómo empezar: wiki/basico/como-empezar.md
+        - Rangos del servidor: wiki/basico/rangos.md
+    - Ciudades:
+        - Comandos: wiki/ciudades/ciudades.md
+        - Buen Alcalde: wiki/ciudades/buen-alcalde.md
+        - Desahucios: wiki/ciudades/desahucios.md
+  - Normativa: normativa.md
+  - Mapa: https://mapa.minexilon.com/
+  - Tienda: https://store.minexilon.com/
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/fxEqfnT
+      name: Servidor de Discord
+    - icon: fontawesome/brands/twitch
+      link: https://www.twitch.tv/minexilon
+      name: Canal de Twitch
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCRhbX5mSyo_zLm2GQS4Rpqw
+      name: Canal de YouTube
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/minexilon_server/
+      name: Perfil de Instagram
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/minexilon
+      name: Perfil de Twitter
+  status:
+    new: Actualizado
+    deprecated: Obsoleto
+  consent:
+    title: Consentimiento de galletas (cookies)
+    description: >- 
+      Usamos cookies para reconocer tus visitas y preferencias,
+      así como para medir la efectividad de la página y si los
+      usuarios encuentran lo que buscan.
+      Con tu consentimiento, nos ayudas a mejorar la página.
+    actions:
+      - accept
+      - manage
+      - reject
+  generator: false
+copyright: Copyright &copy; 2018 - 2025 MinExilon
