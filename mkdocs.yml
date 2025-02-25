@@ -1,5 +1,5 @@
 site_name: MinExilon
-site_url: http://beta.minexilon.com/
+site_url: https://beta.minexilon.com/
 markdown_extensions:
   - admonition
   - pymdownx.details
