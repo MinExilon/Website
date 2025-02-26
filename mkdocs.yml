@@ -23,18 +23,20 @@ theme:
   language: es
   custom_dir: overrides
   logo: assets/logo_minexilon_cube.png
+  font:
+    text: Saira
   palette:
     - scheme: default
       toggle:
-        icon: material/brightness-7
+        icon: material/minecraft
         name: Cambia al modo oscuro
-      primary: orange
+      primary: custom
       accent: pink
     - scheme: slate
       toggle:
-        icon: material/brightness-4
+        icon: material/cube
         name: Cambia al modo claro
-      primary: orange
+      primary: custom
       accent: pink
   features:
     - navigation.top
