@@ -23,6 +23,7 @@ theme:
   language: es
   custom_dir: overrides
   logo: assets/logo_minexilon_cube.png
+  favicon: assets/logo_minexilon_favicon.ico
   font:
     text: Saira
   palette:

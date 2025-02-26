@@ -53,9 +53,9 @@ body {
 /* Image background */
 
 body:has([href="."]) .md-main {
-  background-image: url(https://png.pngtree.com/png-clipart/20240716/original/pngtree-minecraft-game-and-water-png-image_15568011.png);
+  background-image: url(../assets/background.png);
   background-position: center;
   background-position-y: top;
   background-repeat: no-repeat;
-  background-size: 1000px 400px;
+  background-size: auto 460px;
 }
