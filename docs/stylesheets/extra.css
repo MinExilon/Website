@@ -1,12 +1,39 @@
+/* Header configuration */
+
+/* Main logo display */
+
 .md-header__button.md-logo {
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 10px;
-  padding-bottom: 0;
+  padding-bottom: 10px;
 }
 
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
   height: 70%;
   width: 100%;
+}
+
+/* Nav tabs position */
+
+.md-tabs {
+  position: fixed;
+  left: 139px;
+  margin-top: -55px;
+  background-color: transparent;
+  z-index: 0;
+}
+
+@media (max-width: 1999px) {
+  .md-tabs {
+    left: 136px;
+  }
+}
+
+@media (max-width: 1599px) {
+  .md-tabs {
+      left: 133px;
+      margin-top: -50px;
+  }
 }
