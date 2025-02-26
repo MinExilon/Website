@@ -1,7 +1,3 @@
-html, body {
-  overflow-x: hidden;
-}
-
 /* Header configuration */
 
 /* Main logo display */
@@ -21,11 +17,16 @@ html, body {
 
 /* Nav tabs position */
 
+.md-header {
+  overflow: hidden;
+}
+
 .md-tabs {
   position: relative;
   left: 138px;
   margin-top: -55px;
   background-color: transparent;
+  width: available;
 }
 
 @media (max-width: 1999px) {
