@@ -1,6 +1,6 @@
 /* Custom colors */
 
-:root  > * {
+body {
   --md-primary-fg-color:        #ff8400;
   --md-primary-fg-color--light: #ff8400;
   --md-primary-fg-color--dark:  #ff6c00;
@@ -52,7 +52,7 @@
 
 /* Image background */
 
-:root:has([href="."]) .md-main {
+body:has([href="."]) .md-main {
   background-image: url(https://png.pngtree.com/png-clipart/20240716/original/pngtree-minecraft-game-and-water-png-image_15568011.png);
   background-position: center;
   background-position-y: top;
