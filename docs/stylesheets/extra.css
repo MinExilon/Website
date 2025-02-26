@@ -18,11 +18,10 @@
 /* Nav tabs position */
 
 .md-tabs {
-  position: fixed;
-  left: 139px;
+  position: relative;
+  left: 138px;
   margin-top: -55px;
   background-color: transparent;
-  z-index: 0;
 }
 
 @media (max-width: 1999px) {
