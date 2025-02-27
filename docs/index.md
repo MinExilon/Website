@@ -29,14 +29,6 @@ hide:
 
     Progresa en los 30 rangos de veteranía.
 
--   :fontawesome-solid-trophy:{ .lg .middle } __Eventos__
-
-    Organizados por la comunidad y el servidor.
-
--   :fontawesome-solid-wheat-awn:{ .lg .middle } __mcMMO__
-
-    Mejora tus habilidades en distintas facetas.
-
 -   :fontawesome-solid-book:{ .lg .middle } __Misiones__
 
     Acepta grandes retos para avanzar en el juego.
@@ -49,9 +41,17 @@ hide:
 
     Recetas y objetos modificados.
 
+-   :fontawesome-solid-money-bill-trend-up:{ .lg .middle } __Economía__
+
+    Tiendas rotativas, de usuarios y subastas.
+
 -   :fontawesome-solid-mug-saucer:{ .lg .middle } __Brewery__
 
     Bebidas alcohólicas personalizadas.
+
+-   :fontawesome-solid-trophy:{ .lg .middle } __Eventos__
+
+    Organizados por la comunidad y el servidor.
 
 </div>
 
