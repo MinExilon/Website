@@ -43,7 +43,6 @@ Entiende que, cualquier situación fuera de los límites de estas normas, queda 
 
     ---
 
-    !!! danger "Quizás se retire o modifique en la futura actualización"
     En mundo Exilon no se permite grifear parcelas de usuarios, ciudades caídas o claimearlas.
 
 -   :fontawesome-solid-square-xmark:{ .lg .middle } &nbsp; __1.5 - Uso de los privates__ (privatizados)
@@ -145,7 +144,7 @@ Sólo se permiten los mods listados a continuación.
 
     - Están prohibidos los sistemas de redstone que controlen a los Alloys.
 
--   :fontawesome-solid-skull:{ .lg .middle } &nbsp; __2.4 - Granjas de spawn natural__
+-   :fontawesome-solid-skull:{ .lg .middle } &nbsp; __3.4 - Granjas de spawn natural__
 
     ---
 
