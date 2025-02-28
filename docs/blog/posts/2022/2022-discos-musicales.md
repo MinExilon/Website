@@ -28,17 +28,17 @@ Como se ha comentado en el post de la actualización a la 1.19, se han organizad
 
 | | | | |
 | :---: | :---: | :---: | :---: |
-| ![Carátula clásica](https://minexilon.com/wp-content/uploads/minexilon_discos_musica_clasica.png) <br> Clásica | ![Carátula jazz](https://minexilon.com/wp-content/uploads/minexilon_discos_jazz.png) <br> Jazz | ![Carátula country](https://minexilon.com/wp-content/uploads/minexilon_discos_country.png) <br> Country | ![Carátula soul](https://minexilon.com/wp-content/uploads/minexilon_discos_soul.png) <br> Soul |
-| ![Carátula k-pop](https://minexilon.com/wp-content/uploads/minexilon_discos_k_pop.png) <br> K-Pop | ![Carátula electrónica](https://minexilon.com/wp-content/uploads/minexilon_discos_electronica.png) <br> Electrónica | ![Carátula disco](https://minexilon.com/wp-content/uploads/minexilon_discos_disco.png) <br> Disco | ![Carátula latino](https://minexilon.com/wp-content/uploads/minexilon_discos_reggaeton.png) <br> Latino |
-| ![Carátula pop](https://minexilon.com/wp-content/uploads/minexilon_discos_pop.png) <br> Pop | ![Carátula rap](https://minexilon.com/wp-content/uploads/minexilon_discos_rap.png) <br> Rap | ![Carátula rock](https://minexilon.com/wp-content/uploads/minexilon_discos_rock.png) <br> Rock | ![Carátula metal](https://minexilon.com/wp-content/uploads/minexilon_discos_metal.png) <br> Metal |
-| ![Carátula ost](https://minexilon.com/wp-content/uploads/minexilon_discos_series_peliculas.png) <br> OST | ![Carátula memes](https://minexilon.com/wp-content/uploads/minexilon_discos_memes.png) <br> Memes | ![Carátula juegos](https://minexilon.com/wp-content/uploads/minexilon_discos_juegos.png) <br> Juegos | ![Carátula otros](https://minexilon.com/wp-content/uploads/minexilon_discos_otros.png) <br> Otros |
+| ![Carátula clásica](https://img.minexilon.com/blog/2022/minexilon_discos_musica_clasica.png) <br> Clásica | ![Carátula jazz](https://img.minexilon.com/blog/2022/minexilon_discos_jazz.png) <br> Jazz | ![Carátula country](https://img.minexilon.com/blog/2022/minexilon_discos_country.png) <br> Country | ![Carátula soul](https://img.minexilon.com/blog/2022/minexilon_discos_soul.png) <br> Soul |
+| ![Carátula k-pop](https://img.minexilon.com/blog/2022/minexilon_discos_k_pop.png) <br> K-Pop | ![Carátula electrónica](https://img.minexilon.com/blog/2022/minexilon_discos_electronica.png) <br> Electrónica | ![Carátula disco](https://img.minexilon.com/blog/2022/minexilon_discos_disco.png) <br> Disco | ![Carátula latino](https://img.minexilon.com/blog/2022/minexilon_discos_reggaeton.png) <br> Latino |
+| ![Carátula pop](https://img.minexilon.com/blog/2022/minexilon_discos_pop.png) <br> Pop | ![Carátula rap](https://img.minexilon.com/blog/2022/minexilon_discos_rap.png) <br> Rap | ![Carátula rock](https://img.minexilon.com/blog/2022/minexilon_discos_rock.png) <br> Rock | ![Carátula metal](https://img.minexilon.com/blog/2022/minexilon_discos_metal.png) <br> Metal |
+| ![Carátula ost](https://img.minexilon.com/blog/2022/minexilon_discos_series_peliculas.png) <br> OST | ![Carátula memes](https://img.minexilon.com/blog/2022/minexilon_discos_memes.png) <br> Memes | ![Carátula juegos](https://img.minexilon.com/blog/2022/minexilon_discos_juegos.png) <br> Juegos | ![Carátula otros](https://img.minexilon.com/blog/2022/minexilon_discos_otros.png) <br> Otros |
 
 ### Discos de Oro
 
 Algunos discos destacan más que los demás ya sea por su significado, composición u otros motivos. Es por ello que se quieren diferenciar de los demás discos de dicho género catalogándolo como disco de oro.
 
 <figure markdown="span">
-  ![Discos de Oro](https://minexilon.com/wp-content/uploads/minexilon_puesto_discos_mercnegro-1024x309.jpg){ width="100%" }
+  ![Discos de Oro](https://img.minexilon.com/blog/2022/minexilon_discos_dorados.png){ width="100%" }
 </figure>
 
 Estos discos tendrán un mayor valor y se caracterizan por tener un fondo dorado.
@@ -48,14 +48,13 @@ Estos discos tendrán un mayor valor y se caracterizan por tener un fondo dorado
 Estos discos se pueden adquirir en la discoteca ubicada en el Mercado Negro.
 
 <figure markdown="span">
-  ![Reproductor de discos](https://minexilon.com/wp-content/uploads/minexilon_discos_playlist-1024x391.jpg){ width="100%" }
-  <figcaption>Reproductor de discos</figcaption>
+  ![Reproductor de discos](https://img.minexilon.com/blog/2022/minexilon_puesto_discos_mercnegro.png){ width="100%" }
 </figure>
 
 Cada NPC te venderá los discos de un género determinado. Los discos se venden por 20 Perlas, y los dorados por 30 Perlas. Llévate las que más te gusten!
 
-![Discos normales](https://minexilon.com/wp-content/uploads/tienda_discos_normales.jpg)
-![Discos de oro](https://minexilon.com/wp-content/uploads/tienda_discos_oro.jpg)
+![Discos normales](https://img.minexilon.com/blog/2022/tienda_discos_normales.jpg)
+![Discos de oro](https://img.minexilon.com/blog/2022/tienda_discos_oro.jpg)
 
 El menú de cada NPC dispone de dos páginas como mínimo. La primera con los discos dorados y la segunda con los demás discos del género.
 
@@ -72,7 +71,7 @@ Cuando quieras parar la canción, usa de nuevo clic derecho sobre el tocadiscos 
 ### Crea una lista de reproducción
 
 <figure markdown="span">
-  ![Reproductor de discos](https://minexilon.com/wp-content/uploads/minexilon_discos_playlist-1024x391.jpg){ width="100%" }
+  ![Reproductor de discos](https://img.minexilon.com/blog/2022/minexilon_discos_playlist.jpg){ width="100%" }
   <figcaption>Reproductor de discos</figcaption>
 </figure>
 
