@@ -59,3 +59,10 @@ body:has([href="."]) .md-main {
   background-repeat: no-repeat;
   background-size: auto 600px;
 }
+
+/* Buttons */
+
+#copy-button {
+  border-radius: 10px;
+  font-size: large;
+}
