@@ -15,7 +15,7 @@ links:
 # Discos musicales personalizados
 
 <figure markdown="span">
-  ![Portada](https://blogs.microsoft.com/wp-content/uploads/prod/sites/166/2020/10/Spooky-Fall.jpg){ width="100%" }
+  ![Portada](https://img.minexilon.com/blog/2022/novedades_2022_discos.jpg){ width="100%" }
 </figure>
 
 Por fin llegan a MinExilon los discos de música personalizados! Ambienta tus fiestas con canciones conocidas dentro del minecraft y que pueden ser escuchadas por los demás sin necesidad de herramientas adicionales.
@@ -48,7 +48,7 @@ Estos discos tendrán un mayor valor y se caracterizan por tener un fondo dorado
 Estos discos se pueden adquirir en la discoteca ubicada en el Mercado Negro.
 
 <figure markdown="span">
-  ![Reproductor de discos](https://img.minexilon.com/blog/2022/minexilon_puesto_discos_mercnegro.png){ width="100%" }
+  ![Puesto discos Mercado Negro](https://img.minexilon.com/blog/2022/minexilon_puesto_discos_mercnegro.jpg){ width="100%" }
 </figure>
 
 Cada NPC te venderá los discos de un género determinado. Los discos se venden por 20 Perlas, y los dorados por 30 Perlas. Llévate las que más te gusten!
@@ -60,7 +60,7 @@ El menú de cada NPC dispone de dos páginas como mínimo. La primera con los di
 
 ### Sugerencias
 
-¿Quieres que incluyamos alguna canción? Nos puedes dejar una sugerencia en nuestro panel de soporte: https://social.minexilon.com/soporte/
+¿Quieres que incluyamos alguna canción? Nos puedes dejar una sugerencia en el servidor de Discord.
 
 ## Cómo usar los discos
 
@@ -72,7 +72,7 @@ Cuando quieras parar la canción, usa de nuevo clic derecho sobre el tocadiscos 
 
 <figure markdown="span">
   ![Reproductor de discos](https://img.minexilon.com/blog/2022/minexilon_discos_playlist.jpg){ width="100%" }
-  <figcaption>Reproductor de discos</figcaption>
+  <figcaption>Configuración del reproductor de discos</figcaption>
 </figure>
 
 Puedes crear una lista de reproducción de los discos que quieras empleando un cofre al lado del tocadiscos!
