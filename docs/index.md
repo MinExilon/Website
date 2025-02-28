@@ -56,10 +56,38 @@ title: Inicio
 
 </div>
 
-## Únete a nuestro servidor de Discord
+<br>
+
+<div class="grid" markdown>
+
+<div markdown>
+## Únete a nuestro servidor de __Discord__
 
 No te pierdas ningún anuncio o novedad de la comunidad entrando al servidor de Discord.
 
-<iframe src="https://discord.com/widget?id=165850617707757568&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[:fontawesome-brands-discord: &nbsp; Unirse a Discord](https://discord.com/invite/fxEqfnT){ .md-button .md-button--secondary }
+</div>
+
+<div markdown>
+<iframe src="https://discord.com/widget?id=165850617707757568&theme=dark" width="100%" height="350" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</div>
+
+</div>
+
+<br>
+
+<div class="grid" markdown>
+
+<div markdown>
+## Revisa nuestro canal de __YouTube__
+
+Todos los eventos y streamings que realizamos en Twitch los publicamos en nuestro canal, por lo que no dudes en visitarlo para conocernos un poco más!
+
+[:fontawesome-brands-youtube: &nbsp; Visitar el canal](https://www.youtube.com/channel/UCRhbX5mSyo_zLm2GQS4Rpqw){ .md-button .md-button--secondary }
+</div>
+
+<div markdown>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/vV4ve3wjILQ?si=iZfwsh2gsm2-bbBL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 </div>
