@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+title: Inicio
 ---
 
 #
@@ -17,39 +18,39 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-user:{ .lg .middle } __Premium y no premium__
+-   :fontawesome-solid-user:{ .lg .middle } &nbsp; __Premium y no premium__
 
     Un servidor survival para todos los usuarios.
 
--   :fontawesome-solid-city:{ .lg .middle } __Towny__
+-   :fontawesome-solid-city:{ .lg .middle } &nbsp; __Towny__
 
     Sé parte de una ciudad para construir tu hogar.
 
--   :fontawesome-solid-star:{ .lg .middle } __Sistema de rangos__
+-   :fontawesome-solid-star:{ .lg .middle } &nbsp; __Sistema de rangos__
 
     Progresa en los 30 rangos de veteranía.
 
--   :fontawesome-solid-book:{ .lg .middle } __Misiones__
+-   :fontawesome-solid-book:{ .lg .middle } &nbsp; __Misiones__
 
     Acepta grandes retos para avanzar en el juego.
 
--   :fontawesome-solid-dungeon:{ .lg .middle } __Mazmorras__
+-   :fontawesome-solid-dungeon:{ .lg .middle } &nbsp; __Mazmorras__
 
     Sitios plagados de monstruos y recompensas.
 
--   :fontawesome-solid-hammer:{ .lg .middle } __Herramientas especiales__
+-   :fontawesome-solid-hammer:{ .lg .middle } &nbsp; __Herramientas especiales__
 
     Recetas y objetos modificados.
 
--   :fontawesome-solid-money-bill-trend-up:{ .lg .middle } __Economía__
+-   :fontawesome-solid-money-bill-trend-up:{ .lg .middle } &nbsp; __Economía dinámica__
 
     Tiendas rotativas, de usuarios y subastas.
 
--   :fontawesome-solid-mug-saucer:{ .lg .middle } __Brewery__
+-   :fontawesome-solid-mug-saucer:{ .lg .middle } &nbsp; __Brewery__
 
     Bebidas alcohólicas personalizadas.
 
--   :fontawesome-solid-trophy:{ .lg .middle } __Eventos__
+-   :fontawesome-solid-trophy:{ .lg .middle } &nbsp; __Eventos__
 
     Organizados por la comunidad y el servidor.
 

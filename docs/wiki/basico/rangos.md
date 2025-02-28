@@ -8,7 +8,7 @@ En el servidor existen tres grupos de rangos:
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-people-group:{ .lg .middle } __Staff__
+-   :fontawesome-solid-people-group:{ .lg .middle } &nbsp; __Staff__
 
     ---
 
@@ -16,7 +16,7 @@ En el servidor existen tres grupos de rangos:
 
     [:octicons-arrow-right-24: Conoce al equipo](#)
 
--   :fontawesome-solid-star:{ .lg .middle } __VIP__
+-   :fontawesome-solid-star:{ .lg .middle } &nbsp; __VIP__
 
     ---
 
@@ -24,7 +24,7 @@ En el servidor existen tres grupos de rangos:
 
     [:octicons-arrow-right-24: Conoce a los miembros honorables](#)
 
--   :fontawesome-solid-shield-cat:{ .lg .middle } __Veteranía__
+-   :fontawesome-solid-shield-cat:{ .lg .middle } &nbsp; __Veteranía__
 
     ---
 
