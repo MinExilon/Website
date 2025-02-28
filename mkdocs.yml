@@ -69,7 +69,9 @@ plugins:
   - tags
   - meta
 nav:
-  - Inicio: index.md
+  - Inicio: 
+    - index.md
+    - Privacidad, Términos y Condiciones de servicio: terminos-condiciones.md
   - Blog:
     - blog/index.md
   - Wiki:
@@ -116,4 +118,7 @@ extra:
       - manage
       - reject
   generator: false
-copyright: Copyright &copy; 2018 - 2025 MinExilon
+copyright: > 
+  Copyright &copy; 2018 - 2025 MinExilon.
+  <a href="#__consent">Ajuste de cookies.</a> <br>
+  <a href="/terminos-condiciones/">Privacidad, Términos y Condiciones de servicio.</a>
