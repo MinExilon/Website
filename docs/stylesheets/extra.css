@@ -44,10 +44,18 @@ body {
 
 /* Image background */
 
+body {
+  --background-image: url(../assets/background_lightmode.jpg);
+}
+
+[data-md-color-scheme="slate"] {
+  --background-image: url(../assets/background_darkmode.jpg);
+}
+
 body:has([href="."]) .md-main {
-  background-image: url(../assets/background.png);
+  background-image: var(--background-image);
   background-position: center;
   background-position-y: top;
   background-repeat: no-repeat;
-  background-size: auto 460px;
+  background-size: auto 600px;
 }
