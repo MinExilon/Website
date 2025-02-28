@@ -10,13 +10,6 @@ body {
 
 /* Main logo display */
 
-.md-header__button.md-logo {
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
   height: 70%;
@@ -25,28 +18,27 @@ body {
 
 /* Nav tabs position */
 
-.md-header {
-  overflow: hidden;
-}
-
 .md-tabs {
-  position: relative;
-  left: 138px;
   margin-top: -55px;
   background-color: transparent;
-  width: available;
+}
+
+.md-tabs .md-tabs__list {
+  margin-left: 144px;
 }
 
 @media (max-width: 1999px) {
-  .md-tabs {
-    left: 136px;
+  .md-tabs .md-tabs__list {
+    margin-left: 140px;
   }
 }
 
 @media (max-width: 1599px) {
   .md-tabs {
-      left: 133px;
-      margin-top: -50px;
+    margin-top: -50px;
+  }
+  .md-tabs .md-tabs__list {
+    margin-left: 137px;
   }
 }
 
