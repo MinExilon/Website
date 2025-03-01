@@ -19,7 +19,7 @@ En el servidor existen tres grupos de rangos:
 
     Miembros del equipo que administra y gestiona el servidor.
 
-    [:octicons-arrow-right-24: Conoce al equipo](#)
+    [:octicons-arrow-right-24: Conoce al equipo](../../staff.md)
 
 -   :fontawesome-solid-star:{ .lg .middle } &nbsp; __VIP__
 
@@ -27,7 +27,7 @@ En el servidor existen tres grupos de rangos:
 
     Miembros de la comunidad que apoyan el proyecto monetariamente.
 
-    [:octicons-arrow-right-24: Conoce a los miembros honorables](#)
+    [:octicons-arrow-right-24: Conoce a los miembros honorables](../../donadores.md)
 
 -   :fontawesome-solid-shield-cat:{ .lg .middle } &nbsp; __Veteranía__
 
