@@ -15,7 +15,7 @@ links:
 # Discos musicales personalizados
 
 <figure markdown="span">
-  ![Portada](https://img.minexilon.com/blog/2022/novedades_2022_discos.jpg){ width="100%" }
+  ![Portada](https://img.minexilon.com/blog/2022/portada_discos.jpg){ width="100%" }
 </figure>
 
 Por fin llegan a MinExilon los discos de música personalizados! Ambienta tus fiestas con canciones conocidas dentro del minecraft y que pueden ser escuchadas por los demás sin necesidad de herramientas adicionales.

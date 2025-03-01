@@ -14,7 +14,7 @@ tags:
 # Halloween 2022
 
 <figure markdown="span">
-  ![Portada](https://blogs.microsoft.com/wp-content/uploads/prod/sites/166/2020/10/Spooky-Fall.jpg){ width="100%" }
+  ![Portada](https://img.minexilon.com/blog/2022/portada_halloween2022.jpg){ width="100%" }
 </figure>
 
 Ya llegaron las fechas en las que el ambiente en MinExilon se oscurece debido a que los eventos de Halloween ya están aquí!
@@ -24,7 +24,7 @@ Ya llegaron las fechas en las que el ambiente en MinExilon se oscurece debido a 
 ## El Spawn de Halloween
 
 <figure markdown="span">
-  ![Spawn Halloween](https://minexilon.com/wp-content/uploads/minexilon_halloween_spawn-1024x576.jpg){ width="100%" }
+  ![Spawn Halloween](https://img.minexilon.com/blog/2022/minexilon_halloween_spawn.jpg){ width="100%" }
   <figcaption>Spawn de Mundo Exilon</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Como todos los años, publicaremos un hilo (en este caso por discord) en el que 
 Participa en los eventos y gana premios y trofeos al final del período de Halloween.
 
 <figure markdown="span">
-  ![Trofeo Halloween 2022](https://minexilon.com/wp-content/uploads/halloween.png){ width="100%" }
+  ![Trofeo Halloween 2022](https://img.minexilon.com/blog/2022/trofeo-halloween2022.png){ width="100%" }
   <figcaption>Trofeo Halloween 2022</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Efectivamente se activará a partir del domingo un desafío de misiones en modo 
 El objetivo en este desafío es ir progresando en una serie de retos, agrupados en 4 secciones: __Iniciador__, __Competente__, __Experto__ y __Élite__. Para acceder a una sección, debes completar previamente los retos de la sección anterior.
 
 <figure markdown="span">
-  ![Isla Skyblock](https://minexilon.com/wp-content/uploads/minexilon_isla_acida-1024x576.jpg){ width="100%" }
+  ![Isla Skyblock](https://img.minexilon.com/blog/2022/minexilon_isla_acida.jpg){ width="100%" }
   <figcaption>Isla Skyblock</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Los premios son acumulativos, es decir, si llegaste a superar el nivel experto (
 Si logras superar la sección Élite, recibirás el __Trofeo Skyblock__!
 
 <figure markdown="span">
-  ![Isla Skyblock](https://minexilon.com/wp-content/uploads/maestro_skyblock.gif){ width="100%" }
+  ![Isla Skyblock](https://img.minexilon.com/blog/2022/maestro_skyblock.gif){ width="300px" }
   <figcaption>Isla Skyblock</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Si además consigues ser la mejor skin valorada, recibirás 4 Puntos Evento y un
 ==Domingo 06 de noviembre a las 19:00 CEST==
 
 <figure markdown="span">
-  ![Mobarena](https://minexilon.com/wp-content/uploads/minexilon_halloween_mobarena-1024x576.jpg){ width="100%" }
+  ![Mobarena](https://img.minexilon.com/blog/2022/minexilon_halloween_mobarena.jpg){ width="100%" }
   <figcaption>Mobarena</figcaption>
 </figure>
 
