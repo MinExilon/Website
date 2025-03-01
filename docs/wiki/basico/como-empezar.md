@@ -1,7 +1,12 @@
 ---
-icon: material/map
+icon: fontawesome/solid/campground
 ---
 # Cómo empezar en MinExilon
+
+??? question "Página en construcción, la información puede ser modificada"
+    Ahora mismo estamos moviendo todo el contenido de la página web anterior a esta nueva web. Hay contenido que se va a conservar, pero es necesario dar un segundo repaso.
+    
+    El contenido estará actualizado y será definitivo cuando este aviso se elimine.
 
 Es posible que tras haber visto toda la variedad que se ofrece en este servidor te pierdas un poco. Con esta publicación se pretende aclarar puntos básicos e importantes del servidor para poder progresar en el juego.
 
