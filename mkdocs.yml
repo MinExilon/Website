@@ -47,6 +47,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
+    - navigation.expand
     - toc.follow
     - announce.dismiss
 extra_css:
