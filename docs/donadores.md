@@ -12,6 +12,8 @@ En esta página se muestran todos los usuarios que han apoyado el servidor monet
 
 ![Perfil](https://crafthead.net/avatar/5988deffdac94620907537836787bdca){ width="20px" } _Fraann
 
+![Perfil](https://crafthead.net/avatar/4ba23f41d94141bc8f598905c16da9f6){ width="20px" } _GGrey
+
 ![Perfil](https://crafthead.net/avatar/9c8d657dc20a47dea61005874f136c82){ width="20px" } _Mimii
 
 ![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } Adolfito999
@@ -65,8 +67,6 @@ En esta página se muestran todos los usuarios que han apoyado el servidor monet
 ![Perfil](https://crafthead.net/avatar/a8cee2fd804b42cbaa4f986e827c5143){ width="20px" } franciscochewi
 
 ![Perfil](https://crafthead.net/avatar/0e2ec246c1bf442991304b131b932a79){ width="20px" } Fusfix
-
-![Perfil](https://crafthead.net/avatar/41452a3b655d437b84572ea56d5b0f78){ width="20px" } GGrey
 
 ![Perfil](https://crafthead.net/avatar/22964e2757794c1f9ab3504a826280be){ width="20px" } Grimplit
 
@@ -168,15 +168,13 @@ En esta página se muestran todos los usuarios que han apoyado el servidor monet
 
 ![Perfil](https://crafthead.net/avatar/dd77165644cd421a8a176256782a04b7){ width="20px" } xNeewComboo
 
-![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } xXMichelinXXx
-
 ![Perfil](https://crafthead.net/avatar/73569c68ce3f49cb8e3cca7594527f24){ width="20px" } Yaelita99
 
 ![Perfil](https://crafthead.net/avatar/a6fcc14a339e43afb9e9f8ce891c455b){ width="20px" } Zenako83
 
 ![Perfil](https://crafthead.net/avatar/0060df836f3441bfa29b80548a3176e7){ width="20px" } Zexirox_YT
 
-![Perfil](https://crafthead.net/avatar/d6f5e8de2076445ba049958b575c0ac9){ width="20px" } Zhephirk 
+![Perfil](https://crafthead.net/avatar/d6f5e8de2076445ba049958b575c0ac9){ width="20px" } Zhephirk
 
 </div>
 
