@@ -33,9 +33,9 @@ title: Conoce al equipo
 <div class="grid cards" markdown>
 
 -   <figure markdown="span">
-      ![Perfil](https://crafthead.net/avatar/e20cf208803d4272a5ecba93e000dcf9){ width="100px" }
+      ![Perfil](https://crafthead.net/avatar/73569c68ce3f49cb8e3cca7594527f24){ width="100px" }
       <br>
-      __Yaelsita__ <span class="tag-mod">Moderadora</span>
+      __Yaelita99__ <span class="tag-mod">Moderadora</span>
 
       Descripción
     </figure>
@@ -49,9 +49,9 @@ title: Conoce al equipo
     </figure>
 
 -   <figure markdown="span">
-      ![Perfil](https://crafthead.net/avatar/064ef53a1fbf4293ab42e5a074bc7eb2){ width="100px" }
+      ![Perfil](https://crafthead.net/avatar/916af7eb21d44d34bcbe150cf04c89dc){ width="100px" }
       <br>
-      __Leenapop__ <span class="tag-mod">Moderadora</span>
+      __Leenita__ <span class="tag-mod">Moderadora</span>
 
       Descripción
     </figure>
@@ -63,9 +63,9 @@ title: Conoce al equipo
 <div class="grid cards" markdown>
 
 -   <figure markdown="span">
-      ![Perfil](https://crafthead.net/avatar/57b0a7a88db04b0c809bfc44a0359673){ width="100px" }
+      ![Perfil](https://crafthead.net/avatar/81b38d5516064f479fbbbb883b52bd4b){ width="100px" }
       <br>
-      __Timanfaya__ <span class="tag-staff">Constructora</span>
+      __timansita__ <span class="tag-staff">Constructora</span>
 
       Descripción
     </figure>

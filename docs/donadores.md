@@ -2,11 +2,11 @@
 hide:
   - navigation
   - toc
-title: Miembros honorables
+title: Donadores
 ---
-# Miembros honorables
+# Donadores
 
-!!! warning "Página actualizada hasta julio de 2021"
+En esta página se muestran todos los usuarios que han apoyado el servidor monetariamente. Gracias a ellos, este proyecto puede seguir adelante.
 
 <div class="grid" markdown>
 
@@ -14,23 +14,27 @@ title: Miembros honorables
 
 ![Perfil](https://crafthead.net/avatar/9c8d657dc20a47dea61005874f136c82){ width="20px" } _Mimii
 
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } Adolfito999
+
 ![Perfil](https://crafthead.net/avatar/defc9eb6168f49eabac4062f0a93b4ad){ width="20px" } AGUILA44
 
 ![Perfil](https://crafthead.net/avatar/c6aa817acd6a4fbc93bebcb98afff304){ width="20px" } AndyKx
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } Arefokmido
+![Perfil](https://crafthead.net/avatar/b9b2f7dadbeb461d89630525ccd4c4e2){ width="20px" } Aysel_Gothica
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } BlackBeast_
+![Perfil](https://crafthead.net/avatar/a03178c1321149e28aeb4ae4ee2639d1){ width="20px" } AzaelCx
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } BlueeBeerry
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } BlackBeast_
+
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } BlueeBeerry
 
 ![Perfil](https://crafthead.net/avatar/ea347cda35404d76b640edb1e0fcebbc){ width="20px" } BYinu
 
 ![Perfil](https://crafthead.net/avatar/8b9617e15b0c4fdc99d58b330315b3a9){ width="20px" } bylion
 
-![Perfil](https://crafthead.net/avatar/bd04a1b331f648b9955179c48bc381bf){ width="20px" } Capquadrat 
+![Perfil](https://crafthead.net/avatar/bd04a1b331f648b9955179c48bc381bf){ width="20px" } Capquadrat
 
-![Perfil](https://crafthead.net/avatar/a0330f4b430c431a8cd789cb090e53fa){ width="20px" } Celestialmomo32 
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } Chamothergamer
 
 ![Perfil](https://crafthead.net/avatar/662e883184614a5480ed2bb140675783){ width="20px" } criistina
 
@@ -42,21 +46,23 @@ title: Miembros honorables
 
 ![Perfil](https://crafthead.net/avatar/08d7ee80050c42388f3055b0cdc6b0aa){ width="20px" } dearinho
 
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } Demon_Slayer_NIC
+
 ![Perfil](https://crafthead.net/avatar/ece6397e8c814e738a7f62df4bd8f6cd){ width="20px" } Desubicated
 
 ![Perfil](https://crafthead.net/avatar/bd6bda11685c4c67bb0f47426e6db5dd){ width="20px" } Don_Quijote
-
-![Perfil](https://crafthead.net/avatar/cce4546802e34629a463acf683ff715e){ width="20px" } Eborik
 
 ![Perfil](https://crafthead.net/avatar/d98121de90e04abfaea7813fa7cab7e1){ width="20px" } Echadow
 
 ![Perfil](https://crafthead.net/avatar/7bcd193a59964f83a1856536c1ec15dc){ width="20px" } El_Errante
 
-![Perfil](https://crafthead.net/avatar/352a201abeac484f8cc5022fcd142322){ width="20px" } Elioniel
-
 ![Perfil](https://crafthead.net/avatar/8de73a553d864c1f88e945d193da8021){ width="20px" } ellie
 
+![Perfil](https://crafthead.net/avatar/a09dbd4ef1744d28b1488f3d73ab3cdc){ width="20px" } Ephmos
+
 ![Perfil](https://crafthead.net/avatar/c54ec6777adc4b3cafd41a5b1b13ad7b){ width="20px" } FolkloricEwe
+
+![Perfil](https://crafthead.net/avatar/a8cee2fd804b42cbaa4f986e827c5143){ width="20px" } franciscochewi
 
 ![Perfil](https://crafthead.net/avatar/0e2ec246c1bf442991304b131b932a79){ width="20px" } Fusfix
 
@@ -80,35 +86,35 @@ title: Miembros honorables
 
 ![Perfil](https://crafthead.net/avatar/be596a92fc4e4ec9a74fe8a42591bf4f){ width="20px" } kalhon89
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } kano445
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } kano445
 
 ![Perfil](https://crafthead.net/avatar/242b2973985e4740a1e7d89de719c9c9){ width="20px" } Karulthar
-
-![Perfil](https://crafthead.net/avatar/84035d6b6eec4ca0ab508efc231d5c6a){ width="20px" } kelnaron
 
 ![Perfil](https://crafthead.net/avatar/6cc7ce3c39174d479ebe49af17630e12){ width="20px" } kilerman55
 
 ![Perfil](https://crafthead.net/avatar/655e3826ebac4d9fa1c1a5364dd4edfe){ width="20px" } Kirvo_
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } KoSMe_
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } KoSMe_
 
-![Perfil](https://crafthead.net/avatar/4007cc745cdf4c7d8a657d7dc93fc675){ width="20px" } KosTi
+![Perfil](https://crafthead.net/avatar/888d261c3c4c41a2b93171fd6501f14b){ width="20px" } 21KosTi21
 
 ![Perfil](https://crafthead.net/avatar/64ffa3239db54fb384733da5241a7b2e){ width="20px" } krakaweb
 
 ![Perfil](https://crafthead.net/avatar/e4bbc67ea36b4329b0946b7e69b2798b){ width="20px" } krypt_z
 
-![Perfil](https://crafthead.net/avatar/064ef53a1fbf4293ab42e5a074bc7eb2){ width="20px" } Leenapop
+![Perfil](https://crafthead.net/avatar/916af7eb21d44d34bcbe150cf04c89dc){ width="20px" } Leenita
 
 ![Perfil](https://crafthead.net/avatar/7ccb35f052904505ba921458c94aa9ac){ width="20px" } madoguva
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } Maldolor
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } Maldolor
+
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } Marina036
 
 ![Perfil](https://crafthead.net/avatar/716bdfa89eca4b6389eb8e27a3bd290f){ width="20px" } martin
 
 ![Perfil](https://crafthead.net/avatar/63b4764d7a4547608fbece63d86e087a){ width="20px" } Mikecr1
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } Milton_YT
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } Milton_YT
 
 ![Perfil](https://crafthead.net/avatar/1d47b390c87240ff843d2018f43895c8){ width="20px" } Mixtax
 
@@ -120,7 +126,7 @@ title: Miembros honorables
 
 ![Perfil](https://crafthead.net/avatar/067b3bf654154308b0b63ce0566bb827){ width="20px" } Noxah_
 
-![Perfil](https://crafthead.net/avatar/1f13e0c3796a4a609190cedd4d9bb190){ width="20px" } Okhami
+![Perfil](https://crafthead.net/avatar/36cdc3be72f844d58ee11261de792e08){ width="20px" } Paco_el_granjero
 
 ![Perfil](https://crafthead.net/avatar/c5b23159ef6f4461884b9c4eeeea66e4){ width="20px" } Pacoti
 
@@ -134,21 +140,21 @@ title: Miembros honorables
 
 ![Perfil](https://crafthead.net/avatar/78b3187395c4403dbf7948ead892d8b0){ width="20px" } Rochumbus
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } ruzxxx
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } Ruzxxx
 
 ![Perfil](https://crafthead.net/avatar/0afc1e39e7b04bd3a9979ec1b780d78a){ width="20px" } Sahux
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } samoajoe12
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } samoajoe12
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } sara2001zz
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } sara2001zz
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } seas98
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } seas98
 
 ![Perfil](https://crafthead.net/avatar/62a28b9cf49144dfb2bd9391f6e15b9b){ width="20px" } ShexNight
 
 ![Perfil](https://crafthead.net/avatar/6cd1f131201946cc84979ee86f6bd54d){ width="20px" } Snake
 
-![Perfil](https://crafthead.net/avatar/86daf6dfcc8d4ed3acd744fd02fc1c0a){ width="20px" } ThCatorce
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } ThCatorce
 
 ![Perfil](https://crafthead.net/avatar/545492d3255445e28d622fe336b035e7){ width="20px" } Tommyhf13
 
@@ -162,7 +168,9 @@ title: Miembros honorables
 
 ![Perfil](https://crafthead.net/avatar/dd77165644cd421a8a176256782a04b7){ width="20px" } xNeewComboo
 
-![Perfil](https://crafthead.net/avatar/e20cf208803d4272a5ecba93e000dcf9){ width="20px" } Yaelsita
+![Perfil](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="20px" } xXMichelinXXx
+
+![Perfil](https://crafthead.net/avatar/73569c68ce3f49cb8e3cca7594527f24){ width="20px" } Yaelita99
 
 ![Perfil](https://crafthead.net/avatar/a6fcc14a339e43afb9e9f8ce891c455b){ width="20px" } Zenako83
 
@@ -172,4 +180,13 @@ title: Miembros honorables
 
 </div>
 
-!!! question "¿Falta tu nick o está desactualizado? Avisa al staff y lo modificamos ;)"
+??? question "¿Falta tu nick o está desactualizado? Avisa al staff y lo modificamos ;)"
+    La imagen va enlazada al UUID del usuario, por lo que se actualiza automáticamente.
+    No sucede lo mismo con el nickname, por lo que si te lo cambias y quieres verlo cambiado en esta página, nos debes avisar por Discord o servidor.
+
+    En caso de sanciones administrativas o casos excepcionales, nos reservamos el derecho a retirar al usuario de esta página.
+
+!!! question "¿Cómo puedo aparecer en esta página?"
+    Si compras cualquier producto en la Tienda Web, aparecerás en esta página.
+
+    [:fontawesome-solid-cart-shopping: &nbsp; Tienda Web](https://store.minexilon.com/){ .md-button .md-button--secondary }

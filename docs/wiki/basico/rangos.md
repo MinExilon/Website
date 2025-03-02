@@ -27,7 +27,7 @@ En el servidor existen tres grupos de rangos:
 
     Miembros de la comunidad que apoyan el proyecto monetariamente.
 
-    [:octicons-arrow-right-24: Conoce a los miembros honorables](../../donadores.md)
+    [:octicons-arrow-right-24: Conoce a los donadores](../../donadores.md)
 
 -   :fontawesome-solid-shield-cat:{ .lg .middle } &nbsp; __Veteranía__
 

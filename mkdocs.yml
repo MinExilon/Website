@@ -73,7 +73,7 @@ nav:
   - Inicio: 
     - index.md
     - Conoce el equipo: staff.md
-    - Miembros honorables: donadores.md
+    - Donadores: donadores.md
     - Privacidad, Términos y Condiciones de servicio: terminos-condiciones.md
   - Blog:
     - blog/index.md

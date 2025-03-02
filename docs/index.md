@@ -93,3 +93,29 @@ Todos los eventos y streamings que realizamos en Twitch los publicamos en nuestr
 </div>
 
 </div>
+
+<br>
+
+## __Conócenos__
+
+<div class="grid cards" markdown>
+
+-   :fontawesome-solid-people-group:{ .lg .middle } &nbsp; __Staff__
+
+    ---
+
+    Miembros del equipo que administra y gestiona el servidor.
+
+    [:octicons-arrow-right-24: Conoce al equipo](staff.md)
+
+-   :fontawesome-solid-star:{ .lg .middle } &nbsp; __VIP__
+
+    ---
+
+    Miembros de la comunidad que apoyan el proyecto monetariamente.
+
+    [:octicons-arrow-right-24: Conoce a los donadores](donadores.md)
+
+</div>
+
+<br>
