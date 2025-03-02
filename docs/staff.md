@@ -15,7 +15,7 @@ title: Conoce al equipo
       <br>
       __aaron_el_genio__ <span class="tag-admin">Administrador</span>
 
-      Un vaco manco
+      Las vacas vuelan
     </figure>
 
 -   <figure markdown="span">
@@ -23,7 +23,7 @@ title: Conoce al equipo
       <br>
       __TBlacKnight__ <span class="tag-admin">Administrador</span>
 
-      Un caballero manco
+      ¿Cómo se craftea una mesa de crafteo?
     </figure>
 
 </div>
@@ -37,7 +37,7 @@ title: Conoce al equipo
       <br>
       __Yaelita99__ <span class="tag-mod">Moderadora</span>
 
-      Descripción
+      Se dice leviosaaaahhh
     </figure>
 
 -   <figure markdown="span">
@@ -45,7 +45,7 @@ title: Conoce al equipo
       <br>
       __MrJonathan__ <span class="tag-mod">Moderador</span>
 
-      Descripción
+      Amante de los tacos y las Kitsune
     </figure>
 
 -   <figure markdown="span">
@@ -53,7 +53,7 @@ title: Conoce al equipo
       <br>
       __Leenita__ <span class="tag-mod">Moderadora</span>
 
-      Descripción
+      Chileena de corazón
     </figure>
 
 </div>
@@ -65,9 +65,9 @@ title: Conoce al equipo
 -   <figure markdown="span">
       ![Perfil](https://crafthead.net/avatar/81b38d5516064f479fbbbb883b52bd4b){ width="100px" }
       <br>
-      __timansita__ <span class="tag-staff">Constructora</span>
+      __timansita__ <span class="tag-staff">Colaboradora</span>
 
-      Descripción
+      Amateu de parkour
     </figure>
 
 </div>
