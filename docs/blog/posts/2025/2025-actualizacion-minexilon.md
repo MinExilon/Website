@@ -124,7 +124,7 @@ Las novedades son las siguientes:
 
 Los intercambios de los aldeanos lo vemos como un sistema que rompe el gameplay de Minecraft. Sí que es verdad que, en estas últimas actualizaciones, Mojang está tratando de limitar encantamientos y ciertos trabajos dependiendo del bioma en el que se encuentre la aldea. Sin embargo, esto sólo retrasa lo inevitable: las granjas de aldeanos.
 
-Lo que haremos en esta futura update es retirar el __sistema de tradeos de aldeanos__. Los aldeanos existirán en los mundos, pero no se podrán interactuar con ellos.
+Lo que haremos en esta futura update es retirar el __sistema de tradeos de aldeanos__. Los aldeanos existirán en los mundos, pero no se podrá interactuar con ellos.
 
 Esto vemos que afecta negativamente en estos aspectos, y tenemos soluciones para ello.
 
