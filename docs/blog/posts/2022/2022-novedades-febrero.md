@@ -14,7 +14,7 @@ tags:
 # Novedades Febrero 2022
 
 <figure markdown="span">
-  ![Portada](https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Minecraft_image1600w.jpg){ width="100%" }
+  ![Portada](https://img.minexilon.com/blog/2022/portada_minecraft_1_18.webp){ width="100%" }
 </figure>
 
 Hola! Volvemos a traer novedades bastante suculentas relacionadas con el equipo del servidor y las gestiones que tenemos planeadas para saltar a la 1.18.

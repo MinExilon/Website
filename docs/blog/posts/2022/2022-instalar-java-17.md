@@ -14,7 +14,7 @@ tags:
 # Instalar Minecraft 1.18.1 con Java 17 para 32 y 64 bits
 
 <figure markdown="span">
-  ![Portada](https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Minecraft_image1600w.jpg){ width="100%" }
+  ![Portada](https://img.minexilon.com/blog/2022/portada_java17.webp){ width="100%" }
 </figure>
 
 Para jugar en la versión 1.18.1 es necesario que instales Java 17. Este tutorial es basicamente lo mismo que para la 1.17, lo que cambia es la version de java.

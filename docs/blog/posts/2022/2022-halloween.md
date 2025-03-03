@@ -14,7 +14,7 @@ tags:
 # Halloween 2022
 
 <figure markdown="span">
-  ![Portada](https://img.minexilon.com/blog/2022/portada_halloween2022.jpg){ width="100%" }
+  ![Portada](https://img.minexilon.com/blog/2022/portada_halloween2022.webp){ width="100%" }
 </figure>
 
 Ya llegaron las fechas en las que el ambiente en MinExilon se oscurece debido a que los eventos de Halloween ya están aquí!
