@@ -47,15 +47,14 @@ Para más información puedes acceder a la página de la tienda web.
 
 ### Tabla comparativa
 
-| Mejoras | Comando | VIP Can | VIP Ghast | VIP Wither |
+| Mejoras | Comando | VIP Vex | VIP Ghast | VIP Wither |
 | :--- | :--- | :---: | :---: | :---: |
 | Precio | | 4,80 € | 8,90 € | 12,40 € |
 | Duración | | 1 mes | 1 mes | 1 mes |
 | **GENERALES** | | | | |
-| Tag en chat y tabulador | | ✔️ | ✔️ | ✔️ |
-| Color en tabulador | | ✔️ | ✔️ | ✔️ |
-| Cambio de nombre | `/nick` | ❌ | ✔️ | ✔️ |
-| Cambio de nombre con colores hex | `/nick` | ❌ | ❌ | ✔️ |
+| Tag en chat y tabulador | | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| Color en tabulador | | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| Cambio de nombre | `/nick` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:#cda434">:fontawesome-solid-circle-check:{ title="Puede utilizar colores hexadecimales" }</span> |
 | **PROPIEDADES** | | | | |
 | Límite homes | | 20 | 30 | 60 |
 | Límite plots | | 15 | 20 | 30 |
@@ -65,25 +64,25 @@ Para más información puedes acceder a la página de la tienda web.
 | Límite plots creativo | | - | 3 | 6 |
 | Límite merges creativo | | - | 7 | 9 |
 | **PODERES** | | | | |
-| Uso ilimitado del `rtp` | `/rtp` | ✔️ | ✔️ | ✔️ |
-| Mesa virtual | `/craft` | ✔️ | ✔️ | ✔️ |
-| Enderchest virtual | `/ec` | ❌ | ✔️ | ✔️ |
-| Volar | `/fly` | ❌ | ✔️ | ✔️ |
-| Ítem en cofre al morir | | ❌ | ❌ | ✔️ |
+| Uso ilimitado del `rtp` | `/rtp` | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| Mesa virtual | `/craft` | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| Enderchest virtual | `/ec` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| Volar | `/fly` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| Ítem en cofre al morir | | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
 | **ESTÉTICOS** | | | | |
-| Sombreros | `/hat` | ✔️ | ✔️ | ✔️ |
-| Brillo | `/glow` | ✔️ | ✔️ | ✔️ |
-| Menú cabezas decorativas | `/hdb` | ✔️ | ✔️ | ✔️ |
-| Tienda aldeano | `?` | ❌ | ❌ | ✔️ |
-| Incluir bebida personalizada | | ❌ | ❌ | ✔️ |
+| Sombreros | `/hat` | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| Brillo | `/glow` | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| Menú cabezas decorativas | `/hdb` | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| Tienda aldeano | | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| Bebida personalizada | | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
 | **DISCORD** | | | | |
-| Salas VIP | | ✔️ | ✔️ | ✔️ |
+| Salas VIP | | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
 
 ## Rangos de Veteranía
 
 Cada veteranía que se avance proporciona una mejora permanente en el juego, pudiendo alcanzar algunas que te permitirán progresar de manera adecuada en el servidor.
 
-Si alcanzas la cima de los rango veteranos podrás disfrutar del sueño que todo minecraftiano desearía tener: el /fly de forma permanente!!
+Si alcanzas la cima de los rango veteranos podrás disfrutar del sueño que todo minecraftiano desearía tener: el `/fly` de forma permanente!!
 
 ### Ascenso de rango
 
