@@ -10,7 +10,7 @@ tags:
   - mobs
 ---
 
-# Invasión de Duences Misteriosos
+# Invasión de Duendes Misteriosos
 
 <figure markdown="span">
   ![Portada](https://blogs.microsoft.com/wp-content/uploads/prod/sites/166/2020/10/Spooky-Fall.jpg){ width="100%" }
