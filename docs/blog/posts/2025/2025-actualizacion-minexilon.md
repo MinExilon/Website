@@ -15,7 +15,7 @@ tags:
 # MinExilon 2.0
 
 <figure markdown="span">
-  ![Portada](https://img.minexilon.com/blog/2022/portada_minexilon_2_0.webp){ width="100%" }
+  ![Portada](https://img.minexilon.com/blog/2025/portada_minexilon_2_0.webp){ width="100%" }
 </figure>
 
 Se avecina un retorno a MinExilon y no parece ser algo pequeño!
