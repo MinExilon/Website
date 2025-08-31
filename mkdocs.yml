@@ -50,6 +50,7 @@ theme:
     - navigation.expand
     - toc.follow
     - announce.dismiss
+    - content.tooltips
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
@@ -70,22 +71,31 @@ plugins:
   - tags
   - meta
 nav:
-  - Inicio: 
-    - index.md
-    - Conoce el equipo: staff.md
-    - Donadores: donadores.md
-    - Privacidad, Términos y Condiciones de servicio: terminos-condiciones.md
+  - Inicio: index.md
   - Blog:
     - blog/index.md
   - Wiki:
     - wiki/index.md
     - Introductorios:
-        - Cómo empezar: wiki/basico/como-empezar.md
-        - Rangos del servidor: wiki/basico/rangos.md
+      - Cómo empezar: wiki/basico/como-empezar.md
+      - Rangos del servidor: wiki/basico/rangos.md
+      - Cómo votar: wiki/basico/votar.md
+    - Generales:
+      - Trabajos: wiki/general/jobs.md
+      - Pesca: wiki/general/pesca.md
+      - Bebidas: wiki/general/bebidas.md
+      - Mundo Creativo: wiki/general/creativo.md
+    - Economía:
+      - Zona Ágora: wiki/economia/agora.md
+      - Subastas: wiki/economia/subastas.md
     - Ciudades:
-        - Comandos: wiki/ciudades/ciudades.md
-        - Buen Alcalde: wiki/ciudades/buen-alcalde.md
-        - Desahucios: wiki/ciudades/desahucios.md
+      - Comandos: wiki/ciudades/comandos.md
+      - Buen Alcalde: wiki/ciudades/buen-alcalde.md
+      - Desahucios: wiki/ciudades/desahucios.md
+    - Eventos:
+      - Temporadas: wiki/eventos/temporadas.md
+      - Especiales: wiki/eventos/especiales.md
+      - Minijuegos: wiki/eventos/minijuegos.md
   - Normativa: normativa.md
   - Mapa: https://mapa.minexilon.com/
   - Tienda: https://store.minexilon.com/

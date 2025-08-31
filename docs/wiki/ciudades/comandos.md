@@ -49,8 +49,8 @@ Tu trocito de terreno es tuyo, y como propiedad , querrás tener todos los facto
 | `/plot perm` | | Muestra los permisos de la parcela en el que esté posicionado. |
 | `/plot perm hud` | | Activa/desactiva la interfaz de permisos en una scoreboard con información más relevante. |
 | `/plot set reset` | | Vuelve a reestablecer una parcela de cualquier tipo a una normal. |
-| `/plot set shop` | | Cambia la parcela a una de tipo tienda. |
-| `/plot set embassy` | | Cambia la parcela a una de tipo embajada (sólo lo podrán realizar aquellos alcaldes/asistentes que sean de veteranía igual o superior a __Caballero__). |
+| `/plot set shop` | | Cambia la parcela a una de tipo tienda (sólo lo podrán realizar aquellos alcaldes/asistentes que sean de veteranía igual o superior a <span class="tag-vet-6"></span>). |
+| `/plot set embassy` | | Cambia la parcela a una de tipo embajada (sólo lo podrán realizar aquellos alcaldes/asistentes que sean de veteranía igual o superior a <span class="tag-vet-17"></span>). |
 | `/plot set arena` | | Cambia la parcela a una de tipo arena (siempre tendrá habilitado el PVP y el fuego amigo; aparte regeneraciones de vida de la propia ciudad no actuarán en dichas parcelas). |
 | `/plot set wilds` | | Cambia la parcela a una de tipo salvaje. |
 | `/plot set inn` | | Cambia la parcela a una de tipo posada (el residente podrá emplear la cama sin pertenecer a la ciudad y si no está identificado como enemigo). |
@@ -105,20 +105,20 @@ Si eres alcalde de una ciudad en el servidor o un asistente, estos comandos te a
 | `/town list [página]` | | Muestra la lista de las ciudades creadas. |
 | `/town online` | | Muestra la cantidad de residentes de tu ciudad que se encuentran online. |
 | `/town plots <ciudad>` | | Muestra una lista de las parcelas que tiene la ciudad y del tipo que son o el precio de venta que tienen. |
-| `/town <new/create> <ciudad>` | | Crea una nueva ciudad. __Cuesta 1.000.000 de dracmas__ |
+| `/town <new/create> <ciudad>` | | Crea una nueva ciudad. __Cuesta__ <span class="tag-econ-dracmas">1.000.000</span> |
 | `/town add <residente> [residente2...]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Agrega a usuarios a tu ciudad (siendo alcalde/asistente). |
 | `/town kick <residente> [residente2...]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Expulsa a ciertos residentes de tu ciudad (siendo alcalde/asistente). |
 | `/town spawn` | | Te teletransporta al spawn de tu ciudad. |
-| `/town spawn <ciudad>` | | Te teletransporta al spawn de la ciudad indicada. __Cuesta 10 dracmas__ |
-| `/town claim` | | Apropia un terreno como parcela de la ciudad (siendo alcalde o asistente). __Coste: 5.000 dracmas. Elevación de impuestos diarios de ciudad: +50 dracmas/plot.__ |
-| `/town claim outpost` | |  Claimea una zona externa a tu ciudad. __Coste: 500.000 dracmas el primer plot de outpost.__ |
+| `/town spawn <ciudad>` | | Te teletransporta al spawn de la ciudad indicada. __Cuesta__ <span class="tag-econ-dracmas">10</span> |
+| `/town claim` | | Apropia un terreno como parcela de la ciudad (siendo alcalde o asistente). __Cuesta__ <span class="tag-econ-dracmas">5.000</span> __Elevación de impuestos diarios de ciudad:__ <span class="tag-econ-dracmas">+50</span> __por plot.__ |
+| `/town claim outpost` | |  Claimea una zona externa a tu ciudad. __Cuesta__ <span class="tag-econ-dracmas">500.000</span> __el primer plot de outpost.__ |
 | `/town claim [radio/auto]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Claimea un área de plots alrededor tuyo o usa `auto` para claimearlos de forma automática. |
 | `/town unclaim [radio]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Despropia cierta parcela o un área de parcelas de la ciudad. |
 | `/town unclaim all` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | La ciudad se despropia de todas las parcelas claimeadas. |
 | `/town unclaim outpost` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Se emplea para despropiar terrenos anexos de una ciudad que se encuentren glitcheados. |
 | `/town withdraw <dracmas>` | | Aporta al alcalde cierta cantidad del banco (sólo lo puede emplear el alcalde). |
 | `/town deposit <dracmas>` | | Agrega cierta cantidad de dracmas al banco de la ciudad. |
-| `/town buy bonus <cantidad>` | | Compra la cantidad deseada de parcelas bonus para la ciudad. __Coste: 20.000 dracmas. Cantidad disponible: 50 bonus plot.__ |
+| `/town buy bonus <cantidad>` | | Compra la cantidad deseada de parcelas bonus para la ciudad. __Cuesta__ <span class="tag-econ-dracmas">20.000</span> __Cantidad disponible: 50 bonus plot.__ |
 | `/town delete <ciudad>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Elimina la ciudad (sólo lo puede realizar el alcalde). |
 | `/town outlawlist <ciudad>` | | Muestra los enemigos listados de una ciudad. |
 | `/town outlaw <add/remove> <ciudad>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Agrega o elimina a un usuario enemigo a tu lista de la ciudad. (Al agregarlo se expulsa automáticamente de la ciudad si era residente de la misma). |
@@ -140,7 +140,7 @@ Si eres alcalde de una ciudad en el servidor o un asistente, estos comandos te a
 | `/town set perm reset` | | Reinicia todos los permisos establecidos a los de por defecto. |
 | `/town set tag <tag>` | | Define el tag de la ciudad. *Se permiten hasta 4 letras.* |
 | `/town set tag clear` | | Elimina el tag de la ciudad. |
-| `/town set taxes <dracmas>` | | Configura los impuestos diarios que se cobrarán a los residentes. También se pueden poner porcentajes. __Impuestos máximos diarios que se pueden poner a un residente: 100 dracmas ó 25%.__ |
+| `/town set taxes <dracmas>` | | Configura los impuestos diarios que se cobrarán a los residentes. También se pueden poner porcentajes. __Impuestos máximos diarios que se pueden poner a un residente:__ <span class="tag-econ-dracmas">100</span> __ó 25%.__ |
 | `/town set plottax <dracmas>` | | Configura los impuestos diarios por plot que tengan los residentes. |
 | `/town set plotprice <dracmas>` | | Define un precio estándar para todos los plots que se pongan a la venta. |
 | `/town set shopprice <dracmas>` | | Define un precio estándar para todos los plots tipo tienda que se pongan a la venta. |
@@ -177,7 +177,7 @@ La unión es más poderosa. Creando una nación de varias ciudades puedes fortal
 | `/nation leave` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Siendo alcalde, eliminas la ciudad de la nación la que pertenece. |
 | `/nation withdraw <dracmas>` | | El rey de la nación puede retirar cierta cantidad de dracmas de las arcas de la nación. |
 | `/nation deposit <dracmas>` | | El rey de la nación puede depositar cierta cantidad de dracmas a las arcas de la nación. |
-| `/nation <new/create> <nación>` | | Comando a ejecutar por un alcalde para crear una nación. Debes ser de una veteranía igual o superior a Conquistador. __Cuesta 500.000 dracmas.__ |
+| `/nation <new/create> <nación>` | | Comando a ejecutar por un alcalde para crear una nación. Debes ser de una veteranía igual o superior a <span class="tag-vet-20"></span>. __Cuesta__ <span class="tag-econ-dracmas">500.000</span> |
 | `/nation rank` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Comando para mostrar/definir rangos para la nación. |
 | `/nation add <ciudad> [ciudad2...]` | | Invitas/agregas una ciudad o varias a la nación (debe realizarlo el rey o asistentes de la nación). |
 | `/nation remove <ciudad> [ciudad2...]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Expulsas una ciudad o varias de la nación (debe realizarlo el rey o asistentes de la nación). |

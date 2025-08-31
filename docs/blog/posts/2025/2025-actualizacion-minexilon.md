@@ -1,7 +1,6 @@
 ---
 date:
   created: 2025-03-02
-pin: true
 authors:
   - aaron_el_genio
 categories:
@@ -164,10 +163,10 @@ Con el nuevo rumbo que va a tomar el servidor y la inversión que esto requiere,
 !!! info "Precios aproximados, pueden diferir con el precio final"
 
 | VIP | Precio | Duración | Características |
-| :--- | :---: | :---: | :--- |
-| __Vex__ | 4.80 € | 1 mes | Rango VIP más barato enfocado a ampliar limitaciones de homes, plots y privados. |
-| __Ghast__ | 8.90 € | 1 mes | El rango VIP estándar con características similares al VIP Ghast actual: acceso al `/fly`, al `/nick` y un sinfín de cosas.  |
-| __Wither__ | 12.40 € | 1 mes | Tendrá una potencia similar al WitherEx, con elementos exclusivos como la bebida personalizada, el guardado de ítems en cofres al morir, etcétera. |
+| :---: | :---: | :---: | :--- |
+| <span class="tag-vip-vex"></span> | 4.80 € | 1 mes | Rango VIP más barato enfocado a ampliar limitaciones de homes, plots y privados. |
+| <span class="tag-vip-ghast"></span> | 8.90 € | 1 mes | El rango VIP estándar con características similares al VIP Ghast actual: acceso al `/fly`, al `/nick` y un sinfín de cosas.  |
+| <span class="tag-vip-wither"></span> | 12.40 € | 1 mes | Tendrá una potencia similar al WitherEx, con elementos exclusivos como la bebida personalizada, el guardado de ítems en cofres al morir, etcétera. |
 
 En la wiki [Rangos del servidor](../../../wiki/basico/rangos.md) podéis consultar un desglose más detallado de todos los aspectos que tendrán los nuevos VIPs. Esa publicación está en constante actualización, por lo que seguramente tenga más elementos durante estos meses.
 

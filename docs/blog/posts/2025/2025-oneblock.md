@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-03-11
-pin: true
+  updated: 2025-08-31
 authors:
   - tblacknight
 categories:
@@ -42,9 +42,9 @@ Evento disponible desde el 14 de marzo hasta la apertura del nuevo servidor
 ### Objetivo
 El objetivo es __expandir__ tu isla y conseguir romper el bloque mágico __tantas veces__ como puedas para conseguir recursos.
 
-Habrá dos tablas de clasificación diferentes para cada objetivo, y la isla que alcance el primer puesto de cada TOP logrará el premio final que es un __VIP Ghast__!
+Habrá dos tablas de clasificación diferentes para cada objetivo, y la isla que alcance el primer puesto de cada TOP logrará el premio final que es un <span class="tag-vip-ghast"></span>!
 
-Además, hay un tercer __VIP Ghast__ que se otorgará a la isla __mejor decorada__. Se realizará un promedio entre los likes o "me gusta" dados por la comunidad con `/ob likes` y una valoración final por parte de los administradores.
+Además, hay un tercer <span class="tag-vip-ghast"></span> que se otorgará a la isla __mejor decorada__. Se realizará un promedio entre los likes o "me gusta" dados por la comunidad con `/ob likes` y una valoración final por parte de los administradores.
 
 !!! info "Reparto de premios"
     Si una isla queda en primera posición en ambas clasificaciones, se otorgará el premio del TOP bloques mágicos rotos a la segunda isla posicionada.
@@ -72,11 +72,11 @@ La Isla no está limitada solamente a ese bloque. Recolecta más bloques, ve exp
 El evento se puede jugar de forma individual o por equipos de hasta 4 jugadores.
 
 !!! warning "¡Los premios son distintos si lo juegas en equipo!"
-    En caso de que una isla premiada sea un __equipo__, todos los jugadores recibirán un descuento en el rango __VIP Ghast__ proporcional al tamaño del equipo:
+    En caso de que una isla premiada sea un __equipo__, todos los jugadores recibirán un descuento en el rango <span class="tag-vip-ghast"></span> proporcional al tamaño del equipo:
     
-    - __Equipo de 2 personas__: Vale de descuento del 50% en el rango __VIP Ghast__.
-    - __Equipo de 3 personas__: Vale de descuento del 33% en el rango __VIP Ghast__.
-    - __Equipo de 4 personas__: Vale de descuento del 25% en el rango __VIP Ghast__.
+    - __Equipo de 2 personas__: Vale de descuento del 50% en el rango <span class="tag-vip-ghast"></span>.
+    - __Equipo de 3 personas__: Vale de descuento del 33% en el rango <span class="tag-vip-ghast"></span>.
+    - __Equipo de 4 personas__: Vale de descuento del 25% en el rango <span class="tag-vip-ghast"></span>.
 
 === "Pasos para jugarlo solo"
 
@@ -155,3 +155,39 @@ Puedes ver la lista de comandos dentro del desafío poniendo `/ob help`.
 | `/ob warps` | Abre el panel de warps. |
 | `/ob togglewarp` | Activa o desactiva la señal de warp. |
 | `/ob visit <player>` | Abre la GUI o visita la isla del jugador objetivo. |
+
+## Ganadores del Desafío OneBlock
+
+### TOP ISLA
+<div markdown style="display:flex; gap:2px; justify-content:center;">
+  <figure markdown="span">
+    ![Ariel1218](https://crafthead.net/avatar/8422fbea230b4ff2a0ed5602b6318b2f){ width="70%" }
+    <figcaption>Ariel1218</figcaption>
+  </figure>
+  <figure markdown="span">
+    ![Joshua0939L](https://crafthead.net/avatar/51e9ba875e4a4bdbba90fd66d5d01bdd){ width="70%" }
+    <figcaption>Joshua0939L</figcaption>
+  </figure>
+  <figure markdown="span">
+    ![aaron9275](https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7){ width="70%" }
+    <figcaption>aaron9275</figcaption>
+  </figure>
+  <figure markdown="span">
+    ![rixelias](https://crafthead.net/avatar/42a7f2bdaa274abb902755afac2b6167){ width="70%" }
+    <figcaption>rixelias</figcaption>
+  </figure>
+</div>
+
+### TOP ISLA BLOQUES MÁGICOS ROTOS
+
+<figure markdown="span">
+  ![Mikecr1](https://crafthead.net/avatar/63b4764d7a4547608fbece63d86e087a){ width="70%" }
+  <figcaption>Mikecr1</figcaption>
+</figure>
+
+### TOP ISLA DECORADA
+
+<figure markdown="span">
+  ![Thuranduil](https://crafthead.net/avatar/a1b9cc67ce1d410ab26f451fc7149d29){ width="70%" }
+  <figcaption>Thuranduil</figcaption>
+</figure>

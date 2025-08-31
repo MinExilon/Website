@@ -25,28 +25,45 @@ El servidor se divide principalmente en 3 tipos de mundos:
 
 Si estás explorando en el Mundo Exilon o estás consiguiendo recursos en Mineo por ejemplo, es aconsejable que cuando te construyas una base donde guardar tus ítems privatices los cofres para que nadie te los pueda tocar y guardes un home para volver a la base con un simple TP si te alejas demasiado o mueres.
 
-__Privatiza__ tus cofres con `/cprivate` y haciendo clic izquierdo al cofre simple o doble a proteger. Si estás con más compañeros y quieres que ellos también tengan acceso puedes editarlo después con `/cmodify <nombre1> <nombre2> <nombre3>`. Si te has equivocado en algún momento o ya no quieres que esté privatizado usa `/cremove` y clic al cofre.
+<div class="grid cards" markdown>
 
-__Guarda un home__ poniendo `/sethome <nombre>` y ve a él con `/home <nombre>`. Puedes eliminarlo con `/delhome <nombre>` y ver tu lista de homes con /homes.
+-   :material-lock:{ .lg .middle } &nbsp; __Privados__
 
-!!! note "Los homes son limitados"
-    Inicialmente sólo tendrás acceso a 1 home. En ese caso, el nombre por defecto que tendrá tu home es home, aunque intentes ponerle un nombre personalizado.
+    ---
+
+    __Privatiza tus cofres__ con `/cprivate` y haciendo clic izquierdo al cofre simple o doble a proteger.
+    
+    Si estás con más compañeros y quieres que ellos también tengan acceso puedes editarlo después con `/cmodify <nombre1> <nombre2> <nombre3>`.
+    
+    Si te has equivocado en algún momento o ya no quieres que esté privatizado usa `/cremove` y clic al cofre.
+
+-   :fontawesome-solid-location-dot:{ .lg .middle } &nbsp; __Homes__
+
+    ---
+
+    __Guarda un home__ poniendo `/sethome <nombre>` y ve a él con `/home <nombre>`.
+    
+    Puedes eliminarlo con `/delhome <nombre>` y ver tu lista de homes con `/homes`.
+
+    !!! note "Los homes son limitados"
+        Inicialmente sólo tendrás acceso a 1 home. En ese caso, el nombre por defecto que tendrá tu home es home, aunque intentes ponerle un nombre personalizado.
+
+</div>
 
 ## Las Veteranías
 
-!!! warning "Contenido desactualizado"
-    El siguiente contenido está desactualizado.
+Las Veteranías son los rangos por los que los usuarios progresan en el servidor para conseguir __mejoras permanentes__, como son: homes adicionales, más cofres tienda, acceso a las ciudades, más terrenos en ciudades y misiones.
 
-Las Veteranías son los rangos por los que los usuarios avanzan hasta lograr alcanzar el rango máximo que es el __Omnisciente__. Hay un total de 30 rangos y debes pasar por todos ellos para llegar a ser Omnisciente.
+Ascender de rango requiere una serie de __dracmas__ <span class="tag-econ-dracmas"></span>:material-information-outline:{ title="la moneda del servidor" } y __puntos de voto__ <span class="tag-econ-votos"></span>:material-information-outline:{ title="vota por el servidor en internet" }.
 
-Al subir de rango, se te desbloquean ciertas mejoras en el servidor como son: homes adicionales, más cofres tienda, acceso a las ciudades, más terrenos en ciudades, misiones, etc… por lo que te interesa ir ascendiendo!
-La subida de rango no sale gratis como te podrás imaginar. Cada subida al rango superior requiere que pagues una cierta cantidad de dinero. El dinero en este servidor es el dracma que equivale a una cuarta parte del valor de un satélite en órbita alineado con el meridiano entre el sol y la luna cuando tu despertador no suena un lunes por la mañana.
+Existen un total de 30 rangos, comenzando como <span class="tag-vet-0"></span> y terminando como <span class="tag-vet-30"></span> donde puedes usar el `/fly` dentro de la ciudad, sin depender de un rango VIP!
 
-Puedes consultar los rangos y las ventajas permanentes que desbloqueas subiendo a cada uno de ellos en la Guía de Veteranías o en el juego mediante el comando /ranks.
+Usa el comando `/ranks` dentro del servidor para consultar los rangos y las ventajas permanentes que desbloqueas en cada rango.
+También puedes consultarlo en la wiki en la [lista de rangos de veteranía](./rangos.md#lista-de-rangos).
 
 ## Formas de conseguir dinero
 
-La moneda del servidor es el __dracma__ y la economía se mueve principalmente por la comunidad. No obstante, al inicio no podrás interactuar con las tiendas de los usuarios ni te podrán pasar dinero.
+La moneda del servidor es el <span class="tag-econ-dracmas">dracma</span> y la economía se mueve principalmente por la comunidad. No obstante, al inicio no podrás interactuar con las tiendas de los usuarios ni te podrán pasar dinero.
 La única forma de conseguir dinero es vendiendo objetos en la tienda rotativa de la __Zona Ágora__ y completando misiones básicas.
 
 A continuación se explican las maneras más comunes de conseguir dinero.
@@ -84,9 +101,9 @@ Una vez controles los aspectos más básicos del servidor como son los ingresos 
 Para ello están las ciudades en Mundo Exilon. Como crear y gestionar una ciudad es bastante caro y complicado inicialmente, es aconsejable que comiences perteneciendo a una ciudad ya existente.
 
 !!! info "Necesitas tener cierto rango para ingresar en una ciudad o crear la tuya propia"
-    - Para poder __ingresar__ en una ciudad debes ser __Peregrino o superior__.
+    - Para poder __ingresar__ en una ciudad debes ser <span class="tag-vet-1"></span> __o superior__.
 
-    - Para poder __crear__ tu propia ciudad debes ser __Ciudadano o superior__.
+    - Para poder __crear__ tu propia ciudad debes ser <span class="tag-vet-5"></span> __o superior__.
 
 Puedes consultar todas las ciudades en `/t list` y las ciudades más activas y públicas en /ciudades. Puedes visitar las ciudades que anden abiertas usando `/t spawn <ciudad>`.
 
