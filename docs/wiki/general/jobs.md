@@ -6,7 +6,7 @@ icon: fontawesome/solid/briefcase
 !!! warning "En construcción"
     Este contenido está todavía en desarrollo, por lo que puede verse modificado en un futuro.
 
-Los trabajos te dan __experiencia__ y su __recurso__ <span class="tag-econ-gemas"></span> <span class="tag-econ-ramas"></span> <span class="tag-econ-colmillos"></span> <span class="tag-econ-escamas"></span> <span class="tag-econ-limos"></span> para conseguir efectos y mejoras temporales llamados __perks temporales__.
+Los trabajos te dan __experiencia__ y su __recurso__ <span class="tag-econ-gemas"></span> <span class="tag-econ-ramas"></span> <span class="tag-econ-colmillos"></span> <span class="tag-econ-escamas"></span> <span class="tag-econ-espigas"></span> para conseguir efectos y mejoras temporales llamados __perks temporales__.
 
 Recibirás __recursos__ por diversas __acciones__ relacionadas con el trabajo, como pueden ser: romper determinados bloques, craftear ítems, matar mobs o cultivar.
 Cada acción te recompensa y te hace progresar al siguiente nivel del trabajo.
@@ -51,7 +51,7 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
     ---
 
-    Recurso: <span class="tag-econ-limos">limos</span>
+    Recurso: <span class="tag-econ-espigas">espigas</span>
 
     Cultiva y consigue recursos de animales.
 
@@ -88,8 +88,8 @@ Utilizado el comando `/perks` para acceder al menú de los perks.
 | __Regeneración__ | 30 min | <span class="tag-econ-colmillos">4.000</span> | Nivel 50 de Caza |
 | __Suerte__ | 30 min | <span class="tag-econ-escamas">1.000</span> | Nivel 25 de Pesca |
 | __Apnea__ | 30 min | <span class="tag-econ-escamas">2.000</span> | Nivel 50 de Pesca |
-| __Velocidad__ | 30 min | <span class="tag-econ-limos">2.000</span> | Nivel 25 de Granja |
-| __Gracia del delfín__ | 30 min | <span class="tag-econ-limos">2.000</span> | Nivel 50 de Granja |
+| __Velocidad__ | 30 min | <span class="tag-econ-espigas">2.000</span> | Nivel 25 de Granja |
+| __Gracia del delfín__ | 30 min | <span class="tag-econ-espigas">2.000</span> | Nivel 50 de Granja |
 
 ## Cajas especiales
 
@@ -103,7 +103,7 @@ Para abrir cada caja, necesitas pagar una cantidad del recurso correspondiente.
 
 | Caja especial | Tesoro Enterrado | Alijo de los bosques | Caja de las Bestias | Arcas del Navegante | Baúl de la Cosecha |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| __Coste__ | <span class="tag-econ-gemas">1.000</span> | <span class="tag-econ-ramas">1.000</span> | <span class="tag-econ-colmillos">1.000</span> | <span class="tag-econ-escamas">1.000</span> | <span class="tag-econ-limos">1.000</span> |
+| __Coste__ | <span class="tag-econ-gemas">1.000</span> | <span class="tag-econ-ramas">1.000</span> | <span class="tag-econ-colmillos">1.000</span> | <span class="tag-econ-escamas">1.000</span> | <span class="tag-econ-espigas">1.000</span> |
 | __Común__ | Pepitas de hierro | Andamios | Flechas | Pepitas de oro | Bloques de hueso |
 | __Común__ | Antorchas | *Bloques de hueso* | Pólvora | Cebos | Huevos de gallina |
 | __Común__ | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> |

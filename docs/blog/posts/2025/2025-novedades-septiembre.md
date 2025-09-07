@@ -56,14 +56,14 @@ Se han reducido la cantidad de trabajos a los cinco siguientes:
 
 Con esto se logran unos trabajos más dinámicos, evitando jobs que solo se dediquen a una sola tarea. Además, los trabajos __no__ dan <span class="tag-econ-dracmas">dracmas</span> directamente, sino __recursos__.
 
-!!! question "Los recursos <span class="tag-econ-gemas"></span> <span class="tag-econ-ramas"></span> <span class="tag-econ-colmillos"></span> <span class="tag-econ-escamas"></span> <span class="tag-econ-limos"></span>"
+!!! question "Los recursos <span class="tag-econ-gemas"></span> <span class="tag-econ-ramas"></span> <span class="tag-econ-colmillos"></span> <span class="tag-econ-escamas"></span> <span class="tag-econ-espigas"></span>"
     __Cada trabajo aporta un recurso distinto__. Debes ir cambiando de trabajo para ir recolectando recursos. También puedes recibir o enviar recursos a la gente con `/<recurso> pay <jugador> <cantidad>`.
 
     - :material-pickaxe:{ .middle } __Minería__ aporta <span class="tag-econ-gemas">gemas</span>
     - :material-axe:{ .middle } __Tala__ aporta <span class="tag-econ-ramas">ramas</span>
     - :material-bow-arrow:{ .middle } __Caza__ aporta <span class="tag-econ-colmillos">colmillos</span>
     - :material-fish:{ .middle } __Pesca__ aporta <span class="tag-econ-escamas">escamas</span>
-    - :material-cow:{ .middle } __Granja__ aporta <span class="tag-econ-limos">limos</span>
+    - :material-cow:{ .middle } __Granja__ aporta <span class="tag-econ-espigas">espigas</span>
 
 Con los recursos se pueden activar __efectos o perks temporales__ desbloqueados en ciertos niveles de job, __encargos especiales__ que te recompensan con <span class="tag-econ-dracmas"></span> y __cajas especiales__.
 

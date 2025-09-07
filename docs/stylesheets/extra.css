@@ -115,11 +115,11 @@ body:has([href="."]) .md-main {
   content: " 🐟";
 }
 
-.tag-econ-limos {
+.tag-econ-espigas {
   background-color: rgb(27, 94, 32);
 }
-.tag-econ-limos::after {
-  content: " 🟫";
+.tag-econ-espigas::after {
+  content: " 🌾";
 }
 
 .tag-econ-votos {
