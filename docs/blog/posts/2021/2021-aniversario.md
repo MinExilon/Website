@@ -126,10 +126,10 @@ Para este tercer aniversario vuelven los packs especiales tanto para usuarios qu
 | | Pack Especial VIP Ghast | Pack Especial VIP WitherEx | Pack Especial de Aniversario |
 | :--- | :---: | :---: | :---: |
 | __Premio del Pack__ | 19.90 € | 19.90 € | 6.90 € |
-| __3 meses de VIP Ghast__<br>(valorado en 26,70 €) | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> |
-| __3 meses de VIP WitherEx__<br>(valorado en 22,50 €) | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:red">:fontawesome-solid-circle-xmark:</span> |
-| __10 Cajas Brillantes de LVL 2__<br>(valorados en 9,40 €) | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
-| __10 bonus plots para la ciudad en la que residas__<br>(valorados en 2,60 €) | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> | <span style="font-size:16px; color:green">:fontawesome-solid-circle-check:</span> |
+| __3 meses de VIP Ghast__<br>(valorado en 26,70 €) | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:red">:lucide-circle-x:</span> | <span style="font-size:20px; color:red">:lucide-circle-x:</span> |
+| __3 meses de VIP WitherEx__<br>(valorado en 22,50 €) | <span style="font-size:20px; color:red">:lucide-circle-x:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:red">:lucide-circle-x:</span> |
+| __10 Cajas Brillantes de LVL 2__<br>(valorados en 9,40 €) | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> |
+| __10 bonus plots para la ciudad en la que residas__<br>(valorados en 2,60 €) | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> |
 
 ### Poder del Fly para todos
 <figure markdown="span">

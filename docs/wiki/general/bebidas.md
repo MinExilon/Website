@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/wine-bottle
+icon: lucide/bottle-wine
 ---
 # Bebidas, brebajes y mermeladas
 
@@ -106,11 +106,11 @@ También hay que tener en cuenta que según la perfección del proceso te saldr�
 
 <div class="grid cards" markdown>
 
--   ### :fontawesome-solid-beer-mug-empty:{ .lg .middle } &nbsp; __Cervezas__
+-   ### :lucide-beer:{ .lg .middle } &nbsp; __Cervezas__
 
     ---
 
-    - Pobre, Común y :fontawesome-solid-star:{ .middle } __Artesanal__
+    - Pobre, Común y :lucide-star:{ .middle } __Artesanal__
     - Bebidas disponibles: 13
     - Grado alcohol: no supera los 8º
 
@@ -118,11 +118,11 @@ También hay que tener en cuenta que según la perfección del proceso te saldr�
 
     Las cervezas raras veces requieren destilaciones.
 
--   ### :fontawesome-solid-wine-glass:{ .lg .middle } &nbsp; __Vinos__
+-   ### :lucide-wine:{ .lg .middle } &nbsp; __Vinos__
 
     ---
 
-    - Crianza, Reserva y :fontawesome-solid-star:{ .middle } __Gran Reserva__
+    - Crianza, Reserva y :lucide-star:{ .middle } __Gran Reserva__
     - Bebidas disponibles: 9
     - Grado alcohol: en torno a los 14º
 
@@ -130,21 +130,21 @@ También hay que tener en cuenta que según la perfección del proceso te saldr�
 
     Los vinos son de las bebidas más complicadas de elaborar, ya que requiere destreza y precisión en las 3 etapas de proceso (siendo de las bebidas que más tiempo de envejecimiento necesitan).
 
--   ### :fontawesome-solid-martini-glass:{ .lg .middle } &nbsp; __Licores__
+-   ### :lucide-martini:{ .lg .middle } &nbsp; __Licores__
 
     ---
 
-    - Seco, Aromático y :fontawesome-solid-star:{ .middle } __Sensacional__
+    - Seco, Aromático y :lucide-star:{ .middle } __Sensacional__
     - Bebidas disponibles: 13
     - Grado alcohol: desde los 40º hasta los 90º
 
     Los licores son muy variados en cuanto a complejidad, ingredientes principales y procesos requeridos. El número de destilados en este tipo de bebidas son vitales para elaborar un licor de gran calidad. También cabe destacar que el grado de alcohol depende mucho del tipo de licor preparado.
 
--   ### :fontawesome-solid-bottle-droplet:{ .lg .middle } &nbsp; __Brebajes__
+-   ### :lucide-cup-soda:{ .lg .middle } &nbsp; __Brebajes__
 
     ---
 
-    - Malo, Fino y :fontawesome-solid-star:{ .middle } __Especial__
+    - Malo, Fino y :lucide-star:{ .middle } __Especial__
     - Bebidas disponibles: 11
     - Grado alcohol: suele ser 0º
 
@@ -152,11 +152,11 @@ También hay que tener en cuenta que según la perfección del proceso te saldr�
 
     Los procesos de destilación y envejecimiento se usan en algunos casos, pero no en la gran mayoría de los brebajes.
 
--   ### :material-tea:{ .lg .middle } &nbsp; __Infusiones__
+-   ### :lucide-coffee:{ .lg .middle } &nbsp; __Infusiones__
 
     ---
 
-    - Insípida, Equilibrada y :fontawesome-solid-star:{ .middle } __Natural__
+    - Insípida, Equilibrada y :lucide-star:{ .middle } __Natural__
     - Bebidas disponibles: 12
     - Grado alcohol: no tienen
     
@@ -168,11 +168,11 @@ También hay que tener en cuenta que según la perfección del proceso te saldr�
 
     !!! tip "Reducen el estado de embriaguez"
 
--   ### :fontawesome-solid-mug-saucer:{ .lg .middle } &nbsp; __Cafés__
+-   ### :lucide-coffee:{ .lg .middle } &nbsp; __Cafés__
 
     ---
 
-    - Aguado, Suave e :fontawesome-solid-star:{ .middle } __Intenso__
+    - Aguado, Suave e :lucide-star:{ .middle } __Intenso__
     - Bebidas disponibles: 10
     - Grado alcohol: suele ser 0º
     
@@ -182,11 +182,11 @@ También hay que tener en cuenta que según la perfección del proceso te saldr�
 
     Los cafés que no incluyan alcohol no son necesarios destilarlos o envejecerlos. No obstante, los cafés que incluyen algún tipo de alcohol sí que deben ser tratados para conseguir una calidad excepcional!
 
--   ### :fontawesome-solid-jar:{ .lg .middle } &nbsp; __Mermeladas__
+-   ### :lucide-pill-bottle:{ .lg .middle } &nbsp; __Mermeladas__
 
     ---
 
-    - Amarga, Dulce y :fontawesome-solid-star:{ .middle } __Exquisita__
+    - Amarga, Dulce y :lucide-star:{ .middle } __Exquisita__
     - Bebidas disponibles: 16
     - Grado alcohol: no tienen
     

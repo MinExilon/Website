@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/puzzle-piece
+icon: lucide/gamepad-2
 ---
 # Minijuegos
 

@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/money-bill-wheat
+icon: lucide/coins
 ---
 # Subastas
 

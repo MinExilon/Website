@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/fish
+icon: lucide/fish
 ---
 # La pesca en MinExilon
 

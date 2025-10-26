@@ -32,7 +32,7 @@ Ahora estamos con todos los preparativos y la idea es tenerlo todo bien pulido a
 <div style="text-align: center;" markdown>
 __Fecha prevista para la actualización 2.0__
 
-Posiblemente en mayo de 2025 :fontawesome-solid-circle-question:{ title="La fecha se especificará más adelante" }
+Posiblemente en mayo de 2025 :lucide-circle-question-mark:{ title="La fecha se especificará más adelante" }
 </div>
 
 ==}
@@ -44,7 +44,7 @@ Empecemos por lo más obvio, ¡una nueva y flamante página web!
 - [x] Se ha rediseñado la web entera para dejarlo mucho más ligero, rápido y fácil de navegar. Además, incluye un potente buscador capaz de encontrarte todas las palabras que empiezan por la letra `s` en milésimas de segundo.
 - [x] Se tienen principalmente dos secciones:
     - [Blog](../../index.md): Donde se publicarán todas las noticias, eventos y actualizaciones. Como todo blog, podrás filtrar el contenido por etiquetas, categorías o fechas.
-    - [Wiki](../../../wiki/index.md): donde se alojan las guías de los sistemas que tiene el servidor. En el panel izquierdo de la Wiki se listan todas las guías y posibles estados, como :material-alert-decagram:{ title="Nueva guía" } o :fontawesome-solid-trash-can:{ title="Desactualizada" }.
+    - [Wiki](../../../wiki/index.md): donde se alojan las guías de los sistemas que tiene el servidor. En el panel izquierdo de la Wiki se listan todas las guías y posibles estados, como :lucide-badge-plus:{ title="Nueva guía" } o :lucide-trash:{ title="Desactualizada" }.
 
 Toda la sección __social__ de la web se ha movido a nuestro __Discord__, ya que la comunidad es mucho más activa por esta vía.
 
@@ -164,7 +164,7 @@ Con el nuevo rumbo que va a tomar el servidor y la inversión que esto requiere,
 
 | VIP | Precio | Duración | Características |
 | :---: | :---: | :---: | :--- |
-| <span class="tag-vip-vex"></span> | 4.80 € | 1 mes | Rango VIP más barato enfocado a ampliar limitaciones de homes, plots y privados. |
+| <span class="tag-vip-rana"></span> | 4.80 € | 1 mes | Rango VIP más barato enfocado a ampliar limitaciones de homes, plots y privados. |
 | <span class="tag-vip-ghast"></span> | 8.90 € | 1 mes | El rango VIP estándar con características similares al VIP Ghast actual: acceso al `/fly`, al `/nick` y un sinfín de cosas.  |
 | <span class="tag-vip-wither"></span> | 12.40 € | 1 mes | Tendrá una potencia similar al WitherEx, con elementos exclusivos como la bebida personalizada, el guardado de ítems en cofres al morir, etcétera. |
 
@@ -177,7 +177,7 @@ En la wiki [Rangos del servidor](../../../wiki/basico/rangos.md) podéis consult
 
 !!! info "La Tienda Web se activará cuando se realice la actualización"
 
-[:fontawesome-solid-cart-shopping: &nbsp; Tienda Web](https://store.minexilon.com/){ .md-button .md-button--secondary }
+[:lucide-handbag: &nbsp; Tienda Web](https://store.minexilon.com/){ .md-button .md-button--secondary }
 
 ## Hoja de ruta
 Estos son los objetivos que tenemos en mente una vez actualicemos el servidor:

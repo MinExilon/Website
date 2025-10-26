@@ -17,6 +17,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
   - pymdownx.blocks.html
   - def_list
   - pymdownx.tasklist:
@@ -51,8 +54,10 @@ theme:
     - toc.follow
     - announce.dismiss
     - content.tooltips
+    - content.code.copy
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/lucide.css
 extra_javascript:
   - javascripts/extra.js
 plugins:
@@ -80,6 +85,7 @@ nav:
       - Cómo empezar: wiki/basico/como-empezar.md
       - Rangos del servidor: wiki/basico/rangos.md
       - Cómo votar: wiki/basico/votar.md
+      - Preguntas frequentes: wiki/basico/faq.md
     - Generales:
       - Trabajos: wiki/general/jobs.md
       - Pesca: wiki/general/pesca.md

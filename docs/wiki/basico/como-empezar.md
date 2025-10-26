@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/campground
+icon: lucide/flame-kindling
 ---
 # Cómo empezar en MinExilon
 
@@ -27,7 +27,7 @@ Si estás explorando en el Mundo Exilon o estás consiguiendo recursos en Mineo 
 
 <div class="grid cards" markdown>
 
--   :material-lock:{ .lg .middle } &nbsp; __Privados__
+-   :lucide-shield-x:{ .lg .middle } &nbsp; __Privados__
 
     ---
 
@@ -37,7 +37,7 @@ Si estás explorando en el Mundo Exilon o estás consiguiendo recursos en Mineo 
     
     Si te has equivocado en algún momento o ya no quieres que esté privatizado usa `/cremove` y clic al cofre.
 
--   :fontawesome-solid-location-dot:{ .lg .middle } &nbsp; __Homes__
+-   :lucide-house:{ .lg .middle } &nbsp; __Homes__
 
     ---
 

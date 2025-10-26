@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/suitcase-rolling
+icon: lucide/luggage
 ---
 # Procedimiento de Desahucios
 

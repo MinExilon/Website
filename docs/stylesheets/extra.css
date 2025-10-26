@@ -70,6 +70,18 @@ body:has([href="."]) .md-main {
   font-size: large;
 }
 
+/* Grids */
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  align-items: start;
+}
+.grid-3 img {
+  width: 100%;
+  /* border-radius: 0.5rem; */
+}
+
 /* Economy tags */
 
 [class^="tag-econ-"] {
@@ -202,12 +214,12 @@ body:has([href="."]) .md-main {
   content: "VIP Ghast";
 }
 
-.tag-vip-vex {
-  background-color: #00aa00;
+.tag-vip-rana {
+  background-color: #ffaa00;
 }
-.tag-vip-vex::before {
-  background-color: #9ae69a;
-  content: "VIP Vex";
+.tag-vip-rana::before {
+  background-color: #ffd175;
+  content: "VIP Rana";
 }
 
 /* Veteranias tags */

@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/briefcase
+icon: lucide/briefcase-business
 ---
 # Los trabajos de Steve (Steve Jobs)
 
@@ -15,7 +15,7 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
 <div class="grid cards" markdown>
 
--   ## :material-pickaxe:{ .middle } __Minería__
+-   ## :lucide-pickaxe:{ .middle } __Minería__
 
     ---
 
@@ -23,7 +23,7 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
     Pica minerales y crea utensilios.
 
--   ## :material-axe:{ .middle } __Tala__
+-   ## :lucide-axe:{ .middle } __Tala__
 
     ---
 
@@ -31,7 +31,7 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
     Tala árboles y dale forma a la madera.
 
--   ## :material-bow-arrow:{ .middle } __Caza__
+-   ## :lucide-sword:{ .middle } __Caza__
 
     ---
 
@@ -39,7 +39,7 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
     Equípate para matar mobs de todo tipo.
 
--   ## :material-fish:{ .middle } __Pesca__
+-   ## :lucide-fish:{ .middle } __Pesca__
 
     ---
 
@@ -47,7 +47,7 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
     Explora el mundo y pesca diversos peces.
 
--   ## :material-cow:{ .middle } __Granja__
+-   ## :lucide-tractor:{ .middle } __Granja__
 
     ---
 

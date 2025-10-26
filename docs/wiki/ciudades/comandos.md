@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/gear
+icon: lucide/building-2
 ---
 # Comandos de ciudades, ciudadanos y parcelas
 
@@ -16,7 +16,7 @@ Debes tener claras las siguientes pautas:
 
 1. Si hay algún comando que no entiendas bien y suponga cierto riesgo para tu ciudad, consúltalo antes con la administración.
 2. Los radios que se presentan en algunos comandos son radios de plots/parcelas, no de bloques.
-3. Si se indica un <span style="color:red">:fontawesome-solid-circle-exclamation:</span> al lado del comando, significa que se trata de un comando crítico con el que hay que tener especial cuidado.
+3. Si se indica un <span style="color:red">:lucide-circle-alert:</span> al lado del comando, significa que se trata de un comando crítico con el que hay que tener especial cuidado.
 4. Algunos comandos se pueden abreviar como `/t` (`/town`), `/p` (`/plot`), `/res` (`/resident`), `/n` (`/nation`).
 
 ## Comandos generales
@@ -74,16 +74,16 @@ Independientemente de parcelas, ciudades y embajadas; tu eres un individuo. Como
 | `/res` | | Muestra tu propio perfil de residente. |
 | `/res ?` | | Muestra los comandos de los residentes. |
 | `/res <residente>` | | Muestra el perfil de cierto residente. |
-| `/res friend add <residente> [residente2...]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Agrega a tu lista de amigos a uno o varios residentes a la vez que estén online. *Si agregas a alguien a tu lista de amigos le permites destruir/construir en tus propiedades si lo tienes activado por defecto en tus perms!* |
-| `/res friend add+ <residente> [residente2...]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Agrega a tu lista de amigos a uno o varios residentes a la vez que estén offline. *Si agregas a alguien a tu lista de amigos le permites destruir/construir en tus propiedades si lo tienes activado por defecto en tus perms!* |
+| `/res friend add <residente> [residente2...]` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Agrega a tu lista de amigos a uno o varios residentes a la vez que estén online. *Si agregas a alguien a tu lista de amigos le permites destruir/construir en tus propiedades si lo tienes activado por defecto en tus perms!* |
+| `/res friend add+ <residente> [residente2...]` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Agrega a tu lista de amigos a uno o varios residentes a la vez que estén offline. *Si agregas a alguien a tu lista de amigos le permites destruir/construir en tus propiedades si lo tienes activado por defecto en tus perms!* |
 | `/res friend remove <residente> [residente2...]` | | Elimina de tu lista de amigos a uno o varios residentes a la vez que estén online. |
 | `/res friend remove+ <residente> [residente2...]` | | Elimina de tu lista de amigos a uno o varios residentes a la vez que estén offline. |
-| `/res friend clearlist` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Elimina a toda la lista de amigos. |
+| `/res friend clearlist` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Elimina a toda la lista de amigos. |
 | `/res list` | | Muestra los residentes que están online de la ciudad a la que pertenezcas. |
 | `/res jail paybail` | | Permites a un residente encarcelado a pagar un precio para salir de la cárcel. El dinero va directamente al banco de la ciudad. |
 | `/res spawn` | | Si el residente tiene una cama como lugar de spawn, se teletransportará directamente a ese punto. |
 | `/res toggle map` | | Activa/desactiva un mapa en el chat que se va actualizando conforme te muevas de una parcela a otra. |
-| `/res toggle townclaim` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Activa/desactiva el modo de autoclaim en el que conforme de muevas por los bordes de la ciudad te va claimeando las parcelas automáticamente. |
+| `/res toggle townclaim` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Activa/desactiva el modo de autoclaim en el que conforme de muevas por los bordes de la ciudad te va claimeando las parcelas automáticamente. |
 | `/res toggle plotborder` | | Activa/desactiva las delimitaciones de las parcelas a través de un humo que sale en los bordes al cambiar de una parcela a otra. |
 | `/res toggle reset` | | Desactiva todas las opciones activadas. |
 | `/res set perm <resident/ally/outsider> <on/off>` | | |
@@ -101,42 +101,42 @@ Si eres alcalde de una ciudad en el servidor o un asistente, estos comandos te a
 | `/town ?` | | Muestra los comandos disponibles para las ciudades. |
 | `/town <ciudad>` | | Muestra la información de la ciudad indicada. |
 | `/town here` | | Muestra la información de la ciudad en el que te encuentres. |
-| `/town leave` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Abandonas la ciudad. |
+| `/town leave` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Abandonas la ciudad. |
 | `/town list [página]` | | Muestra la lista de las ciudades creadas. |
 | `/town online` | | Muestra la cantidad de residentes de tu ciudad que se encuentran online. |
 | `/town plots <ciudad>` | | Muestra una lista de las parcelas que tiene la ciudad y del tipo que son o el precio de venta que tienen. |
 | `/town <new/create> <ciudad>` | | Crea una nueva ciudad. __Cuesta__ <span class="tag-econ-dracmas">1.000.000</span> |
-| `/town add <residente> [residente2...]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Agrega a usuarios a tu ciudad (siendo alcalde/asistente). |
-| `/town kick <residente> [residente2...]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Expulsa a ciertos residentes de tu ciudad (siendo alcalde/asistente). |
+| `/town add <residente> [residente2...]` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Agrega a usuarios a tu ciudad (siendo alcalde/asistente). |
+| `/town kick <residente> [residente2...]` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Expulsa a ciertos residentes de tu ciudad (siendo alcalde/asistente). |
 | `/town spawn` | | Te teletransporta al spawn de tu ciudad. |
 | `/town spawn <ciudad>` | | Te teletransporta al spawn de la ciudad indicada. __Cuesta__ <span class="tag-econ-dracmas">10</span> |
 | `/town claim` | | Apropia un terreno como parcela de la ciudad (siendo alcalde o asistente). __Cuesta__ <span class="tag-econ-dracmas">5.000</span> __Elevación de impuestos diarios de ciudad:__ <span class="tag-econ-dracmas">+50</span> __por plot.__ |
 | `/town claim outpost` | |  Claimea una zona externa a tu ciudad. __Cuesta__ <span class="tag-econ-dracmas">500.000</span> __el primer plot de outpost.__ |
-| `/town claim [radio/auto]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Claimea un área de plots alrededor tuyo o usa `auto` para claimearlos de forma automática. |
-| `/town unclaim [radio]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Despropia cierta parcela o un área de parcelas de la ciudad. |
-| `/town unclaim all` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | La ciudad se despropia de todas las parcelas claimeadas. |
-| `/town unclaim outpost` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Se emplea para despropiar terrenos anexos de una ciudad que se encuentren glitcheados. |
+| `/town claim [radio/auto]` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Claimea un área de plots alrededor tuyo o usa `auto` para claimearlos de forma automática. |
+| `/town unclaim [radio]` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Despropia cierta parcela o un área de parcelas de la ciudad. |
+| `/town unclaim all` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | La ciudad se despropia de todas las parcelas claimeadas. |
+| `/town unclaim outpost` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Se emplea para despropiar terrenos anexos de una ciudad que se encuentren glitcheados. |
 | `/town withdraw <dracmas>` | | Aporta al alcalde cierta cantidad del banco (sólo lo puede emplear el alcalde). |
 | `/town deposit <dracmas>` | | Agrega cierta cantidad de dracmas al banco de la ciudad. |
 | `/town buy bonus <cantidad>` | | Compra la cantidad deseada de parcelas bonus para la ciudad. __Cuesta__ <span class="tag-econ-dracmas">20.000</span> __Cantidad disponible: 50 bonus plot.__ |
-| `/town delete <ciudad>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Elimina la ciudad (sólo lo puede realizar el alcalde). |
+| `/town delete <ciudad>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Elimina la ciudad (sólo lo puede realizar el alcalde). |
 | `/town outlawlist <ciudad>` | | Muestra los enemigos listados de una ciudad. |
-| `/town outlaw <add/remove> <ciudad>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Agrega o elimina a un usuario enemigo a tu lista de la ciudad. (Al agregarlo se expulsa automáticamente de la ciudad si era residente de la misma). |
+| `/town outlaw <add/remove> <ciudad>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Agrega o elimina a un usuario enemigo a tu lista de la ciudad. (Al agregarlo se expulsa automáticamente de la ciudad si era residente de la misma). |
 | `/town outpost <número/list>` | | Te teletransporta a un lugar anexo de la ciudad o te muestra una lista de las áreas anexas de la ciudad. |
 | `/town ranklist` | | Te muestra los residentes y sus rangos definidos en la ciudad. |
-| `/town rank <add/remove> <usuario> <rango>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Agrega o elimina a un residente de cierto rango de la ciudad. [Consulta los rangos](#rangos-de-ciudades) |
+| `/town rank <add/remove> <usuario> <rango>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Agrega o elimina a un residente de cierto rango de la ciudad. [Consulta los rangos](#rangos-de-ciudades) |
 | `/town reslist <ciudad>` | | Muestra una lista completa de todos los residentes de una ciudad. |
 | `/town say <mensaje>` | | Emite un mensaje a todos los miembros de la ciudad. |
 | `/town set board <mensaje>` | | Muestra un mensaje de la ciudad cuando un residente entra. |
-| `/town set mayor <usuario>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Comando que puede poner el alcalde para nombrar a otro residente como alcalde de dicha ciudad. |
+| `/town set mayor <usuario>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Comando que puede poner el alcalde para nombrar a otro residente como alcalde de dicha ciudad. |
 | `/town homeblock` | | Pone dicha parcela como homeblock de la ciudad y la ubicación como spawn de la ciudad. |
 | `/town spawn` | | Pone la ubicación en la que se ejecuta como spawn de la ciudad. (Debe ser dentro del homeblock). |
 | `/town name <nombre>` | | Cambia el nombre de la ciudad. |
 | `/town outpost` | | Reemplaza el lugar de spawn de una zona anexa a la ciudad a la localización del jugador correspondiente. (Debe estar dentro de un plot de esa zona anexa). |
 | `/town jail` | | Reemplaza el lugar de spawn de una parcela tipo cárcel a la localización del jugador. |
-| `/town set perm <resident/ally/outsider> <on/off>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | |
-| `/town set perm <build/destroy/switch/itemuse> <on/off>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | |
-| `/town set perm <resident/ally/outsider> <build/destroy/switch/itemuse> <on/off>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | |
+| `/town set perm <resident/ally/outsider> <on/off>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | |
+| `/town set perm <build/destroy/switch/itemuse> <on/off>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | |
+| `/town set perm <resident/ally/outsider> <build/destroy/switch/itemuse> <on/off>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | |
 | `/town set perm reset` | | Reinicia todos los permisos establecidos a los de por defecto. |
 | `/town set tag <tag>` | | Define el tag de la ciudad. *Se permiten hasta 4 letras.* |
 | `/town set tag clear` | | Elimina el tag de la ciudad. |
@@ -147,22 +147,22 @@ Si eres alcalde de una ciudad en el servidor o un asistente, estos comandos te a
 | `/town set shoptax <dracmas>` | | Configura los impuestos diarios por plot tipo tienda que tengan los residentes. |
 | `/town set embassyprice <dracmas>` | | Define un precio estándar para todos los plots tipo embajada que se pongan a la venta. |
 | `/town set embassytax <dracmas>` | | Configura los impuestos diarios por plot tipo embajada que tengan los residentes. |
-| `/town toggle explosion` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Habilita/deshabilita explosiones en la ciudad. |
-| `/town toggle fire` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Habilita/deshabilita la propagación del fuego en al ciudad. |
+| `/town toggle explosion` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Habilita/deshabilita explosiones en la ciudad. |
+| `/town toggle fire` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Habilita/deshabilita la propagación del fuego en al ciudad. |
 | `/town toggle mobs` | | Habilita/deshabilita la aparición de mobs dentro de la ciudad. |
 | `/town toggle public` | | Habilita/deshabilita que los usuarios puedan acceder con /t spawn a la ciudad o ver las coordenadas en el perfil de la ciudad. |
-| `/town toggle pvp` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Habilita/deshabilita el pvp en la ciudad. |
-| `/town toggle taxpercent` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Habilita/deshabilita los impuestos porcentuales de los terrenos. |
-| `/town toggle open` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Habilita/deshabilita las entradas abiertas de los residentes a tu ciudad (es decir, que se pueden meter solos a la ciudad sin necesidad de invite). |
+| `/town toggle pvp` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Habilita/deshabilita el pvp en la ciudad. |
+| `/town toggle taxpercent` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Habilita/deshabilita los impuestos porcentuales de los terrenos. |
+| `/town toggle open` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Habilita/deshabilita las entradas abiertas de los residentes a tu ciudad (es decir, que se pueden meter solos a la ciudad sin necesidad de invite). |
 | `/town toggle jail <número> <residente>` | | Envia a un residente de tu ciudad a la cárcel indicada con dicho número. |
 | `/town join <ciudad>` | | Comando para pertenecer a una ciudad que no requiera de invitación por parte del staff de la ciudad (es decir, que esté open). |
 
 ### Rangos de ciudades
 - __Reclutador__: Sólo tiene permisos para invitar a usuarios a tu ciudad.
 - __Carcelero__: Tiene permisos para enviar a alguien a la cárcel de la ciudad; y expulsar a un usuario de la ciudad y catalogarlo como enemigo.
-- <span style="color:red">:fontawesome-solid-circle-exclamation:</span> __Constructor__: Puede construir en cualquier plot perteneciente a la ciudad, sea o no de un usuario. También puede abrir los cofres que no estén privatizados en cualquier zona de la ciudad.
-- <span style="color:red">:fontawesome-solid-circle-exclamation:</span> __Ayudante__: Gestiona la parte del reclutador y los permisos de los plots de la ciudad. Puede poner/quitar plots que estén a la venta y cambiar sus permisos y configuraciones en cualquier aspecto.
-- <span style="color:red">:fontawesome-solid-circle-exclamation:</span> __Asistente__ (assistant debes poner en este caso): Tiene todos los permisos de gestión y construcción excepto la retirada de dracmas de la ciudad que sólo lo podrá realizar el alcalde.
+- <span style="color:red">:lucide-circle-alert:</span> __Constructor__: Puede construir en cualquier plot perteneciente a la ciudad, sea o no de un usuario. También puede abrir los cofres que no estén privatizados en cualquier zona de la ciudad.
+- <span style="color:red">:lucide-circle-alert:</span> __Ayudante__: Gestiona la parte del reclutador y los permisos de los plots de la ciudad. Puede poner/quitar plots que estén a la venta y cambiar sus permisos y configuraciones en cualquier aspecto.
+- <span style="color:red">:lucide-circle-alert:</span> __Asistente__ (assistant debes poner en este caso): Tiene todos los permisos de gestión y construcción excepto la retirada de dracmas de la ciudad que sólo lo podrá realizar el alcalde.
 
 ## Comandos de nación
 La unión es más poderosa. Creando una nación de varias ciudades puedes fortalecer ciertas relaciones entre las mismas. Infórmate bien con los siguientes comandos.
@@ -174,21 +174,21 @@ La unión es más poderosa. Creando una nación de varias ciudades puedes fortal
 | `/nation list [página]` | | Lista de las naciones creadas en el servidor. |
 | `/nation online` | | Muestra los jugadores que están online de tu nación. |
 | `/nation <nación>` | | Te muestra el perfil de la nación indicada. |
-| `/nation leave` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Siendo alcalde, eliminas la ciudad de la nación la que pertenece. |
+| `/nation leave` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Siendo alcalde, eliminas la ciudad de la nación la que pertenece. |
 | `/nation withdraw <dracmas>` | | El rey de la nación puede retirar cierta cantidad de dracmas de las arcas de la nación. |
 | `/nation deposit <dracmas>` | | El rey de la nación puede depositar cierta cantidad de dracmas a las arcas de la nación. |
 | `/nation <new/create> <nación>` | | Comando a ejecutar por un alcalde para crear una nación. Debes ser de una veteranía igual o superior a <span class="tag-vet-20"></span>. __Cuesta__ <span class="tag-econ-dracmas">500.000</span> |
-| `/nation rank` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Comando para mostrar/definir rangos para la nación. |
+| `/nation rank` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Comando para mostrar/definir rangos para la nación. |
 | `/nation add <ciudad> [ciudad2...]` | | Invitas/agregas una ciudad o varias a la nación (debe realizarlo el rey o asistentes de la nación). |
-| `/nation remove <ciudad> [ciudad2...]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Expulsas una ciudad o varias de la nación (debe realizarlo el rey o asistentes de la nación). |
-| `/nation delete <nación>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Elimina tu nación (debe realizarlo el rey o asistentes de la nación). |
+| `/nation remove <ciudad> [ciudad2...]` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Expulsas una ciudad o varias de la nación (debe realizarlo el rey o asistentes de la nación). |
+| `/nation delete <nación>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Elimina tu nación (debe realizarlo el rey o asistentes de la nación). |
 | `/nation ally <add/remove> <nación> [nación2...]` | | Agrega o elimina una nación de tu lista de naciones aliadas. |
-| `/nation enemy <add/remove> <nación> [nación2...]` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Agrega o elimina una nación de tu lista de naciones enemigas. |
-| `/nation rank <add/remove> <usuario> <rango>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Agrega o elimina a un jugador de cierto rango de la nación. |
+| `/nation enemy <add/remove> <nación> [nación2...]` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Agrega o elimina una nación de tu lista de naciones enemigas. |
+| `/nation rank <add/remove> <usuario> <rango>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Agrega o elimina a un jugador de cierto rango de la nación. |
 | `/nation say <mensaje>` | | Emite un mensaje a todos los miembros de la nación. |
-| `/nation set king <residente>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Comando que debe poner el rey para ceder su legado a otro residente que se proclama rey. |
-| `/nation set capital <ciudad>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Comando para que el rey defina la ciudad capital de la nación. |
-| `/nation set taxes <dracmas>` | <span style="font-size:16px; color:red">:fontawesome-solid-circle-exclamation:</span> | Define los impuestos diarios que deben aportar las ciudades. |
+| `/nation set king <residente>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Comando que debe poner el rey para ceder su legado a otro residente que se proclama rey. |
+| `/nation set capital <ciudad>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Comando para que el rey defina la ciudad capital de la nación. |
+| `/nation set taxes <dracmas>` | <span style="font-size:20px; color:red">:lucide-circle-alert:</span> | Define los impuestos diarios que deben aportar las ciudades. |
 | `/nation set name <nombre>` | | Cambia el nombre de la nación. |
 | `/nation set title <residente> <título>` | | Comando del rey para otorgar un título nobiliario a algún residente. |
 | `/nation set surname <residente> <sufijo>` | | Comando del rey para otorgar un sufijo a algún residente. |

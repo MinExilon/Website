@@ -20,39 +20,39 @@ title: Inicio
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-user:{ .lg .middle } &nbsp; __Premium y no premium__
+-   :lucide-user:{ .lg .middle } &nbsp; __Premium y no premium__
 
     Un servidor survival para todos los usuarios.
 
--   :fontawesome-solid-city:{ .lg .middle } &nbsp; __Towny__
+-   :lucide-building-2:{ .lg .middle } &nbsp; __Towny__
 
     Sé parte de una ciudad para construir tu hogar.
 
--   :fontawesome-solid-star:{ .lg .middle } &nbsp; __Sistema de rangos__
+-   :lucide-star:{ .lg .middle } &nbsp; __Sistema de rangos__
 
     Progresa en los 30 rangos de veteranía.
 
--   :fontawesome-solid-book:{ .lg .middle } &nbsp; __Misiones__
+-   :lucide-book-user:{ .lg .middle } &nbsp; __Misiones__
 
     Acepta grandes retos para avanzar en el juego.
 
--   :fontawesome-solid-dungeon:{ .lg .middle } &nbsp; __Mazmorras__
+-   :lucide-sword:{ .lg .middle } &nbsp; __Mazmorras__
 
     Sitios plagados de monstruos y recompensas.
 
--   :fontawesome-solid-hammer:{ .lg .middle } &nbsp; __Herramientas especiales__
+-   :lucide-pickaxe:{ .lg .middle } &nbsp; __Herramientas especiales__
 
     Recetas y objetos modificados.
 
--   :fontawesome-solid-money-bill-trend-up:{ .lg .middle } &nbsp; __Economía dinámica__
+-   :lucide-piggy-bank:{ .lg .middle } &nbsp; __Economía dinámica__
 
     Tiendas rotativas, de usuarios y subastas.
 
--   :fontawesome-solid-mug-saucer:{ .lg .middle } &nbsp; __Brewery__
+-   :lucide-bottle-wine:{ .lg .middle } &nbsp; __Brewery__
 
     Bebidas alcohólicas personalizadas.
 
--   :fontawesome-solid-trophy:{ .lg .middle } &nbsp; __Eventos__
+-   :lucide-trophy:{ .lg .middle } &nbsp; __Eventos__
 
     Organizados por la comunidad y el servidor.
 
@@ -67,7 +67,7 @@ title: Inicio
 
 No te pierdas ningún anuncio o novedad de la comunidad entrando al servidor de Discord.
 
-[:fontawesome-brands-discord: &nbsp; Unirse a Discord](https://discord.com/invite/fxEqfnT){ .md-button .md-button--secondary }
+[:fontawesome-brands-discord:{ .lg .middle } &nbsp; Unirse a Discord](https://discord.com/invite/fxEqfnT){ .md-button .md-button--secondary }
 </div>
 
 <div markdown>
@@ -85,7 +85,7 @@ No te pierdas ningún anuncio o novedad de la comunidad entrando al servidor de 
 
 Todos los eventos y streamings que realizamos en Twitch los publicamos en nuestro canal, por lo que no dudes en visitarlo para conocernos un poco más!
 
-[:fontawesome-brands-youtube: &nbsp; Visitar el canal](https://www.youtube.com/channel/UCRhbX5mSyo_zLm2GQS4Rpqw){ .md-button .md-button--secondary }
+[:fontawesome-brands-youtube:{ .lg .middle } &nbsp; Visitar el canal](https://www.youtube.com/channel/UCRhbX5mSyo_zLm2GQS4Rpqw){ .md-button .md-button--secondary }
 </div>
 
 <div markdown>
@@ -100,21 +100,21 @@ Todos los eventos y streamings que realizamos en Twitch los publicamos en nuestr
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-people-group:{ .lg .middle } &nbsp; __Staff__
+-   :lucide-users:{ .lg .middle } &nbsp; __Staff__
 
     ---
 
     Miembros del equipo que administra y gestiona el servidor.
 
-    [:octicons-arrow-right-24: Conoce al equipo](staff.md)
+    [:lucide-arrow-right:{ .middle } Conoce al equipo](staff.md)
 
--   :fontawesome-solid-star:{ .lg .middle } &nbsp; __VIP__
+-   :lucide-star:{ .lg .middle } &nbsp; __VIP__
 
     ---
 
     Miembros de la comunidad que apoyan el proyecto monetariamente.
 
-    [:octicons-arrow-right-24: Conoce a los donadores](donadores.md)
+    [:lucide-arrow-right:{ .middle } Conoce a los donadores](donadores.md)
 
 </div>
 

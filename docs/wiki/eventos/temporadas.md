@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/calendar
+icon: lucide/calendar
 ---
 # Temporadas de Eventos
 

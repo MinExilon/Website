@@ -187,4 +187,4 @@ En esta página se muestran todos los usuarios que han apoyado el servidor monet
 !!! question "¿Cómo puedo aparecer en esta página?"
     Si compras cualquier producto en la Tienda Web, aparecerás en esta página. Puede tardar unos días, al revisarse manualmente.
 
-    [:fontawesome-solid-cart-shopping: &nbsp; Tienda Web](https://store.minexilon.com/){ .md-button .md-button--secondary }
+    [:lucide-handbag:{ .middle } &nbsp; Tienda Web](https://store.minexilon.com/){ .md-button .md-button--secondary }

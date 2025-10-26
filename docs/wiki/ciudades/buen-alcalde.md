@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/book-open-reader
+icon: lucide/book-user
 ---
 # La Guía del Buen Alcalde
 
@@ -16,7 +16,7 @@ La guía se organiza en tres temas principales: __impuestos__, __rangos__ y __ti
 !!! info "Se aconseja leer e informarse adecuadamente de todos los permisos que envuelven a la ciudad y a las parcelas con la [Guía de Comandos Towny](./comandos.md)"
 
 ## Los impuestos
-> La manera más segura de doblar tu dinero es unir los dos extremos del billete y guardarlo en tu bolsillo. – Kin Hubbard.
+> *"La manera más segura de doblar tu dinero es unir los dos extremos del billete y guardarlo en tu bolsillo."* – Kin Hubbard.
 
 ### El impuesto diario de mundo Exilon
 Lo más importante es garantizar que la ciudad se mantenga en pie, ya que cada día hay un impuesto que se cobra a todas las ciudades. Ese impuesto depende de la cantidad de plots que tenga la ciudad, es decir, cada plot aumenta el impuesto diario <span class="tag-econ-dracmas">50</span>.
@@ -30,7 +30,7 @@ Los impuestos se cobran vía el banco de la ciudad. Para meter dinero al banco d
 
 Esta acción la pueden realizar todos los residentes de la ciudad por lo que sería bastante bueno incentivarlos a que depositen el dinero que puedan, para que la ciudad aguante!
 
-!!! danger "Asegura que la ciudad tenga margen en el banco ya que, en caso de que el banco de quede a 0, la ciudad pasará a un estado de Bancarrota."
+!!! danger "Asegura que la ciudad tenga margen en el banco ya que, en caso de que el banco de quede a <span class="tag-econ-dracmas">0</span>, la ciudad pasará a un estado de Bancarrota."
 
 ### Imponer un impuesto diario a los residentes
 Este método tiene cierto riesgo aparte de poder causar cierto descontento a los residentes de tu ciudad; pero es una vía para garantizar ciertos ingresos que automáticamente pasan al banco de la ciudad para hacer frente a los impuestos diarios.
@@ -42,7 +42,7 @@ Existen __dos tipos de impuestos__ que se le puede retirar a un usuario. A conti
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-money-bill:{ .lg .middle } &nbsp; __Impuesto fijo__
+-   :lucide-banknote:{ .lg .middle } &nbsp; __Impuesto fijo__
 
     ---
 
@@ -50,7 +50,7 @@ Existen __dos tipos de impuestos__ que se le puede retirar a un usuario. A conti
     2. Define el impuesto fijo diario vía `/t set taxes <dracmas>` (como máximo están capados a <span class="tag-econ-dracmas">100</span> para evitar abusos).
     3. Verifica que se haya colocado correctamente mirando la información en `/t <ciudad>`
 
--   :fontawesome-solid-money-bill-trend-up:{ .lg .middle } &nbsp; __Impuesto porcentual__
+-   :lucide-banknote-arrow-up:{ .lg .middle } &nbsp; __Impuesto porcentual__
 
     ---
 
@@ -87,7 +87,7 @@ Si tu ciudad supera el margen de deudas, la ciudad quiebra y se desvanece retira
 3. __No se trata de ninguna de las 2 situaciones anteriores.__ En este caso la ciudad pasará a estas en manos del staff 3-4 días antes de caer. Según el historial, la decisión del staff o el interés de los usuarios se procederá a ponerlo en subasta. En caso contrario se procede a regenerar la zona desahuciando a todos los residentes que tenían plots en dicha ciudad. -->
 
 ## Los Rangos de la ciudad
-> Si dos cabalgan en un caballo, uno debe ir detrás. – William Shakespeare.
+> *"Si dos cabalgan en un caballo, uno debe ir detrás."* – William Shakespeare.
 
 En este apartado se definirá de forma concreta a qué comandos puede acceder el usuario en cierto rango de la ciudad para que los alcaldes puedan asegurar que la función asignada al usuario es el correcto. Se irá describiendo de menor a mayor importancia y riesgo.
 
@@ -98,13 +98,13 @@ En este apartado se definirá de forma concreta a qué comandos puede acceder el
 
 <div class="grid cards" markdown>
 
--   ### :fontawesome-solid-user-plus:{ .lg .middle } &nbsp; __Rango Reclutador__
+-   ### :lucide-user-search:{ .lg .middle } &nbsp; __Rango Reclutador__
 
     ---
 
     Invitar a usuarios a la ciudad: `/t add <usuario>`
 
--   ### :fontawesome-solid-user-lock:{ .lg .middle } &nbsp; __Rango Carcelero__
+-   ### :lucide-user-lock:{ .lg .middle } &nbsp; __Rango Carcelero__
 
     ---
 
@@ -112,7 +112,7 @@ En este apartado se definirá de forma concreta a qué comandos puede acceder el
     - Agregar o eliminar a un usuario como enemigo de la ciudad: `/t outlaw <add/remove> <usuario>`
     - Enviar a residentes a la cárcel: `/t toggle jail <número> <usuario>`
 
--   ### :fontawesome-solid-user-gear:{ .lg .middle } &nbsp; __Rango Constructor__
+-   ### :lucide-user-cog:{ .lg .middle } &nbsp; __Rango Constructor__
 
     ---
 
@@ -123,25 +123,25 @@ En este apartado se definirá de forma concreta a qué comandos puede acceder el
 
     !!! danger "Puede abrir cofres desprivatizados en cualquier parte de la ciudad."
 
--   ### :fontawesome-solid-user-nurse:{ .lg .middle } &nbsp; __Rango Ayudante__
+-   ### :lucide-user-plus:{ .lg .middle } &nbsp; __Rango Ayudante__
 
     ---
 
     !!! warning "Puede construir y destruir bloques en cualquier zona de la ciudad"
 
-    - Permisos de :fontawesome-solid-user-plus:{ .middle } __Rango Reclutador__
-    - Permisos de :fontawesome-solid-user-gear:{ .middle } __Rango Constructor__
+    - Permisos de :lucide-user-search:{ .middle } __Rango Reclutador__
+    - Permisos de :lucide-user-cog:{ .middle } __Rango Constructor__
     - Activar/desactivar aspectos en cualquier parcela: `/plot toggle <fire/pvp/explosion/mobs>`
     - Poder retirar parcelas de un residente y dejarlas como terreno de ciudad: `/plot evict`
     - Poner a la venta parcelas o retirarlas de venta: `/plot fs {dracmas}` y `/plot nfs`
 
--   ### :fontawesome-solid-user-shield:{ .lg .middle } &nbsp; __Rango Asistente__
+-   ### :lucide-user-pen:{ .lg .middle } &nbsp; __Rango Asistente__
 
     ---
 
     !!! warning "Puede construir y destruir bloques en cualquier zona de la ciudad"
 
-    - Permisos de :fontawesome-solid-user-nurse:{ .middle } __Rango Ayudante__
+    - Permisos de :lucide-user-plus:{ .middle } __Rango Ayudante__
     - Puede asignar los rangos ayudante, carcelero y constructor a otros ciudadanos.
     - Plena gestión de parcelas: `/plot ?`
     - Inmune a los impuestos que la ciudad cobra a sus ciudadanos.
@@ -149,13 +149,13 @@ En este apartado se definirá de forma concreta a qué comandos puede acceder el
     - Puede usar todos los objetos posibles en cualquier parcela de la ciudad.
     - Puede claimear terreno externo a la ciudad: `/t claim`
 
--   ### :fontawesome-solid-user-tie:{ .lg .middle } &nbsp; __Rango Vicealcalde__
+-   ### :lucide-user:{ .lg .middle } &nbsp; __Rango Vicealcalde__
 
     ---
 
     !!! warning "Puede construir y destruir bloques en cualquier zona de la ciudad"
 
-    - Permisos de :fontawesome-solid-user-shield:{ .middle } __Rango Asistente__
+    - Permisos de :lucide-user-pen:{ .middle } __Rango Asistente__
     - Plena gestión de parcelas: `/plot ?`
     - Plena gestión de la ciudad: `/town ?`
         - Excepto cambiar el alcalde, el nombre de la ciudad y eliminar la ciudad.
@@ -166,9 +166,10 @@ En este apartado se definirá de forma concreta a qué comandos puede acceder el
 </div>
 
 ## Tipos de parcelas
-> La innovación es lo que distingue a un líder de los demás. - Steve Jobs
+> *"La innovación es lo que distingue a un líder de los demás."* - Steve Jobs
 
-### Parcela tipo __inn__ – ¡Crea un hotel!
+### Parcela tipo __inn__
+> ¡Crea un hotel!
 
 <figure markdown="span">
   ![Parcela inn](https://dummyimage.com/1080x650/555/fff&text=imagen pendiente)
@@ -186,7 +187,8 @@ __Pasos para hacer un hotel__
 3. Para evitar que en las habitaciones vacías puedan usar los cofres se recomienda colocar puertas de hierro sin palancas/botones (ya que no podrán colocar ítems en dichos plots, pero sí usar los botones y placas de presión).
 4. Cuando haya un interesado en tener una habitación de hotel se le cambia la puerta por una de madera que pueda abrir el huésped y se le debe recomendar que use su `/c private` en el cofre para evitar que le roben otros usuarios.
 
-### Parcela tipo __arena__ – Crea un campo de batalla
+### Parcela tipo __arena__
+> Crea un campo de batalla
 
 <figure markdown="span">
   ![Parcela arena](https://dummyimage.com/1080x650/555/fff&text=imagen pendiente)
@@ -203,7 +205,8 @@ __Pasos para hacer un campo de batalla__
     - `outsider` – Para que ese permiso afecte a los usuarios que no pertenezcan a la ciudad.
 !!! tip "No metas las gradas en esos plots porque los espectadores también tendrán pvp activado y sería un caos!"
 
-### Parcela tipo __wild__ – ¡Pon zonas de libre uso!
+### Parcela tipo __wild__
+> ¡Pon zonas de libre uso!
 
 <figure markdown="span">
   ![Parcela wild](https://dummyimage.com/1080x650/555/fff&text=imagen pendiente)
@@ -226,7 +229,8 @@ Si quieres hacer zonas de libre uso por una vía más segura, hazlo de la siguie
     - `resident` – Para que ese permiso afecte a los usuarios que pertenezcan a la ciudad.
     - `outsider` – Para que ese permiso afecte a los usuarios que no pertenezcan a la ciudad.
 
-### Parcela tipo __jail__ – ¿Quieres montar una cárcel?
+### Parcela tipo __jail__
+> ¿Quieres montar una cárcel?
 
 <figure markdown="span">
   ![Parcela jail](https://dummyimage.com/1080x650/555/fff&text=imagen pendiente)
@@ -255,7 +259,8 @@ __Pasos para hacer una celda__
 3. Para enviar a un residente a dicha cárcel pon `/t toggle jail <residente> <número>`
 4. Puedes agregar permisos adicionales en las parcelas dependiendo si deseas que salgan mobs, que pulsen botones o placas de presión, etc… vía `/plot set perm resident <build/destroy/switch/itemuse> <on/off>` y `/plot toggle <fire/pvp/explosion/mobs>`
 
-### Parcela tipo __farm__ – Monta granjas en tu ciudad
+### Parcela tipo __farm__
+> Monta granjas en tu ciudad
 
 <figure markdown="span">
   ![Parcela farm](https://dummyimage.com/1080x650/555/fff&text=imagen pendiente)
@@ -275,7 +280,8 @@ __Pasos para hacer una granja__
 4. Puedes agregar permisos adicionales en las parcelas dependiendo de lo que desees vía `/plot set perm resident <build/destroy/switch/itemuse> <on/off>`
 5. Si quieres que sean granjas públicas para que los que no pertenezcan a la ciudad también los puedan usar debes asegurar que tengan permisos de poner y romper bloques en `/plot perm` (que aparcezca `B=rao`, si aparece `B=r–` sólo los residentes puedes usarlo) vía `/plot set perm outsider <build/destroy/switch/itemuse> <on/off>`
 
-### Parcela tipo __shop__ – Construye tiendas y mercados
+### Parcela tipo __shop__
+> Construye tiendas y mercados
 
 <figure markdown="span">
   ![Parcela shop](https://dummyimage.com/1080x650/555/fff&text=imagen pendiente)
@@ -290,7 +296,8 @@ __Pasos para hacer una tienda__
 
 !!! info "Apartado en construcción"
 
-### Parcela tipo __embassy__ – ¡Vende parcelas a otro nivel!
+### Parcela tipo __embassy__
+> ¡Vende parcelas a otro nivel!
 
 <figure markdown="span">
   ![Parcela embassy](https://dummyimage.com/1080x650/555/fff&text=imagen pendiente)

@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/shop
+icon: lucide/store
 ---
 # La ciudadela Ágora
 

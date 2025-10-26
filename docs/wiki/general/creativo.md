@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/palette
+icon: lucide/hard-hat
 ---
 # Deja volar tu creatividad
 
@@ -21,7 +21,7 @@ Todos los usuarios tendrán acceso para poder ver las construcciones pero sólo 
 
 - <span class="tag-vet-26"></span> Acceso a 1 parcela de Creativo y poder unificar 2 parcelas.
 - <span class="tag-vet-27"></span> __y superiores__: Acceso a 2 parcelas de Creativo y poder unificar hasta 4 parcelas!
-- <span class="tag-vip-vex"></span> Acceso a 4 parcelas de Creativo y poder unificar hasta 7 parcelas!
+- <span class="tag-vip-rana"></span> Acceso a 4 parcelas de Creativo y poder unificar hasta 7 parcelas!
 - <span class="tag-vip-ghast"></span> Acceso a 5 parcelas de Creativo, poder unificar hasta 9 parcelas y uso de World Edit (manejo de hasta 1000 bloques/comando).
 - <span class="tag-vip-wither"></span> Acceso a 6 parcelas de Creativo, poder unificar hasta 9 parcelas y uso de World Edit (manejo de hasta 1500 bloques/comando).
 

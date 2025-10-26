@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/chess-rook
+icon: lucide/star
 ---
 # Eventos Especiales
 
