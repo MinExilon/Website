@@ -13,7 +13,9 @@ Este post se dividirá en dos partes, una desde la vista de quien realiza una su
 
 Para realizar una subasta debes poner lo siguiente teniendo el ítem o conjunto de ítems (como un stack de madera, por ejemplo) en tu mano:
 
-`/auc start <cantidad> <precio> [incremento] [autocomprar] [tiempo]`
+```
+/auc start <cantidad> <precio> [incremento] [autocomprar] [tiempo]
+```
 
 !!! example "Ejemplo: `/auc start 3 40 10 230 30`"
     Siendo cada parámetro lo siguiente:
@@ -27,7 +29,9 @@ Para realizar una subasta debes poner lo siguiente teniendo el ítem o conjunto 
 ### Haz una subasta a ciegas
 La subasta a ciegas es igual que la subasta normal, sólo que las personas que participen en ella no verán quién ha sido el último que más a pujado por ella!
 
-`/auc startsealed <cantidad> <precio> [incremento] [autocomprar] [tiempo]`
+```
+/auc startsealed <cantidad> <precio> [incremento] [autocomprar] [tiempo]
+```
 
 !!! example "Ejemplo: `/auc startsealed 3 40 10 230 30`"
     Los parámetros son los mismos que en la subasta normal.
@@ -43,7 +47,9 @@ Aquí se te muestran algunos comandos útiles:
 ## Participar en una subasta
 Para participar en una subasta basta con poner `/bid` y entras como última oferta. Si quieres subir la cantidad de <span class="tag-econ-dracmas">dracmas</span> más que la de por defecto, puedes emplear el siguiente comando:
 
-`/bid <dracmas>`
+```
+/bid <dracmas>
+```
 
 !!! example "Ejemplo: `/bid 240`"
 
