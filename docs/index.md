@@ -8,7 +8,7 @@ title: Inicio
 #
 
 <figure markdown="span">
-  ![Image title](assets/logo_minexilon_horizontal.png){ width="100%" }
+  ![MinExilon logo](assets/logo_minexilon_horizontal.png){ width="100%" }
   <br>
   [PLAY.MINEXILON.COM](#){ .md-button .md-button--primary id="copy-button" }
 </figure>

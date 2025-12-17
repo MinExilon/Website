@@ -27,7 +27,7 @@ links:
 # Título
 
 <figure markdown="span">
-  ![Portada](https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Minecraft_image1600w.jpg){ width="100%" }
+  ![Portada](https://img.minexilon.com/blog/2025/portada_novedades_septiembre.webp){ width="100%" }
 </figure>
 
 Esto es una plantilla para ir creando los posts! Utilizalo para crear un post y saber toda la metadata que se le puede poner.

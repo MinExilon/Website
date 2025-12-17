@@ -36,7 +36,7 @@ Sábado 13 de septiembre de 2025
 ==}
 
 ## Novedades de la nueva versión
-Han surgido algunas modificaciones con respecto a la [primera publicación](2025-actualizacion-minexilon.md) que hicimos.
+Han surgido algunas modificaciones con respecto a la [primera publicación](2025-1-actualizacion-minexilon.md) que hicimos.
 También hemos anotado las cuestiones que han surgido en el Discord sobre los objetos transferibles al nuevo servidor. Esto será aclarado cuando se salga de la versión BETA.
 
 ### Compatibilidad con versiones de minecraft anteriores
