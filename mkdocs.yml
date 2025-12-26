@@ -88,6 +88,7 @@ nav:
     - Introductorios:
       - Cómo empezar: wiki/basico/como-empezar.md
       - Rangos del servidor: wiki/basico/rangos.md
+      - Comandos principales: wiki/basico/comandos-principales.md
       - Cómo votar: wiki/basico/votar.md
       - Preguntas frequentes: wiki/basico/faq.md
     - Generales:
@@ -97,6 +98,7 @@ nav:
       - Mundo Creativo: wiki/general/creativo.md
     - Economía:
       - Zona Ágora: wiki/economia/agora.md
+      - Cofres tienda: wiki/economia/cofres-tienda.md
       - Subastas: wiki/economia/subastas.md
     - Ciudades:
       - Comandos: wiki/ciudades/comandos.md

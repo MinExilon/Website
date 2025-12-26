@@ -13,7 +13,7 @@ En el servidor existen tres grupos de rangos:
 
 <div class="grid cards" markdown>
 
--   :lucide-users:{ .lg .middle } &nbsp; __Staff__
+-   :lucide-users:{ .lg .middle } &nbsp; **Staff**
 
     ---
 
@@ -21,7 +21,7 @@ En el servidor existen tres grupos de rangos:
 
     [:lucide-arrow-right:{ .middle } Conoce al equipo](../../staff.md)
 
--   :lucide-star:{ .lg .middle } &nbsp; __VIP__
+-   :lucide-star:{ .lg .middle } &nbsp; **VIP**
 
     ---
 
@@ -29,7 +29,7 @@ En el servidor existen tres grupos de rangos:
 
     [:lucide-arrow-right:{ .middle } Conoce a los donadores](../../donadores.md)
 
--   :lucide-shield-user:{ .lg .middle } &nbsp; __Veteranía__
+-   :lucide-shield-user:{ .lg .middle } &nbsp; **Veteranía**
 
     ---
 
@@ -83,11 +83,14 @@ Para más información puedes acceder a la página de la tienda web.
 
 Cada veteranía que se avance proporciona una mejora permanente en el juego, pudiendo alcanzar algunas que te permitirán progresar de manera adecuada en el servidor.
 
-Si alcanzas la cima de los rango veteranos podrás disfrutar del sueño que todo minecraftiano desearía tener: el `/fly` de forma permanente!!
+Si alcanzas la cima de los rango veteranos podrás disfrutar del `/fly` dentro de la ciudad en la que residas, sin depender de un rango VIP!
 
 ### Ascenso de rango
 
-!!! info "Apartado en construcción"
+Utiliza el comando `/ascender` para subir de rango, consultar la información del ascenso y los requisitos.
+Ascender de rango requiere una serie de <span class="tag-econ-dracmas">dracmas</span> y <span class="tag-econ-votos">puntos de voto</span>.
+
+Puedes ver más información sobre las veteranías en la guía de [cómo empezar](como-empezar.md#las-veteranias).
 
 ### Lista de rangos
 
@@ -109,7 +112,7 @@ Hay un total de 30 rangos de veteranía, a continuación se muestra una tabla do
 | <span class="tag-vet-9"></span> | <span class="tag-econ-dracmas">150.000</span><br><span class="tag-econ-votos">30</span> | Construye portones automáticos | |
 | <span class="tag-vet-10"></span> | <span class="tag-econ-dracmas">200.000</span><br><span class="tag-econ-votos">30</span> | `/back` para volver al sitio anterior | +1 :lucide-house:{ .middle title="home" } (total 6)<br>+10 :lucide-shield-x:{ .middle title="privados" } (total 40) |
 | <span class="tag-vet-11"></span> | <span class="tag-econ-dracmas">220.000</span><br><span class="tag-econ-votos">35</span> | Ten un trabajo secundario | |
-| <span class="tag-vet-12"></span> | <span class="tag-econ-dracmas">250.000</span><br><span class="tag-econ-votos">40</span> | `/mesa` abre una mesa de crafteo | |
+| <span class="tag-vet-12"></span> | <span class="tag-econ-dracmas">250.000</span><br><span class="tag-econ-votos">40</span> | `/craft` abre una mesa de crafteo | |
 | <span class="tag-vet-13"></span> | <span class="tag-econ-dracmas">300.000</span><br><span class="tag-econ-votos">40</span> | | +1 :lucide-house:{ .middle title="home" } (total 7)<br>+10 :lucide-shield-x:{ .middle title="privados" } (total 50) |
 | <span class="tag-vet-14"></span> | <span class="tag-econ-dracmas">320.000</span><br><span class="tag-econ-votos">45</span> | Crea barriles grandes para hacer bebidas<br>*(Próximamente)* | |
 | <span class="tag-vet-15"></span> | <span class="tag-econ-dracmas">350.000</span><br><span class="tag-econ-votos">45</span> | Construye puentes automáticos | |

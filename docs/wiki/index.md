@@ -14,6 +14,8 @@ Bienvenid@ a la biblioteca virtual de Alejandría. Aquí podrás consultar toda 
 
     [:lucide-shield-user:{ .middle } Rangos del servidor](./basico/rangos.md)
 
+    [:lucide-square-chevron-right:{ .middle } Comandos principales](./basico/comandos-principales.md)
+
     [:lucide-vote:{ .middle } Cómo votar](./basico/votar.md)
 
     [:lucide-message-circle-question-mark:{ .middle } Preguntas frecuentes](./basico/faq.md)
@@ -39,6 +41,8 @@ Bienvenid@ a la biblioteca virtual de Alejandría. Aquí podrás consultar toda 
     Tipos de moneda e intercambios.
 
     [:lucide-store:{ .middle } Zona Ágora](./economia/agora.md)
+
+    [:lucide-inbox:{ .middle } Cofres tienda](./economia/cofres-tienda.md)
 
     [:lucide-coins:{ .middle } Subastas](./economia/subastas.md)
 
