@@ -1,0 +1,100 @@
+[class^="tag-tier-"] {
+  color: rgb(40, 40, 40);
+  font-size: 0.85em;
+  font-weight: bold;
+  padding: 0px 5px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.tag-tier-comun {
+  background-color: rgb(240, 240, 240);
+}
+.tag-tier-comun::before {
+  content: "COMÚN";
+}
+
+.tag-tier-magico {
+  background-color: rgb(85, 85, 255);
+}
+.tag-tier-magico::before {
+  content: "MÁGICO";
+}
+
+.tag-tier-raro {
+  background-color: rgb(255, 85, 255);
+}
+.tag-tier-raro::before {
+  content: "RARO";
+}
+
+.tag-tier-epico {
+  background-color: rgb(85, 255, 85);
+}
+.tag-tier-epico::before {
+  content: "ÉPICO";
+}
+
+.tag-tier-exotico {
+  background-color: rgb(255, 85, 85);
+}
+.tag-tier-exotico::before {
+  content: "EXÓTICO";
+}
+
+.tag-tier-legendario {
+  background-color: rgb(255, 255, 85);
+}
+.tag-tier-legendario::before {
+  content: "LEGENDARIO";
+}
+
+.tag-tier-unico {
+  background-color: rgb(255, 170, 0);
+}
+.tag-tier-unico::before {
+  content: "ÚNICO";
+}
+
+.tag-tier-mitico {
+  background-color: rgb(170, 0, 170);
+}
+.tag-tier-mitico::before {
+  content: "MÍTICO";
+}
+
+.tag-tier-unico,
+.tag-tier-mitico {
+  position: relative;
+  overflow: hidden;
+}
+
+.tag-tier-unico::before,
+.tag-tier-mitico::before {
+  position: relative;
+  z-index: 2;
+}
+
+/* Efecto encantamiento */
+.tag-tier-unico::after,
+.tag-tier-mitico::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    120deg,
+    rgba(255,255,255,0) 0%,
+    rgba(255,255,255,0.35) 50%,
+    rgba(255,255,255,0) 100%
+  );
+  background-size: 200% 200%;
+  animation: glint 2.5s linear infinite;
+  mix-blend-mode: screen; /* mejor brillo */
+  opacity: 0.8; /* ajusta intensidad */
+  border-radius: 4px;
+}
+
+@keyframes glint {
+  0% { background-position: -200% -200%; }
+  100% { background-position: 200% 200%; }
+}

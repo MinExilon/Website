@@ -1,0 +1,10 @@
+/* Corrige el estilo de los iconos Lucide dentro de MkDocs Material */
+.md-icon svg.lucide,
+.md-icon .lucide,
+svg.lucide {
+  fill: none !important;
+  stroke: currentColor !important;
+  stroke-width: 2.5 !important;
+  stroke-linecap: round !important;
+  stroke-linejoin: round !important;
+}
