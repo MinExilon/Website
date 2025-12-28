@@ -3,11 +3,6 @@ icon: lucide/book-user
 ---
 # La Guía del Buen Alcalde
 
-??? question "Página en construcción, la información puede ser modificada"
-    Ahora mismo estamos moviendo todo el contenido de la página web anterior a esta nueva web. Hay contenido que se va a conservar, pero es necesario dar un segundo repaso.
-    
-    El contenido estará actualizado y será definitivo cuando este aviso se elimine.
-
 En esta guía se tiene como objetivo aclarar ciertos procedimientos (entre ellos comandos y algunas indicaciones para preparar diversos tipos de zonas públicas) y asegurar que tu ciudad avance en buen camino priorizando los impuestos y especificando las funciones de cada rango de staff para que haya la máxima seguridad y coordinación posible.
 
 ## Distribución de la guía y consejos

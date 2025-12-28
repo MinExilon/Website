@@ -32,6 +32,10 @@ Bienvenid@ a la biblioteca virtual de Alejandría. Aquí podrás consultar toda 
 
     [:lucide-bottle-wine:{ .middle } Bebidas](./general/bebidas.md)
 
+    [:lucide-skull:{ .middle } Mazmorras](./general/mazmorras.md)
+
+    [:lucide-sword:{ .middle } Objetos míticos](./general/objetos-miticos.md)
+
     [:lucide-hard-hat:{ .middle } Mundo Creativo](./general/creativo.md)
 
 -   :lucide-piggy-bank:{ .lg .middle } &nbsp; __Economía__
@@ -52,7 +56,9 @@ Bienvenid@ a la biblioteca virtual de Alejandría. Aquí podrás consultar toda 
 
     Roles, parcelas y procedimientos.
 
-    [:lucide-building-2:{ .middle } Comandos](./ciudades/comandos.md)
+    [:lucide-building-2:{ .middle } Tipos de ciudad](./ciudades/tipos.md)
+    
+    [:lucide-book-type:{ .middle } Comandos](./ciudades/comandos.md)
 
     [:lucide-book-user:{ .middle } Buen Alcalde](./ciudades/buen-alcalde.md)
 

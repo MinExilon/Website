@@ -1,7 +1,11 @@
 ---
 icon: lucide/fish
+status: construction
 ---
 # La pesca en MinExilon
+
+!!! warning "En construcción"
+    Este contenido está todavía en desarrollo, por lo que puede verse modificado en un futuro.
 
 ## Descubre peces de diversos biomas
 Dependiendo del bioma en el que pesques, hay diversos peces que puedes llegar a capturar.

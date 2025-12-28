@@ -1,12 +1,11 @@
 ---
 icon: lucide/luggage
+status: construction
 ---
 # Procedimiento de Desahucios
 
-??? question "Página en construcción, la información puede ser modificada"
-    Ahora mismo estamos moviendo todo el contenido de la página web anterior a esta nueva web. Hay contenido que se va a conservar, pero es necesario dar un segundo repaso.
-    
-    El contenido estará actualizado y será definitivo cuando este aviso se elimine.
+!!! warning "En construcción"
+    Este contenido está todavía en desarrollo, por lo que puede verse modificado en un futuro.
 
 Todo los desahucios se realizarán por medio del formulario de solicitud de desahucio. Bajo ningún concepto puedes destruir la casa de un usuario a no ser que se haya aceptado su desahucio y se hayan eliminado los cofres de la parcela del usuario para que, en caso de vuelta/queja/malentendido, se le pueda mostrar al usuario el por qué de su desahucio y pueda recuperar sus objetos si no estuvo correcto.
 

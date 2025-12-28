@@ -3,11 +3,6 @@ icon: lucide/hard-hat
 ---
 # Deja volar tu creatividad
 
-??? question "Página en construcción, la información puede ser modificada"
-    Ahora mismo estamos moviendo todo el contenido de la página web anterior a esta nueva web. Hay contenido que se va a conservar, pero es necesario dar un segundo repaso.
-    
-    El contenido estará actualizado y será definitivo cuando este aviso se elimine.
-
 ¿Tienes muchas ideas para hacer algún edificio o tipo de decoración? ¿No sabes en qué plot de tu ciudad hacerlo sin destrozar la temática?
 
 Pues olvida esos problemas en el __Mundo Creativo__ de MinExilon!!

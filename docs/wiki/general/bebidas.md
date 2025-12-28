@@ -3,11 +3,6 @@ icon: lucide/bottle-wine
 ---
 # Bebidas, brebajes y mermeladas
 
-??? question "Página en construcción, la información puede ser modificada"
-    Ahora mismo estamos moviendo todo el contenido de la página web anterior a esta nueva web. Hay contenido que se va a conservar, pero es necesario dar un segundo repaso.
-    
-    El contenido estará actualizado y será definitivo cuando este aviso se elimine.
-
 Si quieres volverte un experto en el oficio de las bebidas no puedes perderte esta guía donde se detallan todos los aspectos de las diversas bebidas que hay en el servidor y la forma de crearlas!
 
 <!-- !!! abstract "Historia"

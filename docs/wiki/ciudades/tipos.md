@@ -1,7 +1,7 @@
 ---
-icon: lucide/inbox
+icon: lucide/building-2
 status: construction
 ---
-# Cofres de compra y venta de objetos
+# Tipos de ciudades
 
 !!! info "Apartado en construcción"

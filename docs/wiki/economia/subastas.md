@@ -1,7 +1,11 @@
 ---
 icon: lucide/coins
+status: unavailable
 ---
 # Subastas
+
+!!! bug "Temporalmente fuera de servicio"
+    Ahora mismo presenta ciertas incompatibilidades que solventaremos en un futuro.
 
 ¿Quieres convertirte en un auténtico maestro de subastas? Pues con este post podrás ver todos los parámetros que tienes a mano para garantizar una buena subasta y buenos compradores!
 

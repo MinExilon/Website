@@ -1,5 +1,6 @@
 ---
 icon: lucide/star
+status: unavailable
 ---
 # Eventos Especiales
 

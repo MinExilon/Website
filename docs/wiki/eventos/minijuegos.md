@@ -1,5 +1,6 @@
 ---
 icon: lucide/gamepad-2
+status: unavailable
 ---
 # Minijuegos
 

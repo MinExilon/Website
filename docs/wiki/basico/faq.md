@@ -75,3 +75,14 @@ A veces nos llegan las mismas dudas, por lo que los dejamos públicos en este ap
     - Los servicios ofrecidos en el apartado de "Ciudades y Terrenos" pueden ser realizados por el propio usuario en el juego, excepto los servicios cosméticos (que al ser cosméticos, no aportan una ventaja en el juego).
     - Las cajas ofrecidas en el apartado de "Cajas Misteriosas" pueden ser elaboradas en el servidor, mediante elementos que se consiguen también en el propio servidor. Más información sobre la creación de cajas en esta guía.
     - Los spawners ofrecidos en el apartado de "Spawners" pueden ser obtenidas en el servidor si vas por el job Minero. Más información de los jobs en esta guía.
+
+## Bugs conocidos
+
+??? bug "La azada con el efecto autoreplantar no replanta el cacao"
+    Nos encontramos el problema de que no siempre se coloca en la dirección correcta. Por ello hemos preferido no incluirlo.
+
+??? bug "No se actualizan los consumos restantes de los objetos consumibles"
+    Es un bug del plugin que estamos reportando al desarrollador para que lo solvente.
+
+??? bug "No funcionan las [subastas](../economia/subastas.md)"
+    Ahora mismo presenta ciertas incompatibilidades que solventaremos en un futuro.

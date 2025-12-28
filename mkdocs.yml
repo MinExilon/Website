@@ -95,12 +95,15 @@ nav:
       - Trabajos: wiki/general/jobs.md
       - Pesca: wiki/general/pesca.md
       - Bebidas: wiki/general/bebidas.md
+      - Mazmorras: wiki/general/mazmorras.md
+      - Objetos míticos: wiki/general/objetos-miticos.md
       - Mundo Creativo: wiki/general/creativo.md
     - Economía:
       - Zona Ágora: wiki/economia/agora.md
       - Cofres tienda: wiki/economia/cofres-tienda.md
       - Subastas: wiki/economia/subastas.md
     - Ciudades:
+      - Tipos de ciudad: wiki/ciudades/tipos.md
       - Comandos: wiki/ciudades/comandos.md
       - Buen Alcalde: wiki/ciudades/buen-alcalde.md
       - Desahucios: wiki/ciudades/desahucios.md
@@ -131,6 +134,8 @@ extra:
   status:
     new: Actualizado
     deprecated: Obsoleto
+    construction: Construyendo
+    unavailable: No disponible
   consent:
     title: Consentimiento de galletas (cookies)
     description: >- 

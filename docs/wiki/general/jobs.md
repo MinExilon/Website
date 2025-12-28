@@ -1,5 +1,6 @@
 ---
 icon: lucide/briefcase-business
+status: construction
 ---
 # Los trabajos de Steve (Steve Jobs)
 
