@@ -21,37 +21,43 @@ Entiende que, cualquier situación fuera de los límites de estas normas, queda 
 
 <div class="grid cards" markdown>
 
--   :lucide-pickaxe:{ .lg .middle } &nbsp; __1.1 - Obtención de recursos__
+-   :lucide-pickaxe:{ .lg .middle } &nbsp; **1.1 - Obtención de recursos**
 
     ---
 
-    Sólo se permite la obtención de recursos en mundo Mineo, mundo Nether y mundo End y en las áreas en las que se permite tal uso.
+    Sólo se permite la obtención de recursos en mundo Mineo, mundo Nether, mundo End y en el terreno de las ciudades.
 
--   :lucide-land-plot:{ .lg .middle } &nbsp; __1.2 - Perímetro de una ciudad__
+    !!! warning "No se permite grifear el terreno de mundo Ciudades."
+
+-   :lucide-land-plot:{ .lg .middle } &nbsp; **1.2 - Perímetro de una ciudad**
 
     ---
 
     En mundo Exilon se permite que los alcaldes puedan adecuar la zona cercana a su ciudad hasta una distancia de 20 bloques a partir del propio borde de la ciudad.
 
--   :lucide-factory:{ .lg .middle } &nbsp; __1.3 - Sistemas pesados__
+-   :lucide-factory:{ .lg .middle } &nbsp; **1.3 - Edificios pesados**
 
     ---
 
-    Bajo ningún concepto se permite la construcción de cualquier elemento/sistema/edificio que genere lag al servidor o bajadas de fps significativos.
+    Bajo ningún concepto se permite la construcción de cualquier elemento, sistema o edificio que genere lag al servidor o bajadas de fps significativos.
 
--   :lucide-hat-glasses:{ .lg .middle } &nbsp; __1.4 - Romper estructuras en Exilon__
-
-    ---
-
-    En mundo Exilon no se permite grifear parcelas de usuarios, ciudades caídas o claimearlas.
-
--   :lucide-shield-x:{ .lg .middle } &nbsp; __1.5 - Uso de los privates__ (privatizados)
+-   :lucide-flame-kindling:{ .lg .middle } &nbsp; **1.4 - Construcciones en campo**
 
     ---
 
-    Queda prohibido emplear los privates para fines que no sean el de proteger el propio elemento privatizado del grifeo.
-    
-    *Por ejemplo, usar cofres, trampillas u otros elementos privatizados para proteger zonas que deberían ser accesibles.*
+    La única forma de vivir protegido es vía el hotel o en una ciudad. Puedes vivir en campo (willderness), aunque esto no te protege de saqueos (o que te claimee una ciudad).
+
+-   :lucide-shield-x:{ .lg .middle } &nbsp; **1.5 - Uso de los privates**
+
+    ---
+
+    No utilices elementos privatizados para bloquear el acceso a áreas o a bloques a los que sí se deberían poder llegar.
+
+-   :lucide-siren:{ .lg .middle } &nbsp; **1.6 - Construcciones inapropiadas**
+
+    ---
+
+    Cualquier construcción obscena u ofensiva será eliminada y gravemente sancionada.
 
 </div>
 
@@ -59,60 +65,59 @@ Entiende que, cualquier situación fuera de los límites de estas normas, queda 
 
 <div class="grid cards" markdown>
 
--   :lucide-bug:{ .lg .middle } &nbsp; __2.1 - Bugs y glitches__
+-   :lucide-bug:{ .lg .middle } &nbsp; **2.1 - Bugs, exploits y glitches**
 
     ---
 
-    Si detectas algún bug/glitch debes informar de ello al staff.
-    !!! warning "No indicarlo y abusar de ello puede ser gravemente sancionado."
+    Si detectas algún bug, exploit o glitch debes informar de ello al staff por servidor o vía discord.
 
--   :lucide-file-code:{ .lg .middle } &nbsp; __2.2 - Software de terceros__
+    !!! warning "No indicarlo y abusar de ello es una sanción grave."
 
-    ---
-
-    No se permiten hacks, scripts ni macros.
-    Hay una lista de [mods permitidos](#lista-de-mods-permitidos), los demás están prohibidos.
-
-    !!! tip "Si ves que falta alguno, proponlo al staff vía soporte"
-
--   :lucide-users:{ .lg .middle } &nbsp; __2.3 - Multicuentas y evasión de sanciones__
+-   :lucide-file-code:{ .lg .middle } &nbsp; **2.2 - Software de terceros**
 
     ---
 
-    No se permiten multicuentas. En caso de detectar evasión de las sanciones impuestas, se descarta toda posibilidad de recuperar la cuenta sancionada y posibles multicuentas del usuario.
+    No se permiten hacks, scripts ni macros. Hay una lista de [mods permitidos](#lista-de-mods-permitidos), los demás están **prohibidos**.
 
--   :lucide-swords:{ .lg .middle } &nbsp; __2.4 - PVP__
+    !!! tip "Si ves que falta alguno, proponlo al staff vía soporte."
+
+-   :lucide-users:{ .lg .middle } &nbsp; **2.3 - Multicuentas y evasión de sanciones**
+
+    ---
+
+    No se permiten multicuentas. En caso de detectar evasión de las sanciones impuestas, se descarta toda posibilidad de recuperar la cuenta sancionada.
+
+-   :lucide-swords:{ .lg .middle } &nbsp; **2.4 - PVP**
 
     ---
 
     No se permite apropiarse de los ítems de otro usuario si no ha sido una lucha en las áreas o eventos donde queda claro que es zona PVP (End, Willderness, etcétera).
 
--   :lucide-coins:{ .lg .middle } &nbsp; __2.5 - No engañes a los jugadores__
+-   :lucide-coins:{ .lg .middle } &nbsp; **2.5 - No engañes a los jugadores**
 
     ---
 
     No se permiten los abusos en las subastas (precios realmente elevados, intervalos de precio o ítems con nombres/lores engañosos).
 
--   :lucide-ruler:{ .lg .middle } &nbsp; __2.6 - Límites a tener en cuenta__
+-   :lucide-ruler:{ .lg .middle } &nbsp; **2.6 - Límites a tener en cuenta**
 
     ---
 
-    - La cantidad de hoppers permitidos son 100 por usuario, 60 hoppers por sistema y en un radio de 5 chunks.
-
-    - Máximo 25 entidades por persona entre animales , aldeanos y monstruos que hayas capturado por ti mismo (si compartes vivienda con más personas será igual, máximo 25 por chunk).
+    - Máximo 25 entidades por persona y chunk.
+    - Máximo 100 hoppers por persona y radio de 5 chunks.
 
 </div>
 
 ### Lista de mods permitidos
 Sólo se permiten los mods listados a continuación.
 
-!!! tip "Si ves que falta alguno, proponlo al staff vía soporte"
+!!! tip "Si ves que falta alguno, proponlo al staff vía soporte."
 
 - [x] Mods de minimapas.
 - [x] Optifine.
 - [x] Shaders y paquetes de texturas que no permitan ver más allá de lo normal.
 - [x] Inventory Tweaks.
-- [x] Schematica (__prohibido usar el modo impresión__).
+- [x] Schematica (**prohibido usar el modo impresión**).
 - [x] 5zig
 - [x] MacroKeyBind
 
@@ -120,76 +125,64 @@ Sólo se permiten los mods listados a continuación.
 
 <div class="grid cards" markdown>
 
--   :lucide-toggle-left:{ .lg .middle } &nbsp; __3.1 - Desactivación de sistemas__
+-   :lucide-toggle-left:{ .lg .middle } &nbsp; **3.1 - Desactivación de sistemas**
 
     ---
 
-    Los sistemas o granjas deben poder desactivarse (cancelar su proceso) si no lo está utilizando ningún usuario.
+    Los sistemas deben poder desactivarse y permanecer desactivados si no lo está utilizando ningún usuario.
 
--   :lucide-scan-search:{ .lg .middle } &nbsp; __3.2 - Supervisión de sistemas complejos__
-
-    ---
-
-    Si tu sistema o granja contiene elementos de redstone muy complejos, primero se debe consultar con el staff para ver si es posible construirlo.
-
--   :lucide-cpu:{ .lg .middle } &nbsp; __3.3 - Sistemas__
+-   :lucide-cpu:{ .lg .middle } &nbsp; **3.2 - Limitaciones técnicas**
 
     ---
 
-    - Están prohibidos los sistemas anti-AFK (es decir, burlar de cualquier manera el kick automático cuando estás AFK en el servidor).
+    - Máximo 60 hoppers y/o 10 spawners por sistema.
 
-    - Están prohibidos los sistemas de auto farmeo/recolección AFK. Si el sistema o granja puede operar/matar/romper sin que estés interaccionando directamente, no lo construyas (Por ejemplo, se permiten los sistemas de recolecta de cultivos pero se debe replantar manualmente).
-
-    - NO se permite poner tolvas que INTRODUZCAN ítems al stand de pociones. Sí se permite colocarlos para extraer las pociones resultantes.
-
-    - Están prohibidos los sistemas de redstone que controlen a los Alloys.
-
--   :lucide-skull:{ .lg .middle } &nbsp; __3.4 - Granjas de spawn natural__
-
-    ---
-
-    !!! info "Se entiende por spawn natural aquellos que no aparecen por spawners"
-
-    - Prohibidas las granjas en las que haya sistemas que controlen el movimiento y el daño de los mobs. Los mobs deben tener plena libertad para moverse y hacer daño.
-
-    - Las granjas tienen que ser de tipo dungeon donde tengas riesgos a morir por los mobs (no puede ser daño controlado, la totalidad del daño debe realizarlo el propio user al mob).
-
-    - Quedan totalmente prohibidas las granjas de los siguientes mobs: ghast.
+    - No se permiten relojes para corrientes de agua.
 
 </div>
+
+### Sistemas prohibidos
+
+No se permiten construir los siguientes tipos:
+
+- [ ] Sistemas anti-AFK.
+- [ ] Sistemas que utilicen el efecto de infestación.
+- [ ] Sistemas de experiencia, farmeo o recolección que funcionen sin estar tú interactuando en ellas.
+
+!!! tip "Se recomienda consultar con el staff el sistema a construir"
+    Aunque no figure entre los listados, puede verse limitado, reducido o incluso eliminado si se observa que descompensa los sistemas del servidor.
 
 ## Convivencia
 
 <div class="grid cards" markdown>
 
--   :lucide-messages-square:{ .lg .middle } &nbsp; __4.1 - Vías de comunicación__
+-   :lucide-messages-square:{ .lg .middle } &nbsp; **4.1 - Vías de comunicación**
 
     ---
 
-    - No lo uses para publicitar otras direcciones web o servidores.
-    - No se permite el flood, el spam o la escritura en mayúsculas.
-    - Habla en español o inglés para que todos los usuarios puedan leerte y entenderte.
+    - No lo uses para publicitar otros servidores o webs.
+    - No se permite el flood, el spam o las mayúsculas.
+    - Habla en español o en inglés.
 
--   :lucide-shell:{ .lg .middle } &nbsp; __4.2 - No generes confusión__
+-   :lucide-shell:{ .lg .middle } &nbsp; **4.2 - No generes confusión**
 
     ---
 
     - No te hagas pasar por otra persona.
-    - No se permiten tener el color completo del nickname en Rojo oscuro (&4), Rojo claro (&c), Verde claro (&a) ó Azul claro (&b).
-    - No se permiten nombres similares a los del staff del servidor.
+    - No se permiten nombres similares ni colores completos (`&4`, `&c`, `&a`, `&b`) a los del staff.
 
--   :lucide-heart:{ .lg .middle } &nbsp; __4.3 - Respeta a los demás__
+-   :lucide-heart:{ .lg .middle } &nbsp; **4.3 - Respeta a los demás**
 
     ---
 
     - Sé respetuoso con los demás jugadores.
     - No se tolerará el comportamiento tóxico.
 
--   :lucide-mail-warning:{ .lg .middle } &nbsp; __4.4 - Sanciones__
+-   :lucide-mail-warning:{ .lg .middle } &nbsp; **4.4 - Sanciones**
 
     ---
 
-    Debes escuchar y respetar las decisiones que toma el staff.
+    Debes escuchar/leer, respetar y no deslegitimar las decisiones del staff.
 
 </div>
 
@@ -197,22 +190,32 @@ Sólo se permiten los mods listados a continuación.
 
 <div class="grid cards" markdown>
 
--   :lucide-scale:{ .lg .middle } &nbsp; __5.1 - Normas de la ciudad__
+-   :lucide-scale:{ .lg .middle } &nbsp; **5.1 - Normas de la ciudad**
 
     ---
 
-    Las normas de una ciudad no pueden modificar/anular las del servidor.
+    Las normas de una ciudad no pueden modificar, anular y contradecir las normas del servidor.
 
--   :lucide-user-x:{ .lg .middle } &nbsp; __5.2 - Expulsión de jugadores__
-
-    ---
-
-    La ciudad puede expulsar a los miembros que los incumplan, pero deben solicitar su desahucio.
-
--   :lucide-luggage:{ .lg .middle } &nbsp; __5.3 - Desahucios__
+-   :lucide-bomb:{ .lg .middle } &nbsp; **5.2 - Grifeo de parcelas**
 
     ---
 
-    Para desahuciar a un jugador, la normativa se remite a lo descrito en la [Guía de Desahucios](wiki/ciudades/desahucios.md).
+    El staff de la ciudad no puede grifear ninguna parcela pertenenciente a un usuario. Para ello seguir la guía:
+
+    [:lucide-luggage:{ .middle } Guía de Desahucios](./wiki/ciudades/desahucios.md)
+
+-   :lucide-user-x:{ .lg .middle } &nbsp; **5.3 - Expulsión de jugadores**
+
+    ---
+
+    La ciudad puede desahuciar y expulsar a miembros inactivos o sancionados, debiendo seguir esta guía:
+
+    [:lucide-luggage:{ .middle } Guía de Desahucios](./wiki/ciudades/desahucios.md)
+
+-   :lucide-flag:{ .lg .middle } &nbsp; **5.4 - Caída de una ciudad**
+
+    ---
+
+    Una ciudad caída perderá la protección del terreno y de todos los cofres. Podrá ser saqueada por los demás jugadores mientras esté en estado de ruina.
 
 </div>
