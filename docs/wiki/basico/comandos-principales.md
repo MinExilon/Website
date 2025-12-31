@@ -110,6 +110,10 @@ Este comando te abre un menú para teletransportarte a una ubicación aleatoria 
 
 Consulta tus <span class="tag-econ-dracmas">dracmas</span> y recursos <span class="tag-econ-gemas"></span> <span class="tag-econ-ramas"></span> <span class="tag-econ-colmillos"></span> <span class="tag-econ-escamas"></span> <span class="tag-econ-espigas"></span> obtenidos.
 
+### `/exilonboost`
+
+Consulta los boosts disponibles que tienes para activarlos antes de la fecha límite.
+
 ### `/g`
 
 Te pone el canal de chat en global. Si escribes mensajes después de poner eso, lo leerá todo el mundo.
@@ -155,6 +159,10 @@ Utiliza acciones de rol para interactuar con la gente o con una persona de forma
 
 ## Acciones
 
+### `/cofreauto`
+
+Activa y desactiva el privatizado automático de cofres cuando los colocas.
+
 ### `/cprivate`
 
 Privatiza cofres, hornos, mesas, stands de pociones y armaduras con este comando. Puedes retirar el privatizado con `cremove`. Para privatizar algo con varios usuarios que quieres que puedan interactuar, usa `/cprivate <usuario1> <usuario2>`. Si ya tenías el elemento privatizado, puedes actualizarlo con `/cmodify <usuario1> <usuario2>`.
@@ -165,7 +173,7 @@ Irás desbloqueando más privados conforme avances en las [veteranías](../basic
 
 [<span class="tag-vet-30"></span>](../basico/rangos.md#lista-de-rangos) [<span class="tag-vip-ghast"></span>](../basico/rangos.md#rangos-vip) [<span class="tag-vip-wither"></span>](../basico/rangos.md#rangos-vip)
 
-¡Vuela por el servidor sin necesitar elitras! El `fly` del [omnisciente](../basico/rangos.md#rangos-de-veterania) sólo te permite volar dentro de la ciudad, mientras que el `fly` de los [VIPs](../basico/rangos.md#rangos-vip) te permite volar en todos los mundos donde esté habilitado.
+¡Vuela por el servidor sin necesitar elitras! El `fly` del [<span class="tag-vet-30"></span>](../basico/rangos.md#lista-de-rangos) sólo te permite volar dentro de la ciudad, mientras que el `fly` de los [VIPs](../basico/rangos.md#rangos-vip) te permite volar en todos los mundos donde esté habilitado.
 
 ### `/hat`
 
@@ -178,6 +186,20 @@ Con este comando podrás ponerte cualquier objeto en el slot de la cabeza. Para 
 [<span class="tag-vip-rana"></span>](../basico/rangos.md#rangos-vip) [<span class="tag-vip-ghast"></span>](../basico/rangos.md#rangos-vip) [<span class="tag-vip-wither"></span>](../basico/rangos.md#rangos-vip)
 
 Utiliza este comando para brillar. Para utilizarlo necesitarás ser [VIP](../basico/rangos.md#rangos-vip).
+
+### `/setnick`
+
+[<span class="tag-vet-27"></span>](../basico/rangos.md#lista-de-rangos) [<span class="tag-vip-ghast"></span>](../basico/rangos.md#rangos-vip) [<span class="tag-vip-wither"></span>](../basico/rangos.md#rangos-vip)
+
+El comando completo es `/setnick <nick>`.
+
+Cambia tu nickname dentro del servidor por otro. En [<span class="tag-vip-wither"></span>](../basico/rangos.md#rangos-vip) podrás utilizar además [colores completos](https://htmlcolorcodes.com/minecraft-color-codes/) usando el patrón `&` y [hexadecimales](https://htmlcolorcodes.com/) utilizando el patrón `&#`.
+
+Por ejemplo, puedes ponerte un naranja intenso con `/setnick &#FF6C00Pepito`
+
+!!! warning "Debes respetar la [normativa](../../normativa.md#convivencia) de no suplantar la identidad de otro usuario y de no confundirte con el staff del servidor utilizando nicks parecidos o los mismos colores completos (`&4`, `&c`, `&a`, `&b`) en el nick."
+
+Para utilizarlo necesitarás un cierto nivel de [veteranía](../basico/rangos.md#rangos-de-veterania) o ser [VIP](../basico/rangos.md#rangos-vip).
 
 ### `/vote`
 
