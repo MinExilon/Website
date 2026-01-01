@@ -97,7 +97,7 @@ Entiende que, cualquier situación fuera de los límites de estas normas, queda 
 
     ---
 
-    No se permiten los abusos en las subastas (precios realmente elevados, intervalos de precio o ítems con nombres/lores engañosos).
+    No se permite la venta de ítems con nombres o lores (descripciones) engañosos.
 
 -   :lucide-ruler:{ .lg .middle } &nbsp; **2.6 - Límites a tener en cuenta**
 
@@ -147,6 +147,7 @@ No se permiten construir los siguientes tipos:
 
 - [ ] Sistemas anti-AFK.
 - [ ] Sistemas que utilicen el efecto de infestación.
+- [ ] Sistemas en los que los mobs suelten objetos personalizados del servidor.
 - [ ] Sistemas de experiencia, farmeo o recolección que funcionen sin estar tú interactuando en ellas.
 
 !!! tip "Se recomienda consultar con el staff el sistema a construir"
