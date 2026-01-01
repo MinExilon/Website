@@ -52,7 +52,7 @@ Para más información puedes acceder a la página de la tienda web.
 | **GENERALES** | | | | |
 | Tag en chat y tabulador | | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> |
 | Color en tabulador | | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> |
-| Cambio de nombre | `/nick` | <span style="font-size:20px; color:red">:lucide-circle-dashed:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:#cda434">:lucide-circle-star:{ title="Puede utilizar colores hexadecimales" }</span> |
+| Cambio de nombre | `/setnick` | <span style="font-size:20px; color:red">:lucide-circle-dashed:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:#cda434">:lucide-circle-star:{ title="Puede utilizar colores hexadecimales" }</span> |
 | **PROPIEDADES** | | | | |
 | Límite homes | | 20 | 30 | 60 |
 | Límite plots | | 15 | 20 | 30 |
