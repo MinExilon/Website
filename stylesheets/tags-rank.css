@@ -1,0 +1,312 @@
+/* Staff tags */
+
+.tag-owner {
+  background-color: purple;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 8px;
+  font-weight: bold;
+}
+
+.tag-admin {
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 8px;
+  font-weight: bold;
+}
+
+.tag-mod {
+  background-color: green;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 8px;
+  font-weight: bold;
+}
+
+.tag-staff {
+  background-color: lightseagreen;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 8px;
+  font-weight: bold;
+}
+
+/* VIP tags */
+
+[class^="tag-vip-"] {
+  color: black;
+  font-size: 0.85em;
+  font-weight: bold;
+  padding: 0px 6px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+[class^="tag-vip-"]::before {
+  padding: 0px 4px;
+}
+
+.tag-vip-wither {
+  background-color: #aa00aa;
+}
+.tag-vip-wither::before {
+  background-color: #eaa5ea;
+  content: "VIP Wither";
+}
+
+.tag-vip-ghast {
+  background-color: #5555ff;
+}
+.tag-vip-ghast::before {
+  background-color: #bbbbff;
+  content: "VIP Ghast";
+}
+
+.tag-vip-rana {
+  background-color: #ffaa00;
+}
+.tag-vip-rana::before {
+  background-color: #ffd175;
+  content: "VIP Rana";
+}
+
+/* Veteranias tags */
+
+[class^="tag-vet-"] {
+  color: black;
+  font-size: 0.85em;
+  font-weight: bold;
+  padding: 0px 6px;
+  border-radius: 4px;
+}
+
+[class^="tag-vet-"]::before {
+  background-color: var(--tag-vet-bg-color);
+  padding: 0px 4px;
+}
+
+.tag-vet-0 {
+  background-color: #aaaaaa;
+}
+.tag-vet-0::before {
+  content: "Ermitaño";
+}
+
+.tag-vet-1 {
+  background-color: #aaaaaa;
+}
+.tag-vet-1::before {
+  content: "Peregrino";
+}
+
+.tag-vet-2 {
+  background-color: #aaaaaa;
+}
+.tag-vet-2::before {
+  content: "Nómada";
+}
+
+.tag-vet-3 {
+  background-color: #aaaaaa;
+}
+.tag-vet-3::before {
+  content: "Explorador";
+}
+
+.tag-vet-4 {
+  background-color: #eeeeee;
+}
+.tag-vet-4::before {
+  content: "Aventurero";
+}
+
+.tag-vet-5 {
+  background-color: #eeeeee;
+}
+.tag-vet-5::before {
+  content: "Ciudadano";
+}
+
+.tag-vet-6 {
+  background-color: #eeeeee;
+}
+.tag-vet-6::before {
+  content: "Mercader";
+}
+
+.tag-vet-7 {
+  background-color: #00aaaa;
+}
+.tag-vet-7::before {
+  content: "Comerciante";
+}
+
+.tag-vet-8 {
+  background-color: #00aaaa;
+}
+.tag-vet-8::before {
+  content: "Economista";
+}
+
+.tag-vet-9 {
+  background-color: #00aaaa;
+}
+.tag-vet-9::before {
+  content: "Constructor";
+}
+
+.tag-vet-10 {
+  background-color: #5555ff;
+}
+.tag-vet-10::before {
+  content: "Experto";
+}
+
+.tag-vet-11 {
+  background-color: #5555ff;
+}
+.tag-vet-11::before {
+  content: "Profesional";
+}
+
+.tag-vet-12 {
+  background-color: #5555ff;
+}
+.tag-vet-12::before {
+  content: "Maestro";
+}
+
+.tag-vet-13 {
+  background-color: #00aa00;
+}
+.tag-vet-13::before {
+  content: "Noble";
+}
+
+.tag-vet-14 {
+  background-color: #00aa00;
+}
+.tag-vet-14::before {
+  content: "Caballero";
+}
+
+.tag-vet-15 {
+  background-color: #00aa00;
+}
+.tag-vet-15::before {
+  content: "Conquistador";
+}
+
+.tag-vet-16 {
+  background-color: #36e436;
+}
+.tag-vet-16::before {
+  content: "Lord";
+}
+
+.tag-vet-17 {
+  background-color: #36e436;
+}
+.tag-vet-17::before {
+  content: "Duque";
+}
+
+.tag-vet-18 {
+  background-color: #36e436;
+}
+.tag-vet-18::before {
+  content: "Monarca";
+}
+
+.tag-vet-19 {
+  background-color: #fff534;
+}
+.tag-vet-19::before {
+  content: "Sultán";
+}
+
+.tag-vet-20 {
+  background-color: #fff534;
+}
+.tag-vet-20::before {
+  content: "Rey";
+}
+
+.tag-vet-21 {
+  background-color: #fff534;
+}
+.tag-vet-21::before {
+  content: "Emperador";
+}
+
+.tag-vet-22 {
+  background-color: #ffaa00;
+}
+.tag-vet-22::before {
+  content: "Erudito";
+}
+
+.tag-vet-23 {
+  background-color: #ffaa00;
+}
+.tag-vet-23::before {
+  content: "Sabio";
+}
+
+.tag-vet-24 {
+  background-color: #ffaa00;
+}
+.tag-vet-24::before {
+  content: "Hechicero";
+}
+
+.tag-vet-25 {
+  background-color: #aa00aa;
+}
+.tag-vet-25::before {
+  content: "Nigromante";
+}
+
+.tag-vet-26 {
+  background-color: #aa00aa;
+}
+.tag-vet-26::before {
+  content: "Elite";
+}
+
+.tag-vet-27 {
+  background-color: #aa00aa;
+}
+.tag-vet-27::before {
+  content: "Mestizo";
+}
+
+.tag-vet-28 {
+  background-color: #ff55ff;
+}
+.tag-vet-28::before {
+  content: "Arcano";
+}
+
+.tag-vet-29 {
+  background-color: #ff55ff;
+}
+.tag-vet-29::before {
+  content: "Supremo";
+}
+
+.tag-vet-30 {
+  background-color: #ff55ff;
+}
+.tag-vet-30::before {
+  content: "Omnisciente";
+}
