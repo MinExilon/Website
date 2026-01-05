@@ -28,7 +28,7 @@ Este comando te teletransporta al lugar previo. Para utilizarlo necesitarás un 
 
 ### `/home`
 
-Puedes guardar ubicaciones utilizando `/sethome <nombre>` para luego regresar con `/home <nombre>`. Puedes consultar tus homes con `/homes` y eliminarlos con `/delhhome <nombre>`.
+Puedes guardar ubicaciones utilizando `/sethome <nombre>` para luego regresar con `/home <nombre>`. Puedes consultar tus homes con `/homes` y eliminarlos con `/delhome <nombre>`.
 
 Irás desbloqueando más homes conforme avances en las [veteranías](../basico/rangos.md#rangos-de-veterania) o siendo [VIP](../basico/rangos.md#rangos-vip).
 
@@ -39,10 +39,6 @@ Te envía al hotel del servidor. Una isla repleta de cabañas donde podrás alqu
 ### `/lobby`
 
 Este comando te envía al lobby central de MinExilon, donde podrás acceder a otras áreas como eventos, [mundo creativo](../general/creativo.md) y arcadia.
-
-### `/piñata`
-
-Te lleva a la zona donde aparece la [piñata](../basico/votar.md#evento-pinata) cuando se alcanza el objetivo global de votos.
 
 ### `/spawn`
 
@@ -83,6 +79,10 @@ Una mesa de crafteo portátil. Ahórrate las mesas de crafteo utilizando este co
 [<span class="tag-vip-wither"></span>](../basico/rangos.md#rangos-vip)
 
 Te abre el inventario del cofre de ender de forma remota.
+
+### `/exilon`
+
+Accede a un menú de estadísticas e información sobre tus rangos, niveles, límites y teletransportes.
 
 ### `/hdb`
 

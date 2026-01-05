@@ -7,16 +7,16 @@ status: construction
 !!! warning "En construcción"
     Este contenido está todavía en desarrollo, por lo que puede verse modificado en un futuro.
 
-Los trabajos te dan __experiencia__ y su __recurso__ <span class="tag-econ-gemas"></span> <span class="tag-econ-ramas"></span> <span class="tag-econ-colmillos"></span> <span class="tag-econ-escamas"></span> <span class="tag-econ-espigas"></span> para conseguir efectos y mejoras temporales llamados __perks temporales__.
+Los trabajos te dan **experiencia** y su **recurso** <span class="tag-econ-gemas"></span> <span class="tag-econ-ramas"></span> <span class="tag-econ-colmillos"></span> <span class="tag-econ-escamas"></span> <span class="tag-econ-espigas"></span> para conseguir efectos y mejoras temporales llamados **perks temporales**.
 
-Recibirás __recursos__ por diversas __acciones__ relacionadas con el trabajo, como pueden ser: romper determinados bloques, craftear ítems, matar mobs o cultivar.
+Recibirás **recursos** por diversas **acciones** relacionadas con el trabajo, como pueden ser: romper determinados bloques, craftear ítems, matar mobs o cultivar.
 Cada acción te recompensa y te hace progresar al siguiente nivel del trabajo.
 
 El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
 <div class="grid cards" markdown>
 
--   ## :lucide-pickaxe:{ .middle } __Minería__
+-   ## :lucide-pickaxe:{ .middle } **Minería**
 
     ---
 
@@ -24,7 +24,7 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
     Pica minerales y crea utensilios.
 
--   ## :lucide-axe:{ .middle } __Tala__
+-   ## :lucide-axe:{ .middle } **Tala**
 
     ---
 
@@ -32,7 +32,7 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
     Tala árboles y dale forma a la madera.
 
--   ## :lucide-sword:{ .middle } __Caza__
+-   ## :lucide-sword:{ .middle } **Caza**
 
     ---
 
@@ -40,7 +40,7 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
     Equípate para matar mobs de todo tipo.
 
--   ## :lucide-fish:{ .middle } __Pesca__
+-   ## :lucide-fish:{ .middle } **Pesca**
 
     ---
 
@@ -48,7 +48,7 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
     Explora el mundo y pesca diversos peces.
 
--   ## :lucide-tractor:{ .middle } __Granja__
+-   ## :lucide-tractor:{ .middle } **Granja**
 
     ---
 
@@ -60,37 +60,74 @@ El servidor tiene cinco trabajos que cubren diferentes facetas del minecraft:
 
 ## Categorías de trabajos
 
-Existen dos categorías de trabajos: __primarios__ y __secundarios__. La diferencia entre ambas categorías es que del trabajo secundario recibes menos recursos y experiencia que del primario, y sólo se puede subir hasta nivel 60 de esa forma "pasiva". Los trabajos primarios pueden subirse hasta nivel 100.
+Si usas `/jobs` se te abrirá el menú donde podrás gestionar tus trabajos.
 
-!!! info "La categoría del trabajo no depende del tipo de trabajo."
-    La categoría del trabajo es algo que asignas tú mismo a la hora de seleccionar el trabajo vía `/jobs`. En cualquier momento puedes reasignarlos para ir alternando los trabajos primario y secundarios.
+Al entrar en un trabajo, podrás seleccionarlo como trabajo **primario** o **secundario**.
 
-    __No pierdes el progreso del trabajo si te lo reasignas.__
+<div class="grid cards" markdown>
+
+-   ### **Trabajo Primario**
+
+    El principal en el que estás progresando.
+
+    - Puedes subirlo hasta nivel 100.
+    - Obtienes el 100% de experiencia y recursos del trabajo.
+
+-   ### **Trabajo Secundario**
+
+    Un trabajo que subes de forma pasiva.
+
+    - Puedes subirlo hasta nivel 50.
+    - Obtienes el 70% de experiencia y el 40% de recursos del trabajo.
+
+</div>
 
 Inicialmente sólo puedes seleccionar un único trabajo como primario. En <span class="tag-vet-11"></span> puedes asignarte otro trabajo secundario y en <span class="tag-vet-23"></span> puedes tener dos trabajos secundarios.
+
+!!! info "Puedes configurarte los trabajos como quieras"
+    Al salirte de un trabajo **no pierdes su progreso**.
+    Esto permite cambios en los trabajos para subirlos todos de nivel.
 
 ## Perks temporales
 
 Cuando alcanzas cierto nivel en los trabajos, desbloqueas perks temporales.
-Estos perks te proporcionan un efecto por un tiempo prolongado, al pagar su __recurso__.
+Estos perks te proporcionan un efecto por un tiempo prolongado, al pagar su **recurso**.
 
 Utilizado el comando `/perks` para acceder al menú de los perks.
 
 !!! tip "Es un efecto de poción"
-    Al ser un efecto de poción, si bebes leche eliminas también este estado. Se recomienda beber __miel__, ya que quita solamente los efectos negativos.
+    Al ser un efecto de poción, si bebes leche eliminas también este estado. Se recomienda beber **miel**, ya que quita solamente los efectos negativos.
 
 | Perk temporal | Duración | Coste | Desbloqueo |
 | :--- | :---: | :---: | :--- |
-| __Visión nocturna__ | 30 min | <span class="tag-econ-gemas">1.000</span> | Nivel 25 de Minería |
-| __Haste__ | 30 min | <span class="tag-econ-gemas">2.000</span> | Nivel 50 de Minería |
-| __Caída lenta__ | 30 min | <span class="tag-econ-ramas">1.000</span> | Nivel 25 de Tala |
-| __Doble salto__ | 30 min | <span class="tag-econ-ramas">1.000</span> | Nivel 50 de Tala |
-| __Fuerza__ | 30 min | <span class="tag-econ-colmillos">2.000</span> | Nivel 25 de Caza |
-| __Regeneración__ | 30 min | <span class="tag-econ-colmillos">4.000</span> | Nivel 50 de Caza |
-| __Suerte__ | 30 min | <span class="tag-econ-escamas">1.000</span> | Nivel 25 de Pesca |
-| __Apnea__ | 30 min | <span class="tag-econ-escamas">2.000</span> | Nivel 50 de Pesca |
-| __Velocidad__ | 30 min | <span class="tag-econ-espigas">2.000</span> | Nivel 25 de Granja |
-| __Gracia del delfín__ | 30 min | <span class="tag-econ-espigas">2.000</span> | Nivel 50 de Granja |
+| **Visión nocturna** | 30 min | <span class="tag-econ-gemas">1.000</span> | Nivel 25 de Minería |
+| **Haste** | 30 min | <span class="tag-econ-gemas">2.000</span> | Nivel 50 de Minería |
+| **Caída lenta** | 30 min | <span class="tag-econ-ramas">1.000</span> | Nivel 25 de Tala |
+| **Doble salto** | 30 min | <span class="tag-econ-ramas">1.000</span> | Nivel 50 de Tala |
+| **Fuerza** | 30 min | <span class="tag-econ-colmillos">2.000</span> | Nivel 25 de Caza |
+| **Regeneración** | 30 min | <span class="tag-econ-colmillos">4.000</span> | Nivel 50 de Caza |
+| **Suerte** | 30 min | <span class="tag-econ-escamas">1.000</span> | Nivel 25 de Pesca |
+| **Apnea** | 30 min | <span class="tag-econ-escamas">2.000</span> | Nivel 50 de Pesca |
+| **Velocidad** | 30 min | <span class="tag-econ-espigas">2.000</span> | Nivel 25 de Granja |
+| **Gracia del delfín** | 30 min | <span class="tag-econ-espigas">2.000</span> | Nivel 50 de Granja |
+
+## Kits de crafteo
+
+Conforme progreses en los trabajos, se desbloquearán nuevas elaboraciones en los **kits de crafteo**!
+
+<figure markdown="span">
+  ![Kit de crafteo](https://img.minexilon.com/blog/2025/minexilon_kit_pesca.webp)
+  <figcaption>Kit de crafteos de pesca (las condiciones no son reales).</figcaption>
+</figure>
+
+Cada kit te ofrece crafteos de herramientas con características y habilidades especiales. Además, algunas de las herramientas se pueden **mejorar**, aumentando sus características.
+
+Estos kits los puedes comprar por recursos <span class="tag-econ-gemas"></span> <span class="tag-econ-ramas"></span> <span class="tag-econ-colmillos"></span> <span class="tag-econ-escamas"></span> <span class="tag-econ-espigas"></span> en **la forja de Zona Ágora** ubicado en el spawn, utilizando el comando `/agora`.
+
+!!! question "Materiales adicionales"
+    Para elaborar ciertos objetos de los kits necesitarás materiales de recolección especiales que salen en los mundos de recursos al picar piedra, talar árboles, romper ciertos bloques o matar animales.
+
+    En un futuro se redactará una guía sobre los objetos míticos donde se darán todos los detalles.
 
 ## Cajas especiales
 
@@ -104,16 +141,16 @@ Para abrir cada caja, necesitas pagar una cantidad del recurso correspondiente.
 
 | Caja especial | Tesoro Enterrado | Alijo de los bosques | Caja de las Bestias | Arcas del Navegante | Baúl de la Cosecha |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| __Coste__ | <span class="tag-econ-gemas">1.000</span> | <span class="tag-econ-ramas">1.000</span> | <span class="tag-econ-colmillos">1.000</span> | <span class="tag-econ-escamas">1.000</span> | <span class="tag-econ-espigas">1.000</span> |
-| __Común__ | Pepitas de hierro | Andamios | Flechas | Pepitas de oro | Bloques de hueso |
-| __Común__ | Antorchas | *Bloques de hueso* | Pólvora | Cebos | Huevos de gallina |
-| __Común__ | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> |
-| __Raro__ | <span class="tag-econ-dracmas">100-250</span> | <span class="tag-econ-dracmas">100-250</span> | <span class="tag-econ-dracmas">100-250</span> | <span class="tag-econ-dracmas">100-250</span> | <span class="tag-econ-dracmas">100-250</span> |
-| __Raro__ | Zanahorias doradas | Manzanas doradas | Perlas de ender | Concha de nautilo | Huevos de cerdo |
-| __Raro__ | Diamantes | Huevo de burro | Varas de blaze | Huevo de tortuga | Huevos de vaca |
-| __Raro__ | Esmeraldas | Mapa de barco varado | Aliento de dragón | Mapa de tesoro enterrado | Jaulas de mob |
-| __Épico__ | Mapa de mineshaft | Mapa de templo de jungla | Mapa de fortaleza nether | Mapa de ruinas de océano | Mapa de templo del desierto |
-| __Épico__ | Tótem de inmortalidad | Caparazón de shulker | Lágrima de ghast | Esponja | Manzana de Notch |
-| __Épico__ | Libro de Fortuna I | Libro de Eficiencia I | Libro de Filo I | Libro de Suerte Marina I | Libro de Irrompibilidad I |
-| __Épico__ | Mapa de stronghold | Mapa de pillager outpost | Mapa de end city | Mapa de templo marino | Mapa de mansión |
-| __Legendario__ | Boost Job Minería | Boost Job Tala | Boost Job Caza | Boost Job Pesca | Boost Job Granja |
+| **Coste** | <span class="tag-econ-gemas">1.000</span> | <span class="tag-econ-ramas">1.000</span> | <span class="tag-econ-colmillos">1.000</span> | <span class="tag-econ-escamas">1.000</span> | <span class="tag-econ-espigas">1.000</span> |
+| **Común** | Pepitas de hierro | Andamios | Flechas | Pepitas de oro | Bloques de hueso |
+| **Común** | Antorchas | *Bloques de hueso* | Pólvora | Cebos | Huevos de gallina |
+| **Común** | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> | <span class="tag-econ-dracmas">10-100</span> |
+| **Raro** | <span class="tag-econ-dracmas">100-250</span> | <span class="tag-econ-dracmas">100-250</span> | <span class="tag-econ-dracmas">100-250</span> | <span class="tag-econ-dracmas">100-250</span> | <span class="tag-econ-dracmas">100-250</span> |
+| **Raro** | Zanahorias doradas | Manzanas doradas | Perlas de ender | Concha de nautilo | Huevos de cerdo |
+| **Raro** | Diamantes | Huevo de burro | Varas de blaze | Huevo de tortuga | Huevos de vaca |
+| **Raro** | Esmeraldas | Mapa de barco varado | Aliento de dragón | Mapa de tesoro enterrado | Jaulas de mob |
+| **Épico** | Mapa de mineshaft | Mapa de templo de jungla | Mapa de fortaleza nether | Mapa de ruinas de océano | Mapa de templo del desierto |
+| **Épico** | Tótem de inmortalidad | Caparazón de shulker | Lágrima de ghast | Esponja | Manzana de Notch |
+| **Épico** | Libro de Fortuna I | Libro de Eficiencia I | Libro de Filo I | Libro de Suerte Marina I | Libro de Irrompibilidad I |
+| **Épico** | Mapa de stronghold | Mapa de pillager outpost | Mapa de end city | Mapa de templo marino | Mapa de mansión |
+| **Legendario** | Boost Job Minería | Boost Job Tala | Boost Job Caza | Boost Job Pesca | Boost Job Granja |

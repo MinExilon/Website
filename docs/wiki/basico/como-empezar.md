@@ -1,5 +1,5 @@
 ---
-icon: lucide/flame-kindling
+icon: lucide/tent
 ---
 # Cómo empezar en MinExilon
 

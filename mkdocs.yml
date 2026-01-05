@@ -64,6 +64,7 @@ extra_css:
 extra_javascript:
   - javascripts/extra.js
   - javascripts/christmas.js?startDate=12-01&endDate=01-10&positions=top
+  - javascripts/valentine.js?startDate=02-13&endDate=02-15
 plugins:
   - search
   - blog:
@@ -89,6 +90,7 @@ nav:
       - Cómo empezar: wiki/basico/como-empezar.md
       - Rangos del servidor: wiki/basico/rangos.md
       - Comandos principales: wiki/basico/comandos-principales.md
+      - Zonas del spawn: wiki/basico/spawn.md
       - Cómo votar: wiki/basico/votar.md
       - Preguntas frequentes: wiki/basico/faq.md
     - Generales:

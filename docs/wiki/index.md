@@ -10,11 +10,13 @@ Bienvenid@ a la biblioteca virtual de Alejandría. Aquí podrás consultar toda 
 
     Conceptos básicos del servidor.
 
-    [:lucide-flame-kindling:{ .middle } Cómo empezar](./basico/como-empezar.md)
+    [:lucide-tent:{ .middle } Cómo empezar](./basico/como-empezar.md)
 
     [:lucide-shield-user:{ .middle } Rangos del servidor](./basico/rangos.md)
 
     [:lucide-square-chevron-right:{ .middle } Comandos principales](./basico/comandos-principales.md)
+
+    [:lucide-flame-kindling:{ .middle } Zonas del spawn](./basico/spawn.md)
 
     [:lucide-vote:{ .middle } Cómo votar](./basico/votar.md)
 

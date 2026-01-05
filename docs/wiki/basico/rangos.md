@@ -59,7 +59,7 @@ Para más información puedes acceder a la página de la tienda web.
 | Límite privados | | 200 | 500 | 1000 |
 | Límite cofres tienda | | 40 | 45 | 50 |
 | Límite warps | | - | 5 | 10 |
-| Límite plots creativo | | - | 3 | 6 |
+| Límite plots creativo | | - | 4 | 6 |
 | Límite merges creativo | | - | 7 | 9 |
 | **PODERES** | | | | |
 | Uso ilimitado del `rtp` | `/rtp` | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> | <span style="font-size:20px; color:green">:lucide-circle-check:</span> |

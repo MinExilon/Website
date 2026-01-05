@@ -76,6 +76,11 @@ A veces nos llegan las mismas dudas, por lo que los dejamos públicos en este ap
     - Las cajas ofrecidas en el apartado de "Cajas Misteriosas" pueden ser elaboradas en el servidor, mediante elementos que se consiguen también en el propio servidor. Más información sobre la creación de cajas en esta guía.
     - Los spawners ofrecidos en el apartado de "Spawners" pueden ser obtenidas en el servidor si vas por el job Minero. Más información de los jobs en esta guía.
 
+## Errores de acceso
+
+??? warning "Failed to login the authentication server are currently not reachable"
+    Los servidores de autenticación de Mojang se han caído. Puedes comprobar su estado en [downdetector](https://downdetector.com/status/minecraft/).
+
 ## Bugs conocidos
 
 ??? bug "La azada con el efecto autoreplantar no replanta el cacao"
