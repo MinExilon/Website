@@ -56,8 +56,6 @@ En esta página se muestran todos los usuarios que han apoyado el servidor monet
 
 ![Perfil](https://crafthead.net/avatar/d98121de90e04abfaea7813fa7cab7e1){ width="20px" } Echadow
 
-![Perfil](https://crafthead.net/avatar/7bcd193a59964f83a1856536c1ec15dc){ width="20px" } El_Errante
-
 ![Perfil](https://crafthead.net/avatar/8de73a553d864c1f88e945d193da8021){ width="20px" } ellie
 
 ![Perfil](https://crafthead.net/avatar/a09dbd4ef1744d28b1488f3d73ab3cdc){ width="20px" } Ephmos
@@ -65,6 +63,8 @@ En esta página se muestran todos los usuarios que han apoyado el servidor monet
 ![Perfil](https://crafthead.net/avatar/c54ec6777adc4b3cafd41a5b1b13ad7b){ width="20px" } FolkloricEwe
 
 ![Perfil](https://crafthead.net/avatar/a8cee2fd804b42cbaa4f986e827c5143){ width="20px" } franciscochewi
+
+![Perfil](https://crafthead.net/avatar/b8f765a902264afd8880fcab4cf248f4){ width="20px" } FrankNztein
 
 ![Perfil](https://crafthead.net/avatar/0e2ec246c1bf442991304b131b932a79){ width="20px" } Fusfix
 
