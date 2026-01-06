@@ -1,76 +1,88 @@
 ---
 icon: lucide/luggage
-status: construction
+status: new
 ---
 # Procedimiento de Desahucios
 
-!!! warning "En construcción"
-    Este contenido está todavía en desarrollo, por lo que puede verse modificado en un futuro.
+Un desahucio se realiza cuando el staff de una ciudad quiere retirar un plot que pertenece a un particular.
+La ciudad no puede destruir las pertenencias de un usuario hasta que no se haya emitido y aceptado una petición de desahucio de la parcela afectada.
 
-Todo los desahucios se realizarán por medio del formulario de solicitud de desahucio. Bajo ningún concepto puedes destruir la casa de un usuario a no ser que se haya aceptado su desahucio y se hayan eliminado los cofres de la parcela del usuario para que, en caso de vuelta/queja/malentendido, se le pueda mostrar al usuario el por qué de su desahucio y pueda recuperar sus objetos si no estuvo correcto.
+De esta manera, se garantiza que el usuario tenga consigo sus objetos almacenados, que podrá recuperar mediante comando.
 
 ## Proceso de petición de desahucio
 
-<figure markdown="span">
-  ![Torneo pesca](https://dummyimage.com/1080x650/555/fff&text=imagen pendiente)
-  <figcaption>Participación en el torneo de pesca</figcaption>
-</figure>
+Para solicitar un desahucio, debes ir a nuestro discord y crear un tícket en el canal de chat `#desahucios`, cumplimentando la siguiente información:
 
-1. __Lee atentamente las condiciones__ de la situación de la que quieres realizar el desahucio (mostradas abajo en esta guía).
-2. __[ENVIAR DESAHUCIO]__ Accede al apartado de envío de desahucio y, dependiendo del tipo de desahucio, rellénalo con los campos necesarios. Mira los ejemplos más abajo de las diversas situaciones.
-3. Una vez rellenado el formulario, haz click en «enviar».
-4. Espera a que el staff gestione la solicitud, consultándolo en la tabla de desahucios. Hasta que no se acepte la solicitud de desahucio, la ciudad no podrá tocar el plot.
+- **Nombre de la ciudad** que emite la petición.
+- **Usuario desahuciado.**
+- **Motivo del desahucio.** Revisa los motivos a continuación.
+- **Número de plots** a desahuciar.
+- **Coordenadas `x,y,z`** de cada plot a desahuciar.
+- **Información adicional**, dependiendo del motivo. Revisa los motivos a continuación.
 
-<!-- ### La Tabla de Desahucios
-La tabla de desahucios se actualiza cada 15 MINUTOS, lo que significa que es el tiempo máximo que tienes que esperar para empezar a preocuparte si algo salió mal. Si todo ha sido rellenado correctamente, aparecerá en la tabla de desahucios la información de tu solicitud y su estado.
+[:fontawesome-brands-discord:{ .lg .middle } &nbsp; Unirse a Discord](https://discord.com/invite/fxEqfnT){ .md-button .md-button--secondary }
 
-Durante el proceso los moderadores son notificados y realizarán las solicitudes cuando estimen conveniente. Ten en cuenta que este proceso puede llevar un tiempo, dependiendo de la disponibilidad de los mismos.
+Puedes **copiar la plantilla** a continuación para pegarla y rellenarla en discord rápidamente:
 
-#### Campos de la tabla
-La tabla de desahucios presenta los siguientes campos:
+```
+- **Nombre de la ciudad**: ciudad
+- **Usuario desahuciado**: nickname
+- **Motivo del desahucio**: motivo
+- **Número de plots**: cantidad
+- **Coordenadas de plots**: x,y,z
+- **Información adicional**: rellenar dependiendo del motivo
+```
 
-- __Desahuciado__: nickname del usuario que será desahuciado.
-- __Fecha__: fecha en la que se envió la solicitud del desahucio.
-- __Encargado__: nickname del staff de la ciudad que realiza el desahucio.
-- __Ciudad__: ciudad que realiza el desahucio.
-- __Motivo__: motivo por el que se desahucia.
-- __IMG__: previsualización de la captura de pantalla del /res junto al cartel del desahuciado.
-- __Staff__: Moderador o administrador que realizó el desahucio.
-- __Estado__: en esta categoría se muestra si tu desahucio ha sido aceptado, rechazado o tiene otro estado. A continuación se muestran los posibles estados:
-    - __Pendiente__: Tu desahucio aún no ha sido revisado.
-    - __Aceptado__: Ya está listo.
-    - __Rechazado__: Tu desahucio no cumple con la normativa de los desahucios debes volver a realizarlo, te informaremos cómo corregirlo.
-    - __En espera de un admin__: ha ocurrido un problema, un administrador tiene que terminar el desahucio. -->
+## Motivos de desahucio
 
-## Motivos de un Desahucio
+En todos los casos es necesario colocar en el plot del usuario, en un **lugar visible**, un cartel en el que se indique lo siguiente:
 
-### Aviso obligatorio para el desahuciado
-En todos los casos es __OBLIGATORIO__ colocar en el plot del usuario, en un __lugar visible__, un cartel en el que:
-
-1. Debe quedar claro __su fecha de desahucio__.
-2. Debe quedar claro __el motivo del desahucio__.
+1. Debe quedar claro **su fecha de desahucio**.
+2. Debe quedar claro **el motivo del desahucio**.
 Este cartel debe estar presente los últimos 7 días, antes de su fecha de desahucio.
 
-!!! info "Esto no es obligatorio si se trata de un motivo excepcional."
+!!! info "Esto no es obligatorio si se trata de un [motivo excepcional](#motivos-excepcionales-de-desahucio)."
 
-### Motivo – Inactividad
-Tiene que haber pasado mínimo 1 mes inactivo. (Cada ciudad puede tener su propia normativa de desahucio de inactividad a un período más largo, pero no uno más corto).
+### Inactividad
+Tiene que haber pasado mínimo 1 mes inactivo. Puedes consultarlo en `/res <usuario>`.
 
-### Motivo – Baneo permanente
-Cuando se quiera desahuciar a un baneado permanente se tendrá que esperar 7 días antes de hacer el desahucio por si el baneado quiere apelar al ban y se le quita.
+Cada ciudad puede tener su propia normativa de desahucio de inactividad a un período más largo, pero no uno más corto.
 
-### Motivo – Baneo temporal
-En el caso de que un usuario sea baneado temporalmente, la sanción debe ser de minimo 30 días.
+### Baneo temporal o permanente
+Cuando se quiera desahuciar a un baneado temporal o permanente, se tendrá que esperar 7 días antes de hacer el desahucio por si el baneado quiere apelar y se le retira el ban.
 
-### Motivo – Incumplimiento de normas de la ciudad
-Si se trata de que el usuario ha incumplido una norma de la ciudad, se deben cumplir las siguientes indicaciones:
+En el caso de un ban temporal, debe ser de 30 días mínimo para aceptar su desahucio por este motivo.
 
-1. __Se tiene que especificar la norma incumplida de la ciudad__ en el motivo del desahucio.
-2. __Se tiene que especificar las coordenadas de la normativa__ de la ciudad en el motivo del desahucio.
-3. __No se aceptarán desahucios de incumplimiento de normas de ciudad si el usuario es inactivo__. Si la ciudad intenta desahuciar a un usuario inactivo por algún incumplimiento de norma de la ciudad, queda rechazada porque no es el motivo principal de dicho usuario. Se debe solicitar como situación de inactividad (debiendo cumplir esas condiciones).
+### Incumplimiento de normas
+Si el usuario ha incumplido una norma de la ciudad, **se debe añadir** en la petición lo siguiente:
 
-### Motivo Excepcional – Abandono de la ciudad
-Si un usuario abandona la ciudad dejando cofres en esta, envía un desahucio o avisa a moderación para que realicen un desahucio excepcional.
+```
+- **Norma incumplida**: texto de la norma
+- **Coordenadas de la normativa**: x,y,z
+```
 
-### Motivo Excepcional – Otros
-Cualquier situación particular avisar al staff para solucionarlo lo antes posible.
+!!! warning "No se aceptarán desahucios si el usuario es inactivo"
+    Si la ciudad intenta desahuciar a un usuario inactivo por algún incumplimiento de norma de la ciudad, queda rechazada porque no es el motivo principal de dicho usuario.
+    
+    Se debe solicitar como situación de inactividad (debiendo cumplir esas condiciones).
+
+## Motivos excepcionales de desahucio
+Son motivos en los que no son necesarios dar un margen de 7 días o más para desahuciar al jugador.
+Aún así, se debe seguir **emitiendo un tícket de solicitud de desahucio** para que quede constancia y el staff pueda ayudar en cada caso.
+
+### Abandono de la ciudad
+Si un usuario abandona la ciudad dejando cofres en esta.
+
+### Expulsión de la ciudad
+Por motivos ajenos a la normativa del servidor y de la ciudad, el staff de la ciudad puede expulsar a un residente de la ciudad. Se debe indicar lo siguiente en el tícket de desahucio:
+
+```
+**Motivo de expulsión**: motivo
+```
+
+### Otros
+Cualquier situación particular. Especificar en el tícket de desahucio la situación para que el staff pueda ayudarte y solucionarlo lo antes posible.
+
+```
+**Situación excepcional**: situación
+```
