@@ -81,13 +81,21 @@ A veces nos llegan las mismas dudas, por lo que los dejamos públicos en este ap
 ??? warning "Failed to login the authentication server are currently not reachable"
     Los servidores de autenticación de Mojang se han caído. Puedes comprobar su estado en [downdetector](https://downdetector.com/status/minecraft/).
 
+    La única opción es esperar a que vuelvan a estar activos. No suelen tardar más de un par de horas.
+
 ## Bugs conocidos
 
-??? bug "La azada con el efecto autoreplantar no replanta el cacao"
-    Nos encontramos el problema de que no siempre se coloca en la dirección correcta. Por ello hemos preferido no incluirlo.
+??? bug "El trabajo de granja no paga el cactus"
+    Es un bug del plugin. El desarrollador del plugin está al tanto y se actualizará en una futura versión.
 
 ??? bug "No se actualizan los consumos restantes de los objetos consumibles"
     Es un bug del plugin que estamos reportando al desarrollador para que lo solvente.
 
-??? bug "No funcionan las [subastas](../economia/subastas.md)"
-    Ahora mismo presenta ciertas incompatibilidades que solventaremos en un futuro.
+??? bug "Las menas de cobre, hierro y oro no pagan minería utilizando el pico ardiente"
+    Como se altera la rotura de la mena, el plugin de jobs no registra correctamente la acción. No es algo que vayamos a resolver ahora mismo.
+
+??? danger "La azada con el efecto autoreplantar no replanta el cacao"
+    Nos encontramos el problema de que no siempre se coloca en la dirección correcta. Por ello hemos preferido no incluirlo.
+
+??? danger "Las [bebidas](../general/bebidas.md) no funcionan"
+    Es un apartado del servidor que aún no hemos terminado. Estará disponible en una futura actualización.

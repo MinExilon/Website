@@ -1,11 +1,8 @@
 ---
 icon: lucide/coins
-status: unavailable
+status: new
 ---
 # Subastas
-
-!!! bug "Temporalmente fuera de servicio"
-    Ahora mismo presenta ciertas incompatibilidades que solventaremos en un futuro.
 
 ¿Quieres convertirte en un auténtico maestro de subastas? Pues con este post podrás ver todos los parámetros que tienes a mano para garantizar una buena subasta y buenos compradores!
 
@@ -15,7 +12,7 @@ Este post se dividirá en dos partes, una desde la vista de quien realiza una su
 
 ## Realizar una subasta
 
-Para realizar una subasta debes poner lo siguiente teniendo el ítem o conjunto de ítems (como un stack de madera, por ejemplo) en tu mano:
+Para realizar una subasta debes ser <span class="tag-vet-7"></span> y poner lo siguiente teniendo el ítem o conjunto de ítems (como un stack de madera, por ejemplo) en tu mano:
 
 ```
 /auc start <cantidad> <precio> [incremento] [autocomprar] [tiempo]
@@ -49,7 +46,7 @@ Aquí se te muestran algunos comandos útiles:
 - `/auc remove` Elimina tu subasta si está en cola.
 
 ## Participar en una subasta
-Para participar en una subasta basta con poner `/bid` y entras como última oferta. Si quieres subir la cantidad de <span class="tag-econ-dracmas">dracmas</span> más que la de por defecto, puedes emplear el siguiente comando:
+Para participar en una subasta debes ser <span class="tag-vet-2"></span> y basta con poner `/bid` y entras como última oferta. Si quieres subir la cantidad de <span class="tag-econ-dracmas">dracmas</span> más que la de por defecto, puedes emplear el siguiente comando:
 
 ```
 /bid <dracmas>
@@ -60,7 +57,7 @@ Para participar en una subasta basta con poner `/bid` y entras como última ofer
 Siendo los `<dracmas>` el precio por el que comprarías lo que se ofrece en la subasta.
 
 ### Estate al tanto de como va el progreso de la subasta
-No le quites ojo a lo que va pasando en la subasta y menos si has ofrecido una cantidad que piensas que va a ser insuperable! Cuanto menos te lo esperes te lo puedes haber arrebatado con otra oferta mucho mayor!
+No le quites ojo a lo que va pasando en la subasta y menos si has ofrecido una cantidad que piensas que va a ser insuperable! Cuanto menos te lo esperes te lo pueden haber arrebatado con otra oferta mucho mayor!
 
 Puedes ver el tiempo restante de la subasta, el comprador que se llevaría la subasta si se finalizase y a qué precio, vía `/auc info`.
 

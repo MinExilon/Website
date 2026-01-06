@@ -1,7 +1,11 @@
 ---
 icon: lucide/bottle-wine
+status: unavailable
 ---
 # Bebidas, brebajes y mermeladas
+
+!!! warning "En desarrollo"
+    Este contenido está todavía en desarrollo, no se encuentra disponible en el servidor.
 
 Si quieres volverte un experto en el oficio de las bebidas no puedes perderte esta guía donde se detallan todos los aspectos de las diversas bebidas que hay en el servidor y la forma de crearlas!
 
