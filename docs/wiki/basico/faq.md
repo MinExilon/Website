@@ -85,6 +85,9 @@ A veces nos llegan las mismas dudas, por lo que los dejamos públicos en este ap
 
 ## Bugs conocidos
 
+??? bug "Me ha echado al lobby con el mensaje Failed  to encode packet clientbound/minecraft:set_player_team"
+    Es un bug relacionado con los tags, probablemente de la versión 1.21.11. Es algo que han experimentado varios jugadores y que no parece estar atribuido en un rango o VIP particular.
+
 ??? bug "El trabajo de granja no paga el cactus"
     Es un bug del plugin. El desarrollador del plugin está al tanto y se actualizará en una futura versión.
 
