@@ -54,3 +54,10 @@
 .tag-econ-votos::after {
   content: " ✉️";
 }
+
+.tag-econ-actividad {
+  background-color: rgb(111, 33, 160);
+}
+.tag-econ-actividad::after {
+  content: " 🤍";
+}

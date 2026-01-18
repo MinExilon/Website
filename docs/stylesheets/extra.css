@@ -81,3 +81,10 @@ body:has([href="."]) .md-main {
   width: 100%;
   /* border-radius: 0.5rem; */
 }
+
+/* Mobile */
+@media screen and (max-width: 60em) {
+  .grid-3 {
+    grid-template-columns: 1fr;
+  }
+}
