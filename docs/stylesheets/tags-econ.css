@@ -55,9 +55,9 @@
   content: " ✉️";
 }
 
-.tag-econ-actividad {
+.tag-econ-creditos {
   background-color: rgb(111, 33, 160);
 }
-.tag-econ-actividad::after {
+.tag-econ-creditos::after {
   content: " 🤍";
 }

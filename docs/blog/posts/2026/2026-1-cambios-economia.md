@@ -139,14 +139,14 @@ En cuanto a los kits de trabajo, se actualizarán las recetas para cobrar dracma
 Hemos visto que depender exclusivamente de páginas webs que a veces fallan, no es lo ideal en un sistema de progreso.
 Es por ello que se ha decidido incorporar otras vías por las que conseguir estos puntos.
 
-En vez de llamarse <span class="tag-econ-votos">puntos de voto</span>, pasarán a ser <span class="tag-econ-actividad">créditos</span> y se podrán conseguir de la siguiente manera:
+En vez de llamarse <span class="tag-econ-votos">puntos de voto</span>, pasarán a ser <span class="tag-econ-creditos">créditos</span> y se podrán conseguir de la siguiente manera:
 
 | Medio | Cantidad | Descripción |
 | :--- | :---: | :--- |
-| Votos en páginas | <span class="tag-econ-actividad">3</span><br>por voto | Queremos que siga siendo la forma más sencilla de adquirir los puntos, ya que aporta visibilidad al servidor. |
-| Niveles de trabajo | <span class="tag-econ-actividad">1</span><br>por nivel | Aporta una recompensa al ir progresando en los trabajos. |
-| Tiempo de actividad | <span class="tag-econ-actividad">1</span><br>cada 5h | Premia tu actividad en el servidor. |
-| Misiones diarias | <span class="tag-econ-actividad">2</span><br>cada día | Completa misiones diarias. ==*Futura actualización.*== |
+| Votos en páginas | <span class="tag-econ-creditos">3</span><br>por voto | Queremos que siga siendo la forma más sencilla de adquirir los puntos, ya que aporta visibilidad al servidor. |
+| Niveles de trabajo | <span class="tag-econ-creditos">1</span><br>por nivel | Aporta una recompensa al ir progresando en los trabajos. |
+| Tiempo de actividad | <span class="tag-econ-creditos">1</span><br>cada 5h | Premia tu actividad en el servidor. |
+| Misiones diarias | <span class="tag-econ-creditos">2</span><br>cada día | Completa misiones diarias. ==*Futura actualización.*== |
 
 También se mejorarán las recompensas mensuales, dejándolo en ítems solamente.
 
@@ -154,42 +154,42 @@ También se mejorarán las recompensas mensuales, dejándolo en ítems solamente
 
 Al ser solo tres trabajos, se limitarán los trabajos secundarios a uno en vez de dos, accesible en <span class="tag-vet-11"></span>
 
-Además, al tener ahora un mayor volumen de ingresos que el planificado en un inicio, se aumentarán los requisitos de <span class="tag-econ-dracmas"></span> y se escalarán los <span class="tag-econ-actividad"></span> necesarios (no se aumentan).
+Además, al tener ahora un mayor volumen de ingresos que el planificado en un inicio, se aumentarán los requisitos de <span class="tag-econ-dracmas"></span> y se escalarán los <span class="tag-econ-creditos"></span> necesarios (no se aumentan).
 
 A continuación se muestra la comparativa y algunos cambios de mejoras permanentes que se incluirán en esta actualización.
 
 | Veteranía | Coste previo de ascenso | Coste nuevo de ascenso | Otros cambios |
 | :---: | :---: | :---: | :--- |
-| <span class="tag-vet-1"></span> | <span class="tag-econ-dracmas">10.000</span><br><span class="tag-econ-votos">5</span> | <span class="tag-econ-dracmas">20.000</span><br><span class="tag-econ-actividad">10</span> |
-| <span class="tag-vet-2"></span> | <span class="tag-econ-dracmas">20.000</span><br><span class="tag-econ-votos">5</span> | <span class="tag-econ-dracmas">35.000</span><br><span class="tag-econ-actividad">15</span> |
-| <span class="tag-vet-3"></span> | <span class="tag-econ-dracmas">35.000</span><br><span class="tag-econ-votos">10</span> | <span class="tag-econ-dracmas">50.000</span><br><span class="tag-econ-actividad">20</span> |
-| <span class="tag-vet-4"></span> | <span class="tag-econ-dracmas">50.000</span><br><span class="tag-econ-votos">10</span> | <span class="tag-econ-dracmas">65.000</span><br><span class="tag-econ-actividad">25</span> |
-| <span class="tag-vet-5"></span> | <span class="tag-econ-dracmas">65.000</span><br><span class="tag-econ-votos">15</span> | <span class="tag-econ-dracmas">80.000</span><br><span class="tag-econ-actividad">30</span> |
-| <span class="tag-vet-6"></span> | <span class="tag-econ-dracmas">80.000</span><br><span class="tag-econ-votos">15</span> | <span class="tag-econ-dracmas">100.000</span><br><span class="tag-econ-actividad">35</span> |
-| <span class="tag-vet-7"></span> | <span class="tag-econ-dracmas">100.000</span><br><span class="tag-econ-votos">20</span> | <span class="tag-econ-dracmas">120.000</span><br><span class="tag-econ-actividad">40</span> |
-| <span class="tag-vet-8"></span> | <span class="tag-econ-dracmas">120.000</span><br><span class="tag-econ-votos">20</span> | <span class="tag-econ-dracmas">140.000</span><br><span class="tag-econ-actividad">45</span> | <span style="color:green">Acceso a las licencias falsas de tienda.</span> |
-| <span class="tag-vet-9"></span> | <span class="tag-econ-dracmas">150.000</span><br><span class="tag-econ-votos">25</span> | <span class="tag-econ-dracmas">170.000</span><br><span class="tag-econ-actividad">50</span> |
-| <span class="tag-vet-10"></span> | <span class="tag-econ-dracmas">200.000</span><br><span class="tag-econ-votos">25</span> | <span class="tag-econ-dracmas">200.000</span><br><span class="tag-econ-actividad">60</span> |
-| <span class="tag-vet-11"></span> | <span class="tag-econ-dracmas">220.000</span><br><span class="tag-econ-votos">30</span> | <span class="tag-econ-dracmas">230.000</span><br><span class="tag-econ-actividad">70</span> |
-| <span class="tag-vet-12"></span> | <span class="tag-econ-dracmas">250.000</span><br><span class="tag-econ-votos">30</span> | <span class="tag-econ-dracmas">260.000</span><br><span class="tag-econ-actividad">80</span> |
-| <span class="tag-vet-13"></span> | <span class="tag-econ-dracmas">300.000</span><br><span class="tag-econ-votos">35</span> | <span class="tag-econ-dracmas">300.000</span><br><span class="tag-econ-actividad">90</span> | <span style="color:green">Acceso a las licencias oficiales de tienda.</span> |
-| <span class="tag-vet-14"></span> | <span class="tag-econ-dracmas">320.000</span><br><span class="tag-econ-votos">35</span> | <span class="tag-econ-dracmas">350.000</span><br><span class="tag-econ-actividad">100</span> |
-| <span class="tag-vet-15"></span> | <span class="tag-econ-dracmas">350.000</span><br><span class="tag-econ-votos">40</span> | <span class="tag-econ-dracmas">400.000</span><br><span class="tag-econ-actividad">115</span> |
-| <span class="tag-vet-16"></span> | <span class="tag-econ-dracmas">400.000</span><br><span class="tag-econ-votos">40</span> | <span class="tag-econ-dracmas">500.000</span><br><span class="tag-econ-actividad">130</span> |
-| <span class="tag-vet-17"></span> | <span class="tag-econ-dracmas">450.000</span><br><span class="tag-econ-votos">45</span> | <span class="tag-econ-dracmas">600.000</span><br><span class="tag-econ-actividad">145</span> |
-| <span class="tag-vet-18"></span> | <span class="tag-econ-dracmas">500.000</span><br><span class="tag-econ-votos">45</span> | <span class="tag-econ-dracmas">700.000</span><br><span class="tag-econ-actividad">160</span> |
-| <span class="tag-vet-19"></span> | <span class="tag-econ-dracmas">550.000</span><br><span class="tag-econ-votos">50</span> | <span class="tag-econ-dracmas">850.000</span><br><span class="tag-econ-actividad">180</span> |
-| <span class="tag-vet-20"></span> | <span class="tag-econ-dracmas">600.000</span><br><span class="tag-econ-votos">50</span> | <span class="tag-econ-dracmas">1.000.000</span><br><span class="tag-econ-actividad">200</span> |
-| <span class="tag-vet-21"></span> | <span class="tag-econ-dracmas">650.000</span><br><span class="tag-econ-votos">55</span> | <span class="tag-econ-dracmas">1.200.000</span><br><span class="tag-econ-actividad">220</span> |
-| <span class="tag-vet-22"></span> | <span class="tag-econ-dracmas">700.000</span><br><span class="tag-econ-votos">60</span> | <span class="tag-econ-dracmas">1.400.000</span><br><span class="tag-econ-actividad">240</span> |
-| <span class="tag-vet-23"></span> | <span class="tag-econ-dracmas">800.000</span><br><span class="tag-econ-votos">65</span> | <span class="tag-econ-dracmas">1.800.000</span><br><span class="tag-econ-actividad">260</span> | <span style="color:red">Se elimina el 2º trabajo secundario al tener solo tres jobs.</span> |
-| <span class="tag-vet-24"></span> | <span class="tag-econ-dracmas">900.000</span><br><span class="tag-econ-votos">70</span> | <span class="tag-econ-dracmas">2.000.000</span><br><span class="tag-econ-actividad">280</span> |
-| <span class="tag-vet-25"></span> | <span class="tag-econ-dracmas">1.000.000</span><br><span class="tag-econ-votos">75</span> | <span class="tag-econ-dracmas">2.300.000</span><br><span class="tag-econ-actividad">300</span> | <span style="color:green">Almacena experiencia en perlas de ender.</span> |
-| <span class="tag-vet-26"></span> | <span class="tag-econ-dracmas">1.200.000</span><br><span class="tag-econ-votos">80</span> | <span class="tag-econ-dracmas">2.600.000</span><br><span class="tag-econ-actividad">330</span> |
-| <span class="tag-vet-27"></span> | <span class="tag-econ-dracmas">1.400.000</span><br><span class="tag-econ-votos">85</span> | <span class="tag-econ-dracmas">3.000.000</span><br><span class="tag-econ-actividad">360</span> |
-| <span class="tag-vet-28"></span> | <span class="tag-econ-dracmas">2.000.000</span><br><span class="tag-econ-votos">90</span> | <span class="tag-econ-dracmas">3.500.000</span><br><span class="tag-econ-actividad">390</span> |
-| <span class="tag-vet-29"></span> | <span class="tag-econ-dracmas">2.500.000</span><br><span class="tag-econ-votos">95</span> | <span class="tag-econ-dracmas">4.000.000</span><br><span class="tag-econ-actividad">420</span> |
-| <span class="tag-vet-30"></span> | <span class="tag-econ-dracmas">3.000.000</span><br><span class="tag-econ-votos">100</span> | <span class="tag-econ-dracmas">5.000.000</span><br><span class="tag-econ-actividad">450</span> |
+| <span class="tag-vet-1"></span> | <span class="tag-econ-dracmas">10.000</span><br><span class="tag-econ-votos">5</span> | <span class="tag-econ-dracmas">20.000</span><br><span class="tag-econ-creditos">10</span> |
+| <span class="tag-vet-2"></span> | <span class="tag-econ-dracmas">20.000</span><br><span class="tag-econ-votos">5</span> | <span class="tag-econ-dracmas">35.000</span><br><span class="tag-econ-creditos">15</span> |
+| <span class="tag-vet-3"></span> | <span class="tag-econ-dracmas">35.000</span><br><span class="tag-econ-votos">10</span> | <span class="tag-econ-dracmas">50.000</span><br><span class="tag-econ-creditos">20</span> |
+| <span class="tag-vet-4"></span> | <span class="tag-econ-dracmas">50.000</span><br><span class="tag-econ-votos">10</span> | <span class="tag-econ-dracmas">65.000</span><br><span class="tag-econ-creditos">25</span> |
+| <span class="tag-vet-5"></span> | <span class="tag-econ-dracmas">65.000</span><br><span class="tag-econ-votos">15</span> | <span class="tag-econ-dracmas">80.000</span><br><span class="tag-econ-creditos">30</span> |
+| <span class="tag-vet-6"></span> | <span class="tag-econ-dracmas">80.000</span><br><span class="tag-econ-votos">15</span> | <span class="tag-econ-dracmas">100.000</span><br><span class="tag-econ-creditos">35</span> |
+| <span class="tag-vet-7"></span> | <span class="tag-econ-dracmas">100.000</span><br><span class="tag-econ-votos">20</span> | <span class="tag-econ-dracmas">120.000</span><br><span class="tag-econ-creditos">40</span> |
+| <span class="tag-vet-8"></span> | <span class="tag-econ-dracmas">120.000</span><br><span class="tag-econ-votos">20</span> | <span class="tag-econ-dracmas">140.000</span><br><span class="tag-econ-creditos">45</span> | <span style="color:green">Acceso a las licencias falsas de tienda.</span> |
+| <span class="tag-vet-9"></span> | <span class="tag-econ-dracmas">150.000</span><br><span class="tag-econ-votos">25</span> | <span class="tag-econ-dracmas">170.000</span><br><span class="tag-econ-creditos">50</span> |
+| <span class="tag-vet-10"></span> | <span class="tag-econ-dracmas">200.000</span><br><span class="tag-econ-votos">25</span> | <span class="tag-econ-dracmas">200.000</span><br><span class="tag-econ-creditos">60</span> |
+| <span class="tag-vet-11"></span> | <span class="tag-econ-dracmas">220.000</span><br><span class="tag-econ-votos">30</span> | <span class="tag-econ-dracmas">230.000</span><br><span class="tag-econ-creditos">70</span> |
+| <span class="tag-vet-12"></span> | <span class="tag-econ-dracmas">250.000</span><br><span class="tag-econ-votos">30</span> | <span class="tag-econ-dracmas">260.000</span><br><span class="tag-econ-creditos">80</span> |
+| <span class="tag-vet-13"></span> | <span class="tag-econ-dracmas">300.000</span><br><span class="tag-econ-votos">35</span> | <span class="tag-econ-dracmas">300.000</span><br><span class="tag-econ-creditos">90</span> | <span style="color:green">Acceso a las licencias oficiales de tienda.</span> |
+| <span class="tag-vet-14"></span> | <span class="tag-econ-dracmas">320.000</span><br><span class="tag-econ-votos">35</span> | <span class="tag-econ-dracmas">350.000</span><br><span class="tag-econ-creditos">100</span> |
+| <span class="tag-vet-15"></span> | <span class="tag-econ-dracmas">350.000</span><br><span class="tag-econ-votos">40</span> | <span class="tag-econ-dracmas">400.000</span><br><span class="tag-econ-creditos">115</span> |
+| <span class="tag-vet-16"></span> | <span class="tag-econ-dracmas">400.000</span><br><span class="tag-econ-votos">40</span> | <span class="tag-econ-dracmas">500.000</span><br><span class="tag-econ-creditos">130</span> |
+| <span class="tag-vet-17"></span> | <span class="tag-econ-dracmas">450.000</span><br><span class="tag-econ-votos">45</span> | <span class="tag-econ-dracmas">600.000</span><br><span class="tag-econ-creditos">145</span> |
+| <span class="tag-vet-18"></span> | <span class="tag-econ-dracmas">500.000</span><br><span class="tag-econ-votos">45</span> | <span class="tag-econ-dracmas">700.000</span><br><span class="tag-econ-creditos">160</span> |
+| <span class="tag-vet-19"></span> | <span class="tag-econ-dracmas">550.000</span><br><span class="tag-econ-votos">50</span> | <span class="tag-econ-dracmas">850.000</span><br><span class="tag-econ-creditos">180</span> |
+| <span class="tag-vet-20"></span> | <span class="tag-econ-dracmas">600.000</span><br><span class="tag-econ-votos">50</span> | <span class="tag-econ-dracmas">1.000.000</span><br><span class="tag-econ-creditos">200</span> |
+| <span class="tag-vet-21"></span> | <span class="tag-econ-dracmas">650.000</span><br><span class="tag-econ-votos">55</span> | <span class="tag-econ-dracmas">1.200.000</span><br><span class="tag-econ-creditos">220</span> |
+| <span class="tag-vet-22"></span> | <span class="tag-econ-dracmas">700.000</span><br><span class="tag-econ-votos">60</span> | <span class="tag-econ-dracmas">1.400.000</span><br><span class="tag-econ-creditos">240</span> |
+| <span class="tag-vet-23"></span> | <span class="tag-econ-dracmas">800.000</span><br><span class="tag-econ-votos">65</span> | <span class="tag-econ-dracmas">1.800.000</span><br><span class="tag-econ-creditos">260</span> | <span style="color:red">Se elimina el 2º trabajo secundario al tener solo tres jobs.</span> |
+| <span class="tag-vet-24"></span> | <span class="tag-econ-dracmas">900.000</span><br><span class="tag-econ-votos">70</span> | <span class="tag-econ-dracmas">2.000.000</span><br><span class="tag-econ-creditos">280</span> |
+| <span class="tag-vet-25"></span> | <span class="tag-econ-dracmas">1.000.000</span><br><span class="tag-econ-votos">75</span> | <span class="tag-econ-dracmas">2.300.000</span><br><span class="tag-econ-creditos">300</span> | <span style="color:green">Almacena experiencia en perlas de ender.</span> |
+| <span class="tag-vet-26"></span> | <span class="tag-econ-dracmas">1.200.000</span><br><span class="tag-econ-votos">80</span> | <span class="tag-econ-dracmas">2.600.000</span><br><span class="tag-econ-creditos">330</span> |
+| <span class="tag-vet-27"></span> | <span class="tag-econ-dracmas">1.400.000</span><br><span class="tag-econ-votos">85</span> | <span class="tag-econ-dracmas">3.000.000</span><br><span class="tag-econ-creditos">360</span> |
+| <span class="tag-vet-28"></span> | <span class="tag-econ-dracmas">2.000.000</span><br><span class="tag-econ-votos">90</span> | <span class="tag-econ-dracmas">3.500.000</span><br><span class="tag-econ-creditos">390</span> |
+| <span class="tag-vet-29"></span> | <span class="tag-econ-dracmas">2.500.000</span><br><span class="tag-econ-votos">95</span> | <span class="tag-econ-dracmas">4.000.000</span><br><span class="tag-econ-creditos">420</span> |
+| <span class="tag-vet-30"></span> | <span class="tag-econ-dracmas">3.000.000</span><br><span class="tag-econ-votos">100</span> | <span class="tag-econ-dracmas">5.000.000</span><br><span class="tag-econ-creditos">450</span> |
 
 ## Cuestiones
 
