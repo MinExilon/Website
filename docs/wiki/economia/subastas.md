@@ -1,6 +1,5 @@
 ---
 icon: lucide/coins
-status: new
 ---
 # Subastas
 
@@ -21,11 +20,11 @@ Para realizar una subasta debes ser <span class="tag-vet-7"></span> y poner lo s
 !!! example "Ejemplo: `/auc start 3 40 10 230 30`"
     Siendo cada parámetro lo siguiente:
 
-    - __Cantidad__: la cantidad de ítems que deseas subastar (si es un ítem único pon 1, esto sobre todo sirve si tienes un stack de un ítem pero solo quieres vender 20 piezas, por ejemplo).
-    - __Precio__: el precio inicial del ítem o conjunto de ítems que se ponen a la venta en la subasta.
-    - __Incremento__ (opcional): lo que se eleva el precio por defecto cuando alguien realiza una oferta con /bid. Ejemplo: <span class="tag-econ-dracmas">400</span> por una espada (y has añadido un incremento de <span class="tag-econ-dracmas">25</span>) , alguien realiza el `/bid` y la próxima oferta será de <span class="tag-econ-dracmas">425</span> si alguien pone otro `/bid`.
-    - __Autocomprar__ (opcional): si quieres que por una cierta cantidad de <span class="tag-econ-dracmas"></span> tu subasta finalice porque lo consideras un precio justo, puedes indicarlo en este parámetro. Cuando alguien ofrezca dicha cantidad, la subasta finalizará directamente realizándose el intercambio.
-    - __Tiempo__ (opcional): define el tiempo (en segundos) en la que la subasta andará activa.
+    - **Cantidad**: la cantidad de ítems que deseas subastar (si es un ítem único pon 1, esto sobre todo sirve si tienes un stack de un ítem pero solo quieres vender 20 piezas, por ejemplo).
+    - **Precio**: el precio inicial del ítem o conjunto de ítems que se ponen a la venta en la subasta.
+    - **Incremento** (opcional): lo que se eleva el precio por defecto cuando alguien realiza una oferta con /bid. Ejemplo: <span class="tag-econ-dracmas">400</span> por una espada (y has añadido un incremento de <span class="tag-econ-dracmas">25</span>) , alguien realiza el `/bid` y la próxima oferta será de <span class="tag-econ-dracmas">425</span> si alguien pone otro `/bid`.
+    - **Autocomprar** (opcional): si quieres que por una cierta cantidad de <span class="tag-econ-dracmas"></span> tu subasta finalice porque lo consideras un precio justo, puedes indicarlo en este parámetro. Cuando alguien ofrezca dicha cantidad, la subasta finalizará directamente realizándose el intercambio.
+    - **Tiempo** (opcional): define el tiempo (en segundos) en la que la subasta andará activa.
 
 ### Haz una subasta a ciegas
 La subasta a ciegas es igual que la subasta normal, sólo que las personas que participen en ella no verán quién ha sido el último que más a pujado por ella!

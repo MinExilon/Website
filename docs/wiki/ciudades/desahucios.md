@@ -1,6 +1,5 @@
 ---
 icon: lucide/luggage
-status: new
 ---
 # Procedimiento de Desahucios
 
