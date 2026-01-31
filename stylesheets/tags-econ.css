@@ -1,0 +1,63 @@
+[class^="tag-econ-"] {
+  color: white;
+  font-size: 0.85em;
+  padding: 0px 5px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.tag-econ-dracmas {
+  background-color: darkgoldenrod;
+}
+.tag-econ-dracmas::after {
+  content: " 🪙";
+}
+
+.tag-econ-gemas {
+  background-color: rgb(60, 60, 60);
+}
+.tag-econ-gemas::after {
+  content: " 💎";
+}
+
+.tag-econ-ramas {
+  background-color: rgb(121, 85, 72);
+}
+.tag-econ-ramas::after {
+  content: " 🌿";
+}
+
+.tag-econ-colmillos {
+  background-color: rgb(183, 31, 28);
+}
+.tag-econ-colmillos::after {
+  content: " 🦴";
+}
+
+.tag-econ-escamas {
+  background-color: rgb(18, 87, 165);
+}
+.tag-econ-escamas::after {
+  content: " 🐟";
+}
+
+.tag-econ-espigas {
+  background-color: rgb(27, 94, 32);
+}
+.tag-econ-espigas::after {
+  content: " 🌾";
+}
+
+.tag-econ-votos {
+  background-color: rgb(111, 33, 160);
+}
+.tag-econ-votos::after {
+  content: " ✉️";
+}
+
+.tag-econ-creditos {
+  background-color: rgb(111, 33, 160);
+}
+.tag-econ-creditos::after {
+  content: " 🤍";
+}
