@@ -74,8 +74,8 @@ body:has([href="."]) .md-main {
 .grid-3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-  align-items: start;
+  gap: 0.4rem;
+  margin: 1em 0px;
 }
 .grid-3 img {
   width: 100%;
@@ -87,4 +87,63 @@ body:has([href="."]) .md-main {
   .grid-3 {
     grid-template-columns: 1fr;
   }
+}
+
+/* ===== GRID ===== */
+.grid.cards.cubic {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.4rem;
+}
+
+/* Mobile */
+@media (max-width: 900px) {
+  .grid.cards.cubic {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ===== CARD ===== */
+.grid.cards.cubic > * {
+  background: var(--md-default-bg-color);
+  border-radius: 14px;
+  padding: 1.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  transition: 
+    transform .2s ease,
+    box-shadow .2s ease,
+    border-color .2s ease;
+}
+
+/* Hover */
+.grid.cards.cubic > *:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 28px rgba(0,0,0,.15);
+  border-color: var(--md-accent-fg-color);
+}
+
+/* ===== TÍTULO ===== */
+.grid.cards.cubic h4 {
+  font-size: 1.1rem;
+  margin: 0 0 .4rem;
+  text-align: center;
+}
+
+/* Icono grande */
+.grid.cards.cubic h4 span,
+.grid.cards.cubic h4 svg {
+  font-size: 1.8rem;
+  margin-bottom: .4rem;
+}
+
+/* Separador */
+.grid.cards.cubic hr {
+  margin: .4rem 0;
+  opacity: .15;
+}
+
+/* Texto */
+.grid.cards.cubic p {
+  text-align: center;
+  font-size: .7rem;
 }

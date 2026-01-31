@@ -1,5 +1,6 @@
 ---
 icon: lucide/vote
+status: new
 ---
 # Vota por MinExilon
 
@@ -29,22 +30,77 @@ También puedes consultar los enlaces dentro del servidor con el comando `/votar
 
 ## Recompensas de voto
 
-Cada vez que votas, consigues de <span class="tag-econ-dracmas">150</span> a <span class="tag-econ-dracmas">500</span> y <span class="tag-econ-votos">1</span>
+Cada vez que votas, consigues de <span class="tag-econ-dracmas">150</span> a <span class="tag-econ-dracmas">500</span> y <span class="tag-econ-creditos">3</span>
 
 Además, existe un sistema de objetivos mensuales, donde vas consiguiendo recompensas monetarias y objetos dependiendo de las veces que hayas votado en el mes.
 
-| Votos | Recompensa monetaria | Recompensa de objeto |
-| :---: | :---: | :--- |
-| 5 | <span class="tag-econ-gemas">1.000</span> <span class="tag-econ-ramas">1.000</span> <span class="tag-econ-colmillos">1.000</span> <span class="tag-econ-escamas">1.000</span> <span class="tag-econ-espigas">1.000</span> | 10 galletas |
-| 10 | <span class="tag-econ-dracmas">500</span> | 5 zanahorias doradas |
-| 15 | <span class="tag-econ-gemas">2.000</span> <span class="tag-econ-ramas">2.000</span> <span class="tag-econ-colmillos">2.000</span> <span class="tag-econ-escamas">2.000</span> <span class="tag-econ-espigas">2.000</span> | 2 diamantes |
-| 25 | <span class="tag-econ-dracmas">1.000</span> | 5 frascos de experiencia |
-| 35 | <span class="tag-econ-gemas">3.000</span> <span class="tag-econ-ramas">3.000</span> <span class="tag-econ-colmillos">3.000</span> <span class="tag-econ-escamas">3.000</span> <span class="tag-econ-espigas">3.000</span> | 2 manzanas doradas |
-| 50 | <span class="tag-econ-dracmas">3.500</span> | 1 tótem de la inmortalidad |
-| 65 | <span class="tag-econ-gemas">5.000</span> <span class="tag-econ-ramas">5.000</span> <span class="tag-econ-colmillos">5.000</span> <span class="tag-econ-escamas">5.000</span> <span class="tag-econ-espigas">5.000</span> | 1 esmeralda |
-| 80 | <span class="tag-econ-dracmas">10.000</span> | 1 cabeza de wither |
-| 100 | <span class="tag-econ-gemas">9.000</span> <span class="tag-econ-ramas">9.000</span> <span class="tag-econ-colmillos">9.000</span> <span class="tag-econ-escamas">9.000</span> <span class="tag-econ-espigas">9.000</span> | 1 lingote de netherita |
-| 125 | <span class="tag-econ-dracmas">25.000</span> | 1 ítem de reparación completa |
+<div class="grid cards cubic" markdown>
+
+-   ![Cabeza de Wither](https://minecraft.wiki/images/Wither_Skeleton_Skull_%28S%29_JE2.png?0a739){ width=64 }
+
+    **:lucide-vote:{ .lg .middle } 5 votos**
+    
+    Cabeza de Wither
+
+-   ![Llave de desafío ominosa](https://minecraft.wiki/images/Ominous_Trial_Key_JE1_BE1.png?56dd6){ width=64 }
+
+    **:lucide-vote:{ .lg .middle } 10 votos**
+    
+    Llave de desafío ominosa
+
+-   ![Lingote de Netherita](https://minecraft.wiki/images/Netherite_Ingot_JE1_BE2.png?79364){ width=64 }
+
+    **:lucide-vote:{ .lg .middle } 15 votos**
+    
+    Lingote de Netherita
+
+-   ![Boost 2](https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7d/Jump_Boost_JE2_BE2.png){ width=64 }
+
+    **:lucide-vote:{ .lg .middle } 25 votos**
+    
+    Boost 5% exp e ingresos durante 1 día
+
+-   ![Tótem de la Inmortalidad](https://minecraft.wiki/images/Totem_of_Undying_JE2_BE2.png?d56eb){ width=64 }
+
+    **:lucide-vote:{ .lg .middle } 35 votos**
+    
+    Tótem de la Inmortalidad
+
+-   ![Boost 2](https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7d/Jump_Boost_JE2_BE2.png){ width=64 }
+
+    **:lucide-vote:{ .lg .middle } 50 votos**
+    
+    Boost 7% exp e ingresos durante 1 día
+
+-   ![Caparazón de Shulker](https://minecraft.wiki/images/Shulker_Shell_JE2_BE2.png?f3027){ width=64 }
+
+    **:lucide-vote:{ .lg .middle } 65 votos**
+    
+    Caparazón de Shulker
+
+-   ![Manzana de Notch](https://minecraft.wiki/images/Enchanted_Golden_Apple_JE2_BE2.gif?f4719){ width=64 }
+
+    **:lucide-vote:{ .lg .middle } 80 votos**
+    
+    Manzana de Notch
+
+-   ![Boost 3](https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7d/Jump_Boost_JE2_BE2.png){ width=64 }
+
+    **:lucide-vote:{ .lg .middle } 100 votos**
+    
+    Boost 10% exp e ingresos durante 1 día
+
+-   ![Caja especial](https://minecraft.wiki/images/thumb/Chest.gif/150px-Chest.gif?ca959){ width=64 }
+
+    **:lucide-vote:{ .lg .middle } 125 votos**
+
+    Una caja aleatoria
+
+    ![](https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6f/Elytra_JE2_BE2.png){ width=24 }
+    ![](https://minecraft.wiki/images/Netherite_Upgrade_Smithing_Template_JE1_BE1.png?055f6){ width=24 }
+    ![](https://minecraft.wiki/images/Enchanted_Book.gif?b21c4){ width=24 }
+
+</div>
 
 ## Evento piñata
 
@@ -57,4 +113,70 @@ Cada 50 votos que se registren globalmente aparecerá una __piñata__ en el spaw
 
 Utiliza `/warp piñata` para ir a la zona de la piñata, donde podrás ver la información de los votos que faltan para la siguiente piñata.
 
-La vida de la piñata dependerá de la gente que esté en el servidor en el momento de su aparición. Cada vez que le golpeas, puede tener una probabilidad de soltarte objetos especiales. Al terminar la piñata, recibirás también otro premio por haber participado en ella.
+La vida de la piñata dependerá de la gente que esté en el servidor en el momento de su aparición. Cada vez que le golpeas, te dará diversos dulces decorativos y puede soltar también objetos especiales como los mostrados a continuación. Al terminar la piñata, recibirás también otro premio por haber participado en ella.
+
+<div class="grid cards cubic" markdown>
+
+-   ![Cohetes](https://minecraft.wiki/images/thumb/Firework_Rocket_JE2_BE2.png/150px-Firework_Rocket_JE2_BE2.png?fa5d7){ width=64 }
+
+    Cohetes
+
+-   ![Cobre](https://minecraft.wiki/images/Raw_Copper_JE3_BE2.png?61c79){ width=64 }
+
+    Cobre
+
+-   ![Hierro](https://minecraft.wiki/images/Raw_Iron_JE3_BE2.png?de3cd){ width=64 }
+
+    Hierro
+
+-   ![Oro](https://minecraft.wiki/images/Raw_Gold_JE3_BE2.png?749e1){ width=64 }
+
+    Oro
+
+-   ![Zanahorias Doradas](https://minecraft.wiki/images/Golden_Carrot_JE4_BE2.png?43b25){ width=64 }
+
+    Zanahorias Doradas
+
+-   ![Diamante](https://minecraft.wiki/images/Diamond_JE3_BE3.png?99d00){ width=64 }
+
+    Diamantes
+
+-   ![Esmeralda](https://minecraft.wiki/images/Emerald_JE3_BE3.png?4c5f3){ width=64 }
+
+    Esmeraldas
+
+-   ![Manzana Dorada](https://minecraft.wiki/images/Golden_Apple_JE2_BE2.png?aa827){ width=64 }
+
+    Manzana Dorada
+
+-   ![Pata de Conejo](https://minecraft.wiki/images/Rabbit%27s_Foot_JE3_BE2.png?2bf0f){ width=64 }
+
+    Pata de Conejo
+
+-   ![Tótem de la Inmortalidad](https://minecraft.wiki/images/Totem_of_Undying_JE2_BE2.png?d56eb){ width=64 }
+
+    Tótem de la Inmortalidad
+
+-   ![Netherita](https://minecraft.wiki/images/Netherite_Scrap_JE2_BE1.png?ef2a4){ width=64 }
+
+    Netherita
+
+-   ![Caparazón de Shulker](https://minecraft.wiki/images/Shulker_Shell_JE2_BE2.png?f3027){ width=64 }
+
+    Caparazón de Shulker
+
+-   ![Cincel para ánforas](https://minecraft.wiki/images/Brush_JE1_BE1.png?fd417){ width=64 }
+
+    Cinceles para abrir Ánforas
+
+-   ![Kits](https://minecraft.wiki/images/Miner_Pottery_Sherd_JE1_BE1.png?418c2){ width=64 }
+
+    Kits de trabajo
+
+-   ####<span class="tag-econ-creditos"></span>
+
+    Créditos
+
+</div>
+
+
