@@ -22,6 +22,8 @@ Para votar debes entrar en las páginas web donde se ha registrado el servidor d
 
 -   [:lucide-vote:{ .lg .middle } &nbsp; __TOPG__](https://topg.org/es/servidores-de-minecraft/server-494011)
 
+-   [:lucide-vote:{ .lg .middle } &nbsp; __Mineservidores__](https://mineservidores.com/servidor-minexilon.327/votar)
+
 -   [:lucide-vote:{ .lg .middle } &nbsp; __40ServidoresMC__](https://www.40servidoresmc.es/minexilon)
 
 </div>
