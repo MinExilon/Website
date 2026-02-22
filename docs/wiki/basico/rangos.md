@@ -1,6 +1,5 @@
 ---
 icon: lucide/shield-user
-status: new
 ---
 # Rangos
 

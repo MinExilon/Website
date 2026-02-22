@@ -289,7 +289,11 @@ __Pasos para hacer una tienda__
 
 !!! info "Se requiere ser <span class="tag-vet-6"></span> o superior."
 
-!!! info "Apartado en construcción"
+1. Coloca un cofre en el plot.
+2. Ten el objeto que quieres gestionar en el cofre tienda en la mano.
+3. Apunta al cofre y crea el cofre tienda con `qs create <dracmas>` y sigue las indicaciones por chat.
+
+Para más información, puedes consultar la guía de [cofres tienda](../economia/cofres-tienda.md).
 
 ### Parcela tipo __embassy__
 > ¡Vende parcelas a otro nivel!

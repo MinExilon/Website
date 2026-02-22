@@ -1,6 +1,5 @@
 ---
 icon: lucide/vote
-status: new
 ---
 # Vota por MinExilon
 
