@@ -1,0 +1,30 @@
+/* Corrige el estilo de los iconos Lucide dentro de MkDocs Material */
+.md-icon svg.lucide,
+.md-icon .lucide,
+svg.lucide {
+  fill: none !important;
+  stroke: currentColor !important;
+  stroke-width: 2.5 !important;
+  stroke-linecap: round !important;
+  stroke-linejoin: round !important;
+}
+
+/* Iconos para status en páginas */
+:root {
+  --md-status--construction: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNvbnN0cnVjdGlvbi1pY29uIGx1Y2lkZS1jb25zdHJ1Y3Rpb24iPjxyZWN0IHg9IjIiIHk9IjYiIHdpZHRoPSIyMCIgaGVpZ2h0PSI4IiByeD0iMSIvPjxwYXRoIGQ9Ik0xNyAxNHY3Ii8+PHBhdGggZD0iTTcgMTR2NyIvPjxwYXRoIGQ9Ik0xNyAzdjMiLz48cGF0aCBkPSJNNyAzdjMiLz48cGF0aCBkPSJNMTAgMTQgMi4zIDYuMyIvPjxwYXRoIGQ9Im0xNCA2IDcuNyA3LjciLz48cGF0aCBkPSJtOCA2IDggOCIvPjwvc3ZnPg==");
+  --md-status--unavailable: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWJhbi1pY29uIGx1Y2lkZS1iYW4iPjxwYXRoIGQ9Ik00LjkyOSA0LjkyOSAxOS4wNyAxOS4wNzEiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjwvc3ZnPg==");
+}
+
+.md-status::after {
+  transform: translateY(-0.2em);
+}
+
+.md-status--construction::after {
+  mask-image: var(--md-status--construction);
+  -webkit-mask-image: var(--md-status--construction);
+}
+
+.md-status--unavailable::after {
+  mask-image: var(--md-status--unavailable);
+  -webkit-mask-image: var(--md-status--unavailable);
+}
