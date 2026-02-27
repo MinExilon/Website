@@ -1,5 +1,6 @@
 ---
 icon: lucide/shield-user
+status: new
 ---
 # Rangos
 
@@ -57,7 +58,7 @@ Para más información puedes acceder a la página de la tienda web.
 | Límite plots | | 15 | 20 | 30 |
 | Límite privados | | 200 | 500 | 1000 |
 | Límite cofres tienda | | 40 | 45 | 50 |
-| Límite warps | | - | 5 | 10 |
+| Límite warps | | 5 | 8 | 10 |
 | Límite plots creativo | | - | 4 | 6 |
 | Límite merges creativo | | - | 7 | 9 |
 | **PODERES** | | | | |
@@ -93,7 +94,7 @@ Hay un total de 30 rangos de veteranía, a continuación se muestra una tabla do
 !!! note "Las mejoras permanentes se te van sumando"
     En un rango superior sigues manteniendo las mejoras permanentes de los rangos inferiores superados.
 
-| Veteranía | Coste ascenso | Mejoras permanentes | :lucide-house:{ title="Homes" } :lucide-land-plot:{ title="Plots towny" } :lucide-ratio:{ title="Plots creativo" } :lucide-handbag:{ title="Cofres tienda" } :lucide-shield-x:{ title="Privados" } |
+| Veteranía | Coste ascenso | Mejoras permanentes | :lucide-house:{ title="Homes" } :lucide-shield-x:{ title="Privados" } :lucide-land-plot:{ title="Plots towny" } :lucide-handbag:{ title="Cofres tienda" } :lucide-map-pin:{ title="Warps" } :lucide-ratio:{ title="Plots creativo" } |
 | :---: | :---: | :--- | :---: |
 | <span class="tag-vet-1"></span> | <span class="tag-econ-dracmas">20.000</span><br><span class="tag-econ-creditos">15</span> | Ingresa a una ciudad | +1 :lucide-house:{ .middle title="home" } (total 2) |
 | <span class="tag-vet-2"></span> | <span class="tag-econ-dracmas">35.000</span><br><span class="tag-econ-creditos">20</span> | Participa en subastas y torneos de pesca | +1 :lucide-house:{ .middle title="home" } (total 3) |
@@ -103,25 +104,25 @@ Hay un total de 30 rangos de veteranía, a continuación se muestra una tabla do
 | <span class="tag-vet-6"></span> | <span class="tag-econ-dracmas">100.000</span><br><span class="tag-econ-creditos">50</span> | Crea plots tienda en la ciudad | +1 :lucide-land-plot:{ .middle title="plot towny" } (total 6)<br>+10 :lucide-handbag:{ .middle title="cofres tienda" } (total 10) |
 | <span class="tag-vet-7"></span> | <span class="tag-econ-dracmas">120.000</span><br><span class="tag-econ-creditos">60</span> | Puedes realizar subastas de ítems con `/auc` | +1 :lucide-house:{ .middle title="home" } (total 5)<br>+10 :lucide-shield-x:{ .middle title="privados" } (total 30) |
 | <span class="tag-vet-8"></span> | <span class="tag-econ-dracmas">140.000</span><br><span class="tag-econ-creditos">70</span> | Crea barriles pequeños para hacer bebidas<br>*(Próximamente)* | +5 :lucide-handbag:{ .middle title="cofres tienda" } (total 15) |
-| <span class="tag-vet-9"></span> | <span class="tag-econ-dracmas">170.000</span><br><span class="tag-econ-creditos">80</span> | Construye portones automáticos | |
+| <span class="tag-vet-9"></span> | <span class="tag-econ-dracmas">170.000</span><br><span class="tag-econ-creditos">80</span> | Construye portones automáticos | +1 :lucide-map-pin:{ .middle title="Warps" } (total 1) |
 | <span class="tag-vet-10"></span> | <span class="tag-econ-dracmas">200.000</span><br><span class="tag-econ-creditos">90</span> | `/back` para volver al sitio anterior | +1 :lucide-house:{ .middle title="home" } (total 6)<br>+10 :lucide-shield-x:{ .middle title="privados" } (total 40) |
 | <span class="tag-vet-11"></span> | <span class="tag-econ-dracmas">230.000</span><br><span class="tag-econ-creditos">100</span> | Ten un trabajo secundario | |
 | <span class="tag-vet-12"></span> | <span class="tag-econ-dracmas">260.000</span><br><span class="tag-econ-creditos">110</span> | `/craft` abre una mesa de crafteo | |
 | <span class="tag-vet-13"></span> | <span class="tag-econ-dracmas">300.000</span><br><span class="tag-econ-creditos">120</span> | | +1 :lucide-house:{ .middle title="home" } (total 7)<br>+10 :lucide-shield-x:{ .middle title="privados" } (total 50) |
 | <span class="tag-vet-14"></span> | <span class="tag-econ-dracmas">350.000</span><br><span class="tag-econ-creditos">130</span> | Crea barriles grandes para hacer bebidas<br>*(Próximamente)* | |
-| <span class="tag-vet-15"></span> | <span class="tag-econ-dracmas">400.000</span><br><span class="tag-econ-creditos">140</span> | Construye puentes automáticos | |
+| <span class="tag-vet-15"></span> | <span class="tag-econ-dracmas">400.000</span><br><span class="tag-econ-creditos">140</span> | Construye puentes automáticos | +1 :lucide-map-pin:{ .middle title="Warps" } (total 2) |
 | <span class="tag-vet-16"></span> | <span class="tag-econ-dracmas">500.000</span><br><span class="tag-econ-creditos">155</span> | | +1 :lucide-house:{ .middle title="home" } (total 8)<br>+10 :lucide-shield-x:{ .middle title="privados" } (total 60) |
 | <span class="tag-vet-17"></span> | <span class="tag-econ-dracmas">600.000</span><br><span class="tag-econ-creditos">170</span> | Crea plots embajada en la ciudad | +1 :lucide-land-plot:{ .middle title="plot towny" } (total 7)<br>+5 :lucide-handbag:{ .middle title="cofres tienda" } (total 20) |
 | <span class="tag-vet-18"></span> | <span class="tag-econ-dracmas">700.000</span><br><span class="tag-econ-creditos">185</span> | Modifica posturas de estandartes de armadura | |
 | <span class="tag-vet-19"></span> | <span class="tag-econ-dracmas">850.000</span><br><span class="tag-econ-creditos">200</span> | Usa el `/back` al morir para regresar | +1 :lucide-house:{ .middle title="home" } (total 9)<br>+10 :lucide-shield-x:{ .middle title="privados" } (total 70) |
 | <span class="tag-vet-20"></span> | <span class="tag-econ-dracmas">1.000.000</span><br><span class="tag-econ-creditos">220</span> | Crea una nación de ciudades en Exilon | +5 :lucide-handbag:{ .middle title="cofres tienda" } (total 25) |
-| <span class="tag-vet-21"></span> | <span class="tag-econ-dracmas">1.200.000</span><br><span class="tag-econ-creditos">240</span> | Construye ascensores | |
+| <span class="tag-vet-21"></span> | <span class="tag-econ-dracmas">1.200.000</span><br><span class="tag-econ-creditos">240</span> | Construye ascensores | +1 :lucide-map-pin:{ .middle title="Warps" } (total 3) |
 | <span class="tag-vet-22"></span> | <span class="tag-econ-dracmas">1.400.000</span><br><span class="tag-econ-creditos">260</span> | Usa el reloj para crear bebidas precisas<br>*(Próximamente)* | +1 :lucide-house:{ .middle title="home" } (total 10)<br>+10 :lucide-shield-x:{ .middle title="privados" } (total 80) |
 | <span class="tag-vet-23"></span> | <span class="tag-econ-dracmas">1.800.000</span><br><span class="tag-econ-creditos">280</span> | Ten dos trabajos secundarios | |
 | <span class="tag-vet-24"></span> | <span class="tag-econ-dracmas">2.000.000</span><br><span class="tag-econ-creditos">300</span> | `/condense` compacta ítems en bloques | +5 :lucide-handbag:{ .middle title="cofres tienda" } (total 30) |
 | <span class="tag-vet-25"></span> | <span class="tag-econ-dracmas">2.300.000</span><br><span class="tag-econ-creditos">330</span> | | +1 :lucide-land-plot:{ .middle title="plot towny" } (total 8)<br>+10 :lucide-shield-x:{ .middle title="privados" } (total 90) |
-| <span class="tag-vet-26"></span> | <span class="tag-econ-dracmas">2.600.000</span><br><span class="tag-econ-creditos">360</span> | | +1 :lucide-ratio:{ title="plot creativo" } (total 1) |
+| <span class="tag-vet-26"></span> | <span class="tag-econ-dracmas">2.600.000</span><br><span class="tag-econ-creditos">360</span> | | +1 :lucide-ratio:{ title="plot creativo" } (total 1)<br>+1 :lucide-map-pin:{ .middle title="Warps" } (total 4) |
 | <span class="tag-vet-27"></span> | <span class="tag-econ-dracmas">3.000.000</span><br><span class="tag-econ-creditos">390</span> | `/nick` para cambiarte el nombre | +1 :lucide-ratio:{ title="plot creativo" } (total 2) |
 | <span class="tag-vet-28"></span> | <span class="tag-econ-dracmas">3.500.000</span><br><span class="tag-econ-creditos">420</span> | No pierdes EXP al morir | +10 :lucide-shield-x:{ .middle title="privados" } (total 100) |
 | <span class="tag-vet-29"></span> | <span class="tag-econ-dracmas">4.000.000</span><br><span class="tag-econ-creditos">460</span> | Guarda tus ítems en cofre al morir | |
-| <span class="tag-vet-30"></span> | <span class="tag-econ-dracmas">5.000.000</span><br><span class="tag-econ-creditos">500</span> | `/fly` en ciudades | |
+| <span class="tag-vet-30"></span> | <span class="tag-econ-dracmas">5.000.000</span><br><span class="tag-econ-creditos">500</span> | `/fly` en ciudades | +1 :lucide-map-pin:{ .middle title="Warps" } (total 5) |

@@ -92,15 +92,8 @@ body:has([href="."]) .md-main {
 /* ===== GRID ===== */
 .grid.cards.cubic {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(min(100%,150px), 1fr));
   gap: 0.4rem;
-}
-
-/* Mobile */
-@media (max-width: 900px) {
-  .grid.cards.cubic {
-    grid-template-columns: repeat(3, 1fr);
-  }
 }
 
 /* ===== CARD ===== */
@@ -124,7 +117,7 @@ body:has([href="."]) .md-main {
 
 /* ===== TÍTULO ===== */
 .grid.cards.cubic h4 {
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   margin: 0 0 .4rem;
   text-align: center;
 }
