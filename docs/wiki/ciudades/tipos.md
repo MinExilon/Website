@@ -52,7 +52,6 @@ Sin embargo, el residente de la ciudad puede ofrecer embajadas.
 
 A diferencia de las ciudades públicas, estas ciudades solo tienen la categoría **Privada**, con unas limitaciones similares a las categorías de **Pueblo** y **Poblado**:
 
-- Límite de parcelas de la ciudad: 1
 - Límite de parcelas bonus: 150
 - Límite de parcelas tipo tienda: 8
 - Límite de parcelas tipo embajada: 30
