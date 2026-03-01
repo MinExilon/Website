@@ -1,6 +1,5 @@
 ---
 icon: lucide/inbox
-status: new
 ---
 # Cofres de compra y venta de objetos
 

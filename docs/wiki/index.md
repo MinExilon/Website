@@ -52,6 +52,8 @@ Bienvenid@ a la biblioteca virtual de Alejandría. Aquí podrás consultar toda 
 
     [:lucide-coins:{ .middle } Subastas](./economia/subastas.md)
 
+    [:lucide-map-pin:{ .middle } Warps](./economia/pwarps.md)
+
 -   :lucide-building-2:{ .lg .middle } &nbsp; __Ciudades__
 
     ---

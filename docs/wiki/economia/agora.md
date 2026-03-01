@@ -1,6 +1,5 @@
 ---
 icon: lucide/store
-status: new
 ---
 # La ciudadela Ágora
 
